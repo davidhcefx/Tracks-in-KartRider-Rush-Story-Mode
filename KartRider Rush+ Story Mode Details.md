@@ -1,15 +1,16 @@
-> - \# of completed themes: 2
-> - \# of incomplete themes: 58
+> - \# of completed themes: 7
+> - \# of incomplete themes: 53
 > - Mode abbreviations:
 >   - B: Barricade Buster
 >   - C: Chase
->   - E: Elimination Race
+>   - Em: Elimination Race
+>   - Esc: Escape
 >   - F: Infini-Boost
 >   - I: Item Race
 >   - L: Collection Race
 >   - R: Rainbow Gates
 >   - S: Speed Race
->   - T: Timed Race
+>   - T: Timed Race / Timed Trail
 > - Tracklist (Maps):
 >   - https://strategywiki.org/wiki/Crazyracing_Kartrider/Tracks
 >   - https://www.reddit.com/r/Kartrider/comments/go4v6u/is_there_a_complete_tracklist_written_down/
@@ -34,35 +35,35 @@
 - 3-3: Shanghai Noon (China) (S)
 - 3-4: Downtown Dubai (World) (C)
 - 3-5: Mediea's Hidaway (Block) (I)
-- 3-6: Singapore Circuit (WKC) (E)
+- 3-6: Singapore Circuit (WKC) (Em)
 # Theme 4
-- 4-1
-- 4-2
-- 4-3
-- 4-4
-- 4-5
-- 4-6
+- 4-1: Paris Grand Prix (World) (S)
+- 4-2: Bridge Run (Beach) (T)
+- 4-3: Huangshan Highway (China) (F)
+- 4-4: The Great Wall (Village) (Em)
+- 4-5: Up 'N' Down (Village) (T)
+- 4-6: Dragon Canal (China) (S)
 # Theme 5
-- 5-1
-- 5-2
-- 5-3
-- 5-4
-- 5-5
-- 5-6
+- 5-1: Beguy Market (Desert) (I)
+- 5-2: Handy Harbor (Village) (F)
+- 5-3: Downtown Dubai (World) (Em)
+- 5-4: Specter Pass (Tomb) (C)
+- 5-5: Boombeard's Hideout (Pirate) (T)
+- 5-6: Hidden Treasure (Pirate) (S)
 # Theme 6
-- 6-1
-- 6-2
-- 6-3
-- 6-4
-- 6-5
-- 6-6
+- 6-1: Panda Paradice (Forest) (T)
+- 6-2: Handy Harbor (Village) (S)
+- 6-3: Outer Orbiter (Northeu) (C)
+- 6-4: Mile High Motorway (Northeu) (I)
+- 6-5: Rio Downhill (World) (Esc)
+- 6-6: Secret Basement (Castle) (T)
 # Theme 7
-- 7-1
-- 7-2
-- 7-3
-- 7-4
-- 7-5
-- 7-6
+- 7-1: Pharoah's Pass (Desert) (S)
+- 7-2: Brazil Circuit (WKC) (T)
+- 7-3: Outer Orbiter (Northeu) (Em)
+- 7-4: Large Hot Rod Collider (Brodi) (I)
+- 7-5: Rio Downhill (World) (F)
+- 7-6: Twirling Construction Site (Desert) (T)
 # Theme 8
 - 8-1
 - 8-2
