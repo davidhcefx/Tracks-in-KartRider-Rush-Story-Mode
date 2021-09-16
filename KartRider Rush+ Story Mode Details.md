@@ -1,6 +1,7 @@
-> | Completed themes | Incomplete themes | Modes |
-> | ---------------- | ----------------- | ----- |
-> | 0                | 60                | T: Timed Race |
+> # of completed themes: 0
+> # of incomplete themes: 60
+> Abbreviations fo the modes:
+> - T: Timed Race
 
 # Theme 1
 - 1-1: Canal (Village) (T)
