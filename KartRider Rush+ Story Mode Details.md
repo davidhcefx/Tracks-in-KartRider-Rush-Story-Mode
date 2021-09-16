@@ -14,6 +14,7 @@
 >   - R: Rainbow Gates
 >   - S: Speed Race
 >   - T: Timed Race / Timed Trail
+> - Theme 9 ~ 32 is based on [this page](https://forum.gamer.com.tw/C.php?bsn=36872&snA=2936), please correct me if there are some mistakes.
 
 # Theme 1
 - 1-1: Canal (Village) (T)
@@ -435,5 +436,3 @@
 - 60-4: (S)
 - 60-5: (I)
 - 60-6: (S)
-
-> Theme 9 ~ 32 is based on [this page](https://forum.gamer.com.tw/C.php?bsn=36872&snA=2936), please correct me if there are mistakes.
