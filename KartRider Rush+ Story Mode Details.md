@@ -1,11 +1,15 @@
-> - \# of completed themes: 0
-> - \# of incomplete themes: 60
+> - \# of completed themes: 2
+> - \# of incomplete themes: 58
 > - Mode abbreviations:
->   - T: Timed Race
->   - C: Collection Race
->   - I: Item Race
->   - S: Speed Race
 >   - B: Barricade Buster
+>   - C: Chase
+>   - E: Elimination Race
+>   - F: Infini-Boost
+>   - I: Item Race
+>   - L: Collection Race
+>   - R: Rainbow Gates
+>   - S: Speed Race
+>   - T: Timed Race
 > - Tracklist (Maps):
 >   - https://strategywiki.org/wiki/Crazyracing_Kartrider/Tracks
 >   - https://www.reddit.com/r/Kartrider/comments/go4v6u/is_there_a_complete_tracklist_written_down/
@@ -13,24 +17,24 @@
 # Theme 1
 - 1-1: Canal (Village) (T)
 - 1-2: Specter Pass (Tomb) (T)
-- 1-3: Large Hot Rod Collider (Brodi) (C)
+- 1-3: Large Hot Rod Collider (Brodi) (L)
 - 1-4: Lumberjack Lane (Forest) (I)
 - 1-5: Up 'N' Down (Village) (B)
 - 1-6: Formula 51 (Northeu) (S)
 # Theme 2
-- 2-1
-- 2-2
-- 2-3
-- 2-4
-- 2-5
-- 2-6
+- 2-1: ???
+- 2-2: Shark's Tomb (Ice) (I)
+- 2-3: Canal (Village) (R)
+- 2-4: Paris Grand Prix (World) (L)
+- 2-5: Singapore Circuit (WKC) (T)
+- 2-6: Up 'N' Down (Village) (F)
 # Theme 3
-- 3-1
-- 3-2
-- 3-3
-- 3-4
-- 3-5
-- 3-6
+- 3-1: Mile High Motorway (Northeu) (S)
+- 3-2: Pharoah's Pass (Desert) (T)
+- 3-3: Shanghai Noon (China) (S)
+- 3-4: Downtown Dubai (World) (C)
+- 3-5: Mediea's Hidaway (Block) (I)
+- 3-6: Singapore Circuit (WKC) (E)
 # Theme 4
 - 4-1
 - 4-2
