@@ -1,6 +1,6 @@
-> Last update: Theme 60
-> | n | a |
+> | Completed themes | Incompleted themes |
 > | -- | -- |
+> | 0  | 60 |
 
 # Theme 1
 - 1-1
