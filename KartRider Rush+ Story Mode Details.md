@@ -1,6 +1,5 @@
 > | Completed themes | Incompleted themes |
 
-> | | |
 > | -- | -- |
 > | 0  | 60 |
 
