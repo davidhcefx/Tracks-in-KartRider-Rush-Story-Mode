@@ -1,5 +1,5 @@
-> - \# of completed themes: 7
-> - \# of incomplete themes: 53
+> - Number of completed themes: 7
+> - Number of incomplete themes: 53
 > - Tracklist (Maps):
 >   - https://strategywiki.org/wiki/Crazyracing_Kartrider/Tracks
 >   - https://www.reddit.com/r/Kartrider/comments/go4v6u/is_there_a_complete_tracklist_written_down/
