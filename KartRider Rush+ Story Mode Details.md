@@ -2,14 +2,21 @@
 > - \# of incomplete themes: 60
 > - Mode abbreviations:
 >   - T: Timed Race
+>   - C: Collection Race
+>   - I: Item Race
+>   - S: Speed Race
+>   - B: Barricade Buster
+> - Tracklist (Maps):
+>   - https://strategywiki.org/wiki/Crazyracing_Kartrider/Tracks
+>   - https://www.reddit.com/r/Kartrider/comments/go4v6u/is_there_a_complete_tracklist_written_down/
 
 # Theme 1
 - 1-1: Canal (Village) (T)
-- 1-2
-- 1-3
-- 1-4
-- 1-5
-- 1-6
+- 1-2: Specter Pass (Tomb) (T)
+- 1-3: Large Hot Rod Collider (Brodi) (C)
+- 1-4: Lumberjack Lane (Forest) (I)
+- 1-5: Up 'N' Down (Village) (B)
+- 1-6: Formula 51 (Northeu) (S)
 # Theme 2
 - 2-1
 - 2-2
