@@ -1,5 +1,5 @@
-> - Number of completed themes: 8
-> - Number of incomplete themes: 52
+> - Number of completed themes: 12
+> - Number of incomplete themes: 48
 > - Tracklist (Maps):
 >   - https://strategywiki.org/wiki/Crazyracing_Kartrider/Tracks
 >   - https://www.reddit.com/r/Kartrider/comments/go4v6u/is_there_a_complete_tracklist_written_down/
@@ -296,33 +296,33 @@
 - 40-5:
 - 40-6:
 # Theme 41
-- 41-1: (T)
-- 41-2: (C)
-- 41-3: (S)
-- 41-4: (Esc)
-- 41-5: (F)
-- 41-6: (S)
+- 41-1: Formula 51 (Northeu) (T)
+- 41-2: Namsan Tour (Village) (C)
+- 41-3: Outer Orbiter (Northeu) (S)
+- 41-4: Louis' Study (Castle) (Esc)
+- 41-5: Mile High Motorway (Northeu) (F)
+- 41-6: Cosmic Canyon (Northeu) (S)
 # Theme 42
-- 42-1: (Esc)
-- 42-2: (C)
-- 42-3: (T)
-- 42-4: (C)
-- 42-5: (T)
-- 42-6: (I)
+- 42-1: Formula 51 (Northeu) (Esc)
+- 42-2: The Forgotten City (Mechanic) (C)
+- 42-3: Power Core (Brodi) (T)
+- 42-4: Large Hot Rod Collider (Brodi) (C)
+- 42-5: Mysterious Lab (Brodi) (T)
+- 42-6: Jump Point (Northeu) (I)
 # Theme 43
-- 43-1: (T)
-- 43-2: (R)
-- 43-3: (F)
-- 43-4: (Em)
-- 43-5: (I)
-- 43-6: (Esc)
+- 43-1: Golden Coordinates (Gold) (T)
+- 43-2: Water Aerodrome (Beach) (R)
+- 43-3: Mysterious Lab (Brodi) (F)
+- 43-4: Jump Point (Northeu) (Em)
+- 43-5: Mile High Motorway (Northeu) (I)
+- 43-6: Jump Point Reverse (Northeu) (Esc)
 # Theme 44
-- 44-1: (R)
-- 44-2: (F)
-- 44-3: (T)
-- 44-4: (S)
-- 44-5: (T)
-- 44-6: (S)
+- 44-1: Large Hot Rod Collider (Brodi) (R)
+- 44-2: Unfinished Zone 5 (Factory) (F)
+- 44-3: Up 'N' Down (Village) (T)
+- 44-4: Golden Coordinates (Gold) (S)
+- 44-5: Jump Point Reverse (Northeu) (T)
+- 44-6: Cosmic Canyon (Northeu) (S)
 # Theme 45
 - 45-1: (S)
 - 45-2:
