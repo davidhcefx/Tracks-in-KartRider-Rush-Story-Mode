@@ -65,12 +65,12 @@
 - 7-5: Rio Downhill (World) (F)
 - 7-6: Twirling Construction Site (Desert) (T)
 # Theme 8
-- 8-1: (T)
-- 8-2: (Em)
-- 8-3: (F)
-- 8-4: (C)
-- 8-5: (S)
-- 8-6: (T)
+- 8-1: Handy Harbor (Village) (T)
+- 8-2: Bridge Run (Beach) (Em)
+- 8-3: The Forgotten City (Mechanic) (F)
+- 8-4: Lumberjack Lane (Forest) (C)
+- 8-5: Steamfunk Factory (1920) (S)
+- 8-6: Unfinished Zone 5 (Factory) (T)
 # Theme 9
 - 9-1: (Esc)
 - 9-2:
