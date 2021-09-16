@@ -72,173 +72,173 @@
 - 8-5: Steamfunk Factory (1920) (S)
 - 8-6: Unfinished Zone 5 (Factory) (T)
 # Theme 9
-- 9-1: (Esc)
-- 9-2:
-- 9-3:
-- 9-4:
-- 9-5:
-- 9-6:
+- 9-1: Secrets of the Temple (Fairy) (Esc)
+- 9-2: Paris Grand Prix (World) (?)
+- 9-3: Formula 51 (Northeu) (?)
+- 9-4: Cubeville Heights (Block) (?)
+- 9-5: Terracotta Twister (China) (?)
+- 9-6: Dinosaur Arena (Jurassic) (?)
 # Theme 10
-- 10-1:
-- 10-2:
-- 10-3:
-- 10-4:
-- 10-5:
-- 10-6:
+- 10-1: Steamfunk Aerodrome (1920) (?)
+- 10-2: Canal (Village) (?)
+- 10-3: Korea Circuit (WKC) (?)
+- 10-4: 360 Tower (Park) (?)
+- 10-5: Beguy Market (Desert) (?)
+- 10-6: Hidden Treasure (Pirate) (?)
 # Theme 11
-- 11-1:
-- 11-2:
-- 11-3:
-- 11-4:
-- 11-5:
-- 11-6:
+- 11-1: Up 'n' Down (Village) (?)
+- 11-2: Cubeville Heights (Block) (?)
+- 11-3: Secret Basement (Castle) (?)
+- 11-4: Boombeard's Hideout (Pirate) (?)
+- 11-5: Rio Downhill (World) (?)
+- 11-6: Secrets of the Temple (Fairy) (?)
 # Theme 12
-- 12-1:
-- 12-2:
-- 12-3:
-- 12-4:
-- 12-5:
-- 12-6:
+- 12-1: Shanghai Noon (China) (?)
+- 12-2: Outer Orbiter (Northeu) (?)
+- 12-3: Specter Pass (Tomb) (?)
+- 12-4: Corkscrew (Beach) (?)
+- 12-5: Steamfunk Aerodrome (1920) (?)
+- 12-6: Cosmic Canyon (Northeu) (?)
 # Theme 13
-- 13-1:
-- 13-2:
-- 13-3:
-- 13-4:
-- 13-5:
-- 13-6:
+- 13-1: The Forgotten City (Mechanic) (?)
+- 13-2: Water Aerodrome (Beach) (?)
+- 13-3: Twin Gates (Village) (?)
+- 13-4: Pharoah's Pass (Desert) (?)
+- 13-5: Cemetery Circuit (Tomb) (?)
+- 13-6: London Nights (World) (?)
 # Theme 14
-- 14-1:
-- 14-2:
-- 14-3:
-- 14-4:
-- 14-5:
-- 14-6:
+- 14-1: Kartland Park (Fairy) (?)
+- 14-2: The Gate Of The Wonderland (Storybook) (?)
+- 14-3: Steamfunk Aerodrome (1920) (?)
+- 14-4: Power Core (Brodi) (?)
+- 14-5: The Great Wall (Village) (?)
+- 14-6: Rainslick Raceway (Moonhill) (?)
 # Theme 15
-- 15-1: (T)
-- 15-2:
-- 15-3:
-- 15-4:
-- 15-5:
-- 15-6:
+- 15-1: Secrets of the Temple (Fairy) (T)
+- 15-2: Kartland Park (Fairy) (?)
+- 15-3: Formula 51 (Northeu) (?)
+- 15-4: Water Aerodrome (Beach) (?)
+- 15-5: Canopy Curve (Forest) (?)
+- 15-6: The Gate Of The Wonderland (Storybook) (?)
 # Theme 16
-- 16-1:
-- 16-2:
-- 16-3:
-- 16-4:
-- 16-5:
-- 16-6:
+- 16-1: Secret Basement (Castle) (?)
+- 16-2: Canal (Village) (?)
+- 16-3: Twirling Construction Site (Desert) (?)
+- 16-4: Steamfunk Factory (1920) (?)
+- 16-5: Rainslick Raceway (Moonhill) (?)
+- 16-6: The Bridge Of Fate (Village) (?)
 # Theme 17
-- 17-1:
-- 17-2:
-- 17-3:
-- 17-4:
-- 17-5:
-- 17-6:
+- 17-1: Water Aerodrome (Beach) (?)
+- 17-2: Power Core (Brodi) (?)
+- 17-3: Cemetery Circuit (Tomb) (?)
+- 17-4: Namsan Tour (Village) (?)
+- 17-5: London Nights (World) (?)
+- 17-6: Huangshan Highway (China) (?)
 # Theme 18
-- 18-1:
-- 18-2:
-- 18-3:
-- 18-4:
-- 18-5:
-- 18-6:
+- 18-1: Brazil Circuit (WKC) (?)
+- 18-2: Dizzying Downhill (Forest) (?)
+- 18-3: Dinosaur Arena (Jurassic) (?)
+- 18-4: Panda Paradice (Forest) (?)
+- 18-5: Namsan Tour (Village) (?)
+- 18-6: Canopy Curve (Forest) (?)
 # Theme 19
-- 19-1:
-- 19-2:
-- 19-3:
-- 19-4:
-- 19-5:
-- 19-6:
+- 19-1: Huangshan Highway (China) (?)
+- 19-2: Large Hot Rod Collider (Brodi) (?)
+- 19-3: The Gate Of The Wonderland (Storybook) (?)
+- 19-4: Korea Circuit (WKC) (?)
+- 19-5: Cemetery Circuit (Tomb) (?)
+- 19-6: Dino Town (Jurassic) (?)
 # Theme 20
-- 20-1:
-- 20-2:
-- 20-3:
-- 20-4:
-- 20-5:
-- 20-6:
+- 20-1: 360 Tower (Park) (?)
+- 20-2: Corkscrew (Beach) (?)
+- 20-3: The Bridge Of Fate (Village) (?)
+- 20-4: Dino Town (Jurassic) (?)
+- 20-5: London Nights (World) (?)
+- 20-6: Zigzag Downhill (Mine) (?)
 # Theme 21
-- 21-1:
-- 21-2:
-- 21-3:
-- 21-4:
-- 21-5:
-- 21-6:
+- 21-1: The Great Wall (Village) (?)
+- 21-2: Boomhill Tunnel (Village) (?)
+- 21-3: Dangerous Volcano Jump Zone (Jurassic) (?)
+- 21-4: Tibetan Turnpike (China) (?)
+- 21-5: Cemetery Circuit (Tomb) (?)
+- 21-6: 360 Tower (Park) (?)
 # Theme 22
-- 22-1: (S)
-- 22-2:
-- 22-3:
-- 22-4:
-- 22-5:
-- 22-6:
+- 22-1: Corkscrew (Beach) (S)
+- 22-2: Terracotta Twister (China) (?)
+- 22-3: Tibetan Turnpike (China) (?)
+- 22-4: Greek Prix (World) (?)
+- 22-5: Boomhill Tunnel (Village) (?)
+- 22-6: Brazil Circuit (WKC) (?)
 # Theme 23
-- 23-1:
-- 23-2:
-- 23-3:
-- 23-4:
-- 23-5:
-- 23-6:
+- 23-1: London Nights (World) (?)
+- 23-2: Canopy Curve (Forest) (?)
+- 23-3: Checkered Flag Falls (Forest) (?)
+- 23-4: Brazil Circuit (WKC) (?)
+- 23-5: Korea Circuit (WKC) (?)
+- 23-6: Unfinished Zone 5 (Factory) (?)
 # Theme 24
-- 24-1:
-- 24-2:
-- 24-3:
-- 24-4:
-- 24-5:
-- 24-6:
+- 24-1: Twirling Construction Site (Desert) (?)
+- 24-2: Dino Town (Jurassic) (?)
+- 24-3: Shipping Lanes (Beach) (?)
+- 24-4: Korea Circuit (WKC) (?)
+- 24-5: Boombeard's Hideout (Pirate) (?)
+- 24-6: Cosmic Canyon (Northeu) (?)
 # Theme 25
-- 25-1:
-- 25-2:
-- 25-3:
-- 25-4:
-- 25-5:
-- 25-6:
+- 25-1: Greek Prix (World) (?)
+- 25-2: Namsan Tour (Village) (?)
+- 25-3: Training Center (Sword) (?)
+- 25-4: Checkered Flag Falls (Forest) (?)
+- 25-5: Hidden Treasure (Pirate) (?)
+- 25-6: Cemetery Circuit (Tomb) (?)
 # Theme 26
-- 26-1:
-- 26-2:
-- 26-3:
-- 26-4:
-- 26-5:
-- 26-6:
+- 26-1: Dangerous Volcano Jump Zone (Jurassic) (?)
+- 26-2: Steamfunk Factory (1920) (?)
+- 26-3: Dragon's Descent (Sword) (?)
+- 26-4: Huangshan Highway (China) (?)
+- 26-5: Twin Gates (Village) (?)
+- 26-6: Zigzag Downhill (Mine) (?)
 # Theme 27
-- 27-1:
-- 27-2:
-- 27-3:
-- 27-4:
-- 27-5:
-- 27-6:
+- 27-1: Training Center (Sword) (?)
+- 27-2: The Bridge Of Fate (Village) (?)
+- 27-3: Canopy Curve (Forest) (?)
+- 27-4: Shipping Lanes (Beach) (?)
+- 27-5: Brazil Circuit (WKC) (?)
+- 27-6: Dizzying Downhill (Forest) (?)
 # Theme 28
-- 28-1:
-- 28-2:
-- 28-3:
-- 28-4:
-- 28-5:
-- 28-6:
+- 28-1: Dragon's Descent (Sword) (?)
+- 28-2: Boomhill Tunnel (Village) (?)
+- 28-3: The Forgotten City (Mechanic) (?)
+- 28-4: Tibetan Turnpike (China) (?)
+- 28-5: Secret Basement (Castle) (?)
+- 28-6: Unfinished Zone 5 (Factory) (?)
 # Theme 29
-- 29-1: (T)
-- 29-2:
-- 29-3:
-- 29-4:
-- 29-5:
-- 29-6:
+- 29-1: Frost Valley (Ice) (T)
+- 29-2: Shanghai Nights (China) (?)
+- 29-3: Penguin Rock (Ice) (?)
+- 29-4: Greek Prix (World) (?)
+- 29-5: Crystal Quarry (Mine) (?)
+- 29-6: Demon King's Invitation (Tomb) (?)
 # Theme 30
-- 30-1:
-- 30-2:
-- 30-3:
-- 30-4:
-- 30-5:
-- 30-6:
+- 30-1: Dragon's Descent (Sword) (?)
+- 30-2: Lava Lane (Mine) (?)
+- 30-3: Iceberg Speedway (Ice) (?)
+- 30-4: Frost Valley (Ice) (?)
+- 30-5: Shark's Tomb (Ice) (?)
+- 30-6: Temple Of Vroom (Gold) (?)
 # Theme 31
-- 31-1:
-- 31-2:
-- 31-3:
-- 31-4:
-- 31-5:
-- 31-6:
+- 31-1: Dangerous Volcano Jump Zone (Jurassic) (?)
+- 31-2: Crystal Quarry (Mine) (?)
+- 31-3: Shark's Tomb (Ice) (?)
+- 31-4: Iceberg Speedway (Ice) (?)
+- 31-5: Penguin Rock (Ice) (?)
+- 31-6: Frost Valley (Ice) (?)
 # Theme 32
-- 32-1:
-- 32-2:
-- 32-3:
-- 32-4:
-- 32-5:
-- 32-6:
+- 32-1: Clock Tower (Village) (?)
+- 32-2: Temple Of Vroom (Gold) (?)
+- 32-3: Iceberg Speedway (Ice) (?)
+- 32-4: Tibetan Turnpike (China) (?)
+- 32-5: Shark's Tomb (Ice) (?)
+- 32-6: Demon King's Invitation (Tomb) (?)
 # Theme 33
 - 33-1: (T)
 - 33-2:
