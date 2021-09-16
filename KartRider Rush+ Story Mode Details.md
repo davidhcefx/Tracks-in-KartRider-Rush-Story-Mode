@@ -1,4 +1,4 @@
-> | Completed themes | Incompleted themes |
+> | Completed themes | Incomplete themes |
 > | -- | -- |
 > | 0  | 60 |
 
