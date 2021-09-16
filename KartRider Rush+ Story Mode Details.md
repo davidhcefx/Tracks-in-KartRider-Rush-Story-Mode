@@ -1,5 +1,5 @@
-> # of completed themes: 0
-> # of incomplete themes: 60
+> Number of completed themes: 0
+> Number of incomplete themes: 60
 > Abbreviations fo the modes:
 > - T: Timed Race
 
