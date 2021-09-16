@@ -1,6 +1,6 @@
-> - Number of completed themes: 0
-> - Number of incomplete themes: 60
-> - Abbreviations fo the modes:
+> - \# of completed themes: 0
+> - \# of incomplete themes: 60
+> - Mode abbreviations:
 >   - T: Timed Race
 
 # Theme 1
