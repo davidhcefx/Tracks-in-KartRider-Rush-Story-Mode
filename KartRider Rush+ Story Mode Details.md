@@ -1,5 +1,8 @@
 > - \# of completed themes: 7
 > - \# of incomplete themes: 53
+> - Tracklist (Maps):
+>   - https://strategywiki.org/wiki/Crazyracing_Kartrider/Tracks
+>   - https://www.reddit.com/r/Kartrider/comments/go4v6u/is_there_a_complete_tracklist_written_down/
 > - Mode abbreviations:
 >   - B: Barricade Buster
 >   - C: Chase
@@ -11,9 +14,6 @@
 >   - R: Rainbow Gates
 >   - S: Speed Race
 >   - T: Timed Race / Timed Trail
-> - Tracklist (Maps):
->   - https://strategywiki.org/wiki/Crazyracing_Kartrider/Tracks
->   - https://www.reddit.com/r/Kartrider/comments/go4v6u/is_there_a_complete_tracklist_written_down/
 
 # Theme 1
 - 1-1: Canal (Village) (T)
