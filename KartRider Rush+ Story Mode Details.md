@@ -434,8 +434,8 @@
 
 # Theme 53
 - 53-1: Checkered Flag Falls (Forest) (T)
-- 53-2: <黃金座標> (S)
-- 53-3: <危機四伏> (C)
+- 53-2: Golden Coordinates (Gold) (S)
+- 53-3: Boulder Dash (Gold) (C)
 - 53-4: Temple Of Vroom (Gold) (T)
 - 53-5: Falcon's Reach (Gold) (R)
 - 53-6: Dragon's Lake (China) (S)
@@ -453,11 +453,11 @@
 - 55-2: Ancient Ruins (Desert) (I)
 - 55-3: Twirling Construction Site (Desert) (C)
 - 55-4: Rio Downhill (World) (Em)
-- 55-5: <黃金座標> (T)
+- 55-5: Golden Coordinates (Gold) (T)
 - 55-6: Dino Boneyard (Jurassic) (S)
 
 # Theme 56
-- 56-1: <危機四伏> (Esc)
+- 56-1: Boulder Dash (Gold) (Esc)
 - 56-2: Temple Of Vroom (Gold) (Em)
 - 56-3: Lava Lane (Mine) (T)
 - 56-4: Crystal Quarry (Mine) (F)
@@ -466,8 +466,8 @@
 
 # Theme 57
 - 57-1: Checkered Flag Falls (Forest) (S)
-- 57-2: <森林游擊場> (S)
-- 57-3: <童話藍寶> (Esc)
+- 57-2: (森林游擊場?) (S)
+- 57-3: Beanstalk Raceway (Storybook) (Esc)
 - 57-4: Clock Tower (Village) (S)
 - 57-5: Lumberjack Lane (Forest) (R)
 - 57-6: The Gate Of The Wonderland (Storybook) (S)
@@ -477,21 +477,21 @@
 - 58-2: Demon King's Invitation (Tomb) (F)
 - 58-3: Crystal Quarry (Mine) (I)
 - 58-4: Lava Lane (Mine) (C)
-- 58-5: <木桶驚險跳躍> (T)
+- 58-5: (木桶驚險跳躍?) (T)
 - 58-6: Zigzag Downhill (Mine) (S)
 
 # Theme 59
 - 59-1: Boombeard's Hideout (Pirate) (S)
-- 59-2: <海盜要塞> (T)
+- 59-2: Pirate's Cay (Pirate) (T)
 - 59-3: Secrets Of The Temple (Fairy) (Em)
-- 59-4: <精靈木桶> (I)
-- 59-5: <海盜要塞> (C)
+- 59-4: Fairy Snail Pass (Fairy) (I)
+- 59-5: Pirate's Cay (Pirate) (C)
 - 59-6: Cubeville Heights (Block) (I)
 
 # Theme 60
 - 60-1: Secrets Of The Temple (Fairy) (F)
-- 60-2: <木桶驚險跳躍> (S)
-- 60-3: <精靈木桶> (I)
-- 60-4: <森林游擊場> (S)
+- 60-2: (木桶驚險跳躍?) (S)
+- 60-3: Fairy Snail Pass (Fairy) (I)
+- 60-4: (森林游擊場?) (S)
 - 60-5: Checkered Flag Falls (Forest) (I)
-- 60-6: Canopy Curve Reverse (Forest) (S)
+- 60-6: \[R\] Canopy Curve (Forest) (S)
