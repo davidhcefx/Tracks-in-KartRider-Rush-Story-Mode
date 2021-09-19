@@ -1,5 +1,5 @@
-> - Number of completed themes: 44
-> - Number of incomplete themes: 16
+> - Number of completed themes: 52
+> - Number of incomplete themes: 8
 > - Tracklist (Maps):
 >   - https://www.reddit.com/r/Kartrider/comments/go4v6u/is_there_a_complete_tracklist_written_down/
 >   - https://strategywiki.org/wiki/Crazyracing_Kartrider/Tracks
@@ -370,67 +370,67 @@
 
 # Theme 45
 - 45-1: 360 Tower (Park) (S)
-- 45-2:
-- 45-3:
-- 45-4:
-- 45-5:
-- 45-6:
+- 45-2: Clock Tower (Village) (T)
+- 45-3: Kartland Park (Storybook) (F)
+- 45-4: Beanstalk Raceway (Storybook) (R)
+- 45-5: Golden Coordinates (Gold) (T)
+- 45-6: Card Kingdom Maze (Storybook) (Em)
 
 # Theme 46
-- 46-1:
-- 46-2:
-- 46-3:
-- 46-4:
-- 46-5:
-- 46-6:
+- 46-1: Greek Prix (World) (I)
+- 46-2: [R] Up 'n' Down (Village) (Esc)
+- 46-3: Extreme Zone (Village) (T)
+- 46-4: Ice Lantern Road (China) (T)
+- 46-5: Lumberjack Lane (Forest) (I)
+- 46-6: The Gate Of The Wonderland (Storybook) (S)
 
 # Theme 47
-- 47-1:
-- 47-2:
-- 47-3:
-- 47-4:
-- 47-5:
-- 47-6:
+- 47-1: Card Kingdom Maze (Storybook) (F)
+- 47-2: Beanstalk Raceway (Storybook) (T)
+- 47-3: Kartland Park (Storybook) (L)
+- 47-4: Louie’s Study (Castle) (I)
+- 47-5: Checkered Flag Falls (Forest) (Em)
+- 47-6: Card Kingdom Maze (Storybook) (I)
 
 # Theme 48
-- 48-1:
-- 48-2:
-- 48-3:
-- 48-4:
-- 48-5:
-- 48-6:
+- 48-1: 360 Tower (Park) (R)
+- 48-2: Extreme Zone (Village) (Em)
+- 48-3: Louie's Dollhouse (Castle) (T)
+- 48-4: Kartland Park (Storybook) (I)
+- 48-5: [R] Up 'n' Down (Village) (B)
+- 48-6: Alleyway Sprint (China) (S)
 
 # Theme 49
 - 49-1: Twin Gates (Village) (T)
 - 49-2: New York Rally (World) (F)
-- 49-3:
-- 49-4:
-- 49-5:
-- 49-6:
+- 49-3: Shipping Lanes (Beach) (Em)
+- 49-4: Greek Prix (World) (L)
+- 49-5: Steamfunk Aerodrome (1920) (S)
+- 49-6: Paris Grand Prix (World) (T)
 
 # Theme 50
-- 50-1:
-- 50-2:
-- 50-3:
-- 50-4:
-- 50-5:
-- 50-6:
+- 50-1: Paris Eiffel Tower Dive (World) (F)
+- 50-2: Water Aerodrome (Beach) (I)
+- 50-3: Ancient Ruins (Desert) (C)
+- 50-4: London Nights (World) (R)
+- 50-5: Namsan Tour (Village) (B)
+- 50-6: Extreme Zone (Village) (T)
 
 # Theme 51
-- 51-1:
-- 51-2:
-- 51-3:
-- 51-4:
-- 51-5:
-- 51-6:
+- 51-1: Paris Eiffel Tower Dive (World) (T)
+- 51-2: Clock Tower (Village) (R)
+- 51-3: [R] Up 'n' Down (Village) (L)
+- 51-4: The Bridge Of Fate (Village) (Em)
+- 51-5: Extreme Zone (Village) (C)
+- 51-6: [R] Cemetery Circuit (Tomb) (I)
 
 # Theme 52
-- 52-1:
-- 52-2:
-- 52-3:
-- 52-4:
-- 52-5:
-- 52-6:
+- 52-1: Lava Lane (Mine) (T)
+- 52-2: Rio Downhill (World) (Em)
+- 52-3: Pharoah's Pass (Desert) (T)
+- 52-4: Ancient Ruins (Desert) (I)
+- 52-5: Downtown Dubai (World) (Em)
+- 52-6: New York Rally (World) (S)
 
 # Theme 53
 - 53-1: Checkered Flag Falls (Forest) (T)
