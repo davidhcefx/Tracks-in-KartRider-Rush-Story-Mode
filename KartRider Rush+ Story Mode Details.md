@@ -1,3 +1,5 @@
+# KartRider Rush+ Story Mode Details
+
 > - Number of completed themes: 52
 > - Number of incomplete themes: 8
 > - Tracklist (Maps):
