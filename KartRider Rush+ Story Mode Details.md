@@ -18,7 +18,7 @@
 >   - T: Timed Race / Timed Trail
 > - Theme 9 ~ 32 is based on [this page](https://forum.gamer.com.tw/C.php?bsn=36872&snA=2936), please correct me if there are some mistakes.
 
-### Theme 1
+## Theme 1
 - 1-1: Canal (Village) (T)
 - 1-2: Specter Pass (Tomb) (T)
 - 1-3: Large Hot Rod Collider (Brodi) (L)
@@ -26,7 +26,7 @@
 - 1-5: Up 'n' Down (Village) (B)
 - 1-6: Formula 51 (Northeu) (S)
 
-### Theme 2
+## Theme 2
 - 2-1: Bridge Run (Beach) (T)
 - 2-2: Shark's Tomb (Ice) (I)
 - 2-3: Canal (Village) (R)
@@ -34,7 +34,7 @@
 - 2-5: Singapore Circuit (WKC) (T)
 - 2-6: Up 'n' Down (Village) (F)
 
-### Theme 3
+## Theme 3
 - 3-1: Mile High Motorway (Northeu) (S)
 - 3-2: Pharoah's Pass (Desert) (T)
 - 3-3: Shanghai Noon (China) (S)
@@ -42,7 +42,7 @@
 - 3-5: Mediea's Hidaway (Block) (I)
 - 3-6: Singapore Circuit (WKC) (Em)
 
-### Theme 4
+## Theme 4
 - 4-1: Paris Grand Prix (World) (S)
 - 4-2: Bridge Run (Beach) (T)
 - 4-3: Huangshan Highway (China) (F)
@@ -50,7 +50,7 @@
 - 4-5: Up 'n' Down (Village) (T)
 - 4-6: Dragon Canal (China) (S)
 
-### Theme 5
+## Theme 5
 - 5-1: Beguy Market (Desert) (I)
 - 5-2: Handy Harbor (Village) (F)
 - 5-3: Downtown Dubai (World) (Em)
@@ -58,7 +58,7 @@
 - 5-5: Boombeard's Hideout (Pirate) (T)
 - 5-6: Hidden Treasure (Pirate) (S)
 
-### Theme 6
+## Theme 6
 - 6-1: Panda Paradice (Forest) (T)
 - 6-2: Handy Harbor (Village) (S)
 - 6-3: Outer Orbiter (Northeu) (C)
@@ -66,7 +66,7 @@
 - 6-5: Rio Downhill (World) (Esc)
 - 6-6: Secret Basement (Castle) (T)
 
-### Theme 7
+## Theme 7
 - 7-1: Pharoah's Pass (Desert) (S)
 - 7-2: Brazil Circuit (WKC) (T)
 - 7-3: Outer Orbiter (Northeu) (Em)
@@ -74,7 +74,7 @@
 - 7-5: Rio Downhill (World) (F)
 - 7-6: Twirling Construction Site (Desert) (T)
 
-### Theme 8
+## Theme 8
 - 8-1: Handy Harbor (Village) (T)
 - 8-2: Bridge Run (Beach) (Em)
 - 8-3: The Forgotten City (Mechanic) (F)
@@ -82,7 +82,7 @@
 - 8-5: Steamfunk Factory (1920) (S)
 - 8-6: Unfinished Zone 5 (Factory) (T)
 
-### Theme 9
+## Theme 9
 - 9-1: Secrets of the Temple (Fairy) (Esc)
 - 9-2: Paris Grand Prix (World) (?)
 - 9-3: Formula 51 (Northeu) (?)
@@ -90,7 +90,7 @@
 - 9-5: Terracotta Twister (China) (?)
 - 9-6: Dinosaur Arena (Jurassic) (?)
 
-### Theme 10
+## Theme 10
 - 10-1: Steamfunk Aerodrome (1920) (?)
 - 10-2: Canal (Village) (?)
 - 10-3: Korea Circuit (WKC) (?)
@@ -98,7 +98,7 @@
 - 10-5: Beguy Market (Desert) (?)
 - 10-6: Hidden Treasure (Pirate) (?)
 
-### Theme 11
+## Theme 11
 - 11-1: Up 'n' Down (Village) (?)
 - 11-2: Cubeville Heights (Block) (?)
 - 11-3: Secret Basement (Castle) (?)
@@ -106,7 +106,7 @@
 - 11-5: Rio Downhill (World) (?)
 - 11-6: Secrets of the Temple (Fairy) (?)
 
-### Theme 12
+## Theme 12
 - 12-1: Shanghai Noon (China) (?)
 - 12-2: Outer Orbiter (Northeu) (?)
 - 12-3: Specter Pass (Tomb) (?)
@@ -114,7 +114,7 @@
 - 12-5: Steamfunk Aerodrome (1920) (?)
 - 12-6: Cosmic Canyon (Northeu) (?)
 
-### Theme 13
+## Theme 13
 - 13-1: The Forgotten City (Mechanic) (?)
 - 13-2: Water Aerodrome (Beach) (?)
 - 13-3: Twin Gates (Village) (?)
@@ -122,7 +122,7 @@
 - 13-5: Cemetery Circuit (Tomb) (?)
 - 13-6: London Nights (World) (?)
 
-### Theme 14
+## Theme 14
 - 14-1: Kartland Park (Fairy) (?)
 - 14-2: The Gate Of The Wonderland (Storybook) (?)
 - 14-3: Steamfunk Aerodrome (1920) (?)
@@ -130,7 +130,7 @@
 - 14-5: The Great Wall (Village) (?)
 - 14-6: Rainslick Raceway (Moonhill) (?)
 
-### Theme 15
+## Theme 15
 - 15-1: Secrets of the Temple (Fairy) (T)
 - 15-2: Kartland Park (Fairy) (?)
 - 15-3: Formula 51 (Northeu) (?)
@@ -138,7 +138,7 @@
 - 15-5: Canopy Curve (Forest) (?)
 - 15-6: The Gate Of The Wonderland (Storybook) (?)
 
-### Theme 16
+## Theme 16
 - 16-1: Secret Basement (Castle) (?)
 - 16-2: Canal (Village) (?)
 - 16-3: Twirling Construction Site (Desert) (?)
@@ -146,7 +146,7 @@
 - 16-5: Rainslick Raceway (Moonhill) (?)
 - 16-6: The Bridge Of Fate (Village) (?)
 
-### Theme 17
+## Theme 17
 - 17-1: Water Aerodrome (Beach) (?)
 - 17-2: Power Core (Brodi) (?)
 - 17-3: Cemetery Circuit (Tomb) (?)
@@ -154,7 +154,7 @@
 - 17-5: London Nights (World) (?)
 - 17-6: Huangshan Highway (China) (?)
 
-### Theme 18
+## Theme 18
 - 18-1: Brazil Circuit (WKC) (?)
 - 18-2: Dizzying Downhill (Forest) (?)
 - 18-3: Dinosaur Arena (Jurassic) (?)
@@ -162,7 +162,7 @@
 - 18-5: Namsan Tour (Village) (?)
 - 18-6: Canopy Curve (Forest) (?)
 
-### Theme 19
+## Theme 19
 - 19-1: Huangshan Highway (China) (?)
 - 19-2: Large Hot Rod Collider (Brodi) (?)
 - 19-3: The Gate Of The Wonderland (Storybook) (?)
@@ -170,7 +170,7 @@
 - 19-5: Cemetery Circuit (Tomb) (?)
 - 19-6: Dino Town (Jurassic) (?)
 
-### Theme 20
+## Theme 20
 - 20-1: 360 Tower (Park) (?)
 - 20-2: Corkscrew (Beach) (?)
 - 20-3: The Bridge Of Fate (Village) (?)
@@ -178,7 +178,7 @@
 - 20-5: London Nights (World) (?)
 - 20-6: Zigzag Downhill (Mine) (?)
 
-### Theme 21
+## Theme 21
 - 21-1: The Great Wall (Village) (?)
 - 21-2: Boomhill Tunnel (Village) (?)
 - 21-3: Dangerous Volcano Jump Zone (Jurassic) (?)
@@ -186,7 +186,7 @@
 - 21-5: Cemetery Circuit (Tomb) (?)
 - 21-6: 360 Tower (Park) (?)
 
-### Theme 22
+## Theme 22
 - 22-1: Corkscrew (Beach) (S)
 - 22-2: Terracotta Twister (China) (?)
 - 22-3: Tibetan Turnpike (China) (?)
@@ -194,7 +194,7 @@
 - 22-5: Boomhill Tunnel (Village) (?)
 - 22-6: Brazil Circuit (WKC) (?)
 
-### Theme 23
+## Theme 23
 - 23-1: London Nights (World) (?)
 - 23-2: Canopy Curve (Forest) (?)
 - 23-3: Checkered Flag Falls (Forest) (?)
