@@ -248,7 +248,7 @@
 - 29-3: Penguin Rock (Ice) (?)
 - 29-4: Greek Prix (World) (?)
 - 29-5: Crystal Quarry (Mine) (?)
-- 29-6: Demon King's Invitation (Tomb) (?)
+- 29-6: Demon King's Invitation (Tomb) (Em)
 
 ## Theme 30
 - 30-1: Dragon's Descent (Sword) (?)
@@ -272,7 +272,7 @@
 - 32-3: Iceberg Speedway (Ice) (?)
 - 32-4: Tibetan Turnpike (China) (?)
 - 32-5: Shark's Tomb (Ice) (?)
-- 32-6: Demon King's Invitation (Tomb) (?)
+- 32-6: Demon King's Invitation (Tomb) (T)
 
 ## Theme 33
 - 33-1: Boomhill Tunnel (Village) (T)
