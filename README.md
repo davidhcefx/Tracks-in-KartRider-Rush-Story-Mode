@@ -1,5 +1,8 @@
 # KartRider Rush+ Story Mode Details
 
+> | Completed chapters | Incomplete chapters | Total |
+> | ------------------ | ------------------- | ----- |
+> | 52                 | 8                   | 60    |
 > - **Tracklist (Maps)**:
 >   - https://www.reddit.com/r/Kartrider/comments/go4v6u/is_there_a_complete_tracklist_written_down/
 >   - https://strategywiki.org/wiki/Crazyracing_Kartrider/Tracks
@@ -16,10 +19,6 @@
 >   | R | Rainbow Gates    | 鑽門模式 |
 >   | S | Speed Race       | 競速模式 |
 >   | T | Timed Race / Timed Trail | 限時模式 |
-> - 
->   | Completed chapters | Incomplete chapters | Total |
->   | ------------------ | ------------------- | ----- |
->   | 52                 | 8                   | 60    |
 > - Chapter 9 ~ 32 is based on [this forum](https://forum.gamer.com.tw/C.php?bsn=36872&snA=2936), please correct me if there are some mistakes.
 
 ## Theme 1
