@@ -1,24 +1,26 @@
 # KartRider Rush+ Story Mode Details
 
-> - Number of completed themes: 52
-> - Number of incomplete themes: 8
-> - Tracklist (Maps):
+> - **Tracklist (Maps)**:
 >   - https://www.reddit.com/r/Kartrider/comments/go4v6u/is_there_a_complete_tracklist_written_down/
 >   - https://strategywiki.org/wiki/Crazyracing_Kartrider/Tracks
-> - Mode abbreviations:  
+> - **Mode abbreviations**:  
 >   |   | En               | Zh        |
 >   | - | ---------------- | --------- |
->   | B | Barricade Buster | |
->   | C | Chase | |
->   | Em | Elimination Race | |
->   | Esc | Escape | |
->   | F | Infini-Boost | 無限加速 |
->   | I | Item Race | 道具賽 |
->   | L | Collection Race | 收集賽 |
->   | R | Rainbow Gates | 鑽門模式 |
->   | S | Speed Race | |
->   | T | Timed Race / Timed Trail | |
-> - Theme 9 ~ 32 is based on [this forum](https://forum.gamer.com.tw/C.php?bsn=36872&snA=2936), please correct me if there are some mistakes.
+>   | B | Barricade Buster | 清障模式 |
+>   | C | Chase            | 追逐模式 |
+>   | Em | Elimination Race | 淘汰賽 |
+>   | Esc | Escape         | 逃脫模式 |
+>   | F | Infini-Boost     | 無限加速 |
+>   | I | Item Race        | 道具賽 |
+>   | L | Collection Race  | 收集賽 |
+>   | R | Rainbow Gates    | 鑽門模式 |
+>   | S | Speed Race       | 競速模式 |
+>   | T | Timed Race / Timed Trail | 限時模式 |
+> - 
+>   | Completed chapters | Incomplete chapters | Total |
+>   | ------------------ | ------------------- | ----- |
+>   | 52                 | 8                   | 60    |
+> - Chapter 9 ~ 32 is based on [this forum](https://forum.gamer.com.tw/C.php?bsn=36872&snA=2936), please correct me if there are some mistakes.
 
 ## Theme 1
 - 1-1: Canal (Village) (T)
