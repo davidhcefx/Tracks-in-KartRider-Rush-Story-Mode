@@ -6,6 +6,7 @@
 > - **Tracklist (Maps)**:
 >   - https://www.reddit.com/r/Kartrider/comments/go4v6u/is_there_a_complete_tracklist_written_down/
 >   - https://strategywiki.org/wiki/Crazyracing_Kartrider/Tracks
+>   - [中英對照表](Tracklist_zh.md)
 > - **Mode abbreviations**:  
 >   |   | En               | Zh        |
 >   | - | ---------------- | --------- |
@@ -345,7 +346,7 @@
 - 41-1: Formula 51 (Northeu) (T)
 - 41-2: Namsan Tour (Village) (C)
 - 41-3: Outer Orbiter (Northeu) (S)
-- 41-4: Louis' Study (Castle) (Esc)
+- 41-4: Louie's Study (Castle) (Esc)
 - 41-5: Mile High Motorway (Northeu) (F)
 - 41-6: Cosmic Canyon (Northeu) (S)
 
@@ -393,7 +394,7 @@
 - 47-1: Card Kingdom Maze (Storybook) (F)
 - 47-2: Beanstalk Raceway (Storybook) (T)
 - 47-3: Kartland Park (Storybook) (L)
-- 47-4: Louie’s Study (Castle) (I)
+- 47-4: Louie's Study (Castle) (I)
 - 47-5: Checkered Flag Falls (Forest) (Em)
 - 47-6: Card Kingdom Maze (Storybook) (I)
 
