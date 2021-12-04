@@ -5,18 +5,20 @@
 > - Tracklist (Maps):
 >   - https://www.reddit.com/r/Kartrider/comments/go4v6u/is_there_a_complete_tracklist_written_down/
 >   - https://strategywiki.org/wiki/Crazyracing_Kartrider/Tracks
-> - Mode abbreviations:
->   - B: Barricade Buster
->   - C: Chase
->   - Em: Elimination Race
->   - Esc: Escape
->   - F: Infini-Boost
->   - I: Item Race
->   - L: Collection Race
->   - R: Rainbow Gates
->   - S: Speed Race
->   - T: Timed Race / Timed Trail
-> - Theme 9 ~ 32 is based on [this page](https://forum.gamer.com.tw/C.php?bsn=36872&snA=2936), please correct me if there are some mistakes.
+> - Mode abbreviations:  
+>   |   | En               | Zh        |
+>   | - | ---------------- | --------- |
+>   | B | Barricade Buster | |
+>   | C | Chase | |
+>   | Em | Elimination Race | |
+>   | Esc | Escape | |
+>   | F | Infini-Boost | 無限加速 |
+>   | I | Item Race | 道具賽 |
+>   | L | Collection Race | 收集賽 |
+>   | R | Rainbow Gates | 鑽門模式 |
+>   | S | Speed Race | |
+>   | T | Timed Race / Timed Trail | |
+> - Theme 9 ~ 32 is based on [this forum](https://forum.gamer.com.tw/C.php?bsn=36872&snA=2936), please correct me if there are some mistakes.
 
 ## Theme 1
 - 1-1: Canal (Village) (T)
