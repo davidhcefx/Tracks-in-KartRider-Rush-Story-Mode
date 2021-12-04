@@ -10,15 +10,15 @@
 >   |   | En               | Zh        |
 >   | - | ---------------- | --------- |
 >   | B | Barricade Buster | 清障模式 |
->   | C | Chase            | 追逐模式 |
+>   | C | Chase            | 追擊賽 |
 >   | Em | Elimination Race | 淘汰賽 |
->   | Esc | Escape         | 逃脫模式 |
+>   | Esc | Escape         | 逃脫賽 |
 >   | F | Infini-Boost     | 無限加速 |
 >   | I | Item Race        | 道具賽 |
 >   | L | Collection Race  | 收集賽 |
 >   | R | Rainbow Gates    | 鑽門模式 |
->   | S | Speed Race       | 競速模式 |
->   | T | Timed Race / Timed Trail | 限時模式 |
+>   | S | Speed Race       | 競速賽 |
+>   | T | Timed Race / Timed Trail | 限時賽 / 限時挑戰賽 |
 > - Chapter 9 ~ 32 is based on [this forum](https://forum.gamer.com.tw/C.php?bsn=36872&snA=2936), please correct me if there are some mistakes.
 
 ## Theme 1
