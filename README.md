@@ -2,7 +2,7 @@
 
 > | Completed chapters | Incomplete chapters | Total |
 > | ------------------ | ------------------- | ----- |
-> | 52                 | 8                   | 60    |
+> | 56                 | 8                   | 64    |
 > - **Tracklist (Maps)**:
 >   - https://www.reddit.com/r/Kartrider/comments/go4v6u/is_there_a_complete_tracklist_written_down/
 >   - https://strategywiki.org/wiki/Crazyracing_Kartrider/Tracks
@@ -280,35 +280,35 @@
 
 ## Chapter 33
 - 33-1: Boomhill Tunnel (Village) (T)
-- 33-2:
-- 33-3:
-- 33-4:
-- 33-5:
-- 33-6:
+- 33-2: Crystal Quarry (Mine) (Em)
+- 33-3: Shipping Lanes (Beach) (L)
+- 33-4: Power Core (Brodi) (R)
+- 33-5: Temple Of Vroom (Gold) (C)
+- 33-6: Demon King's Invitation (Tomb) (T)
 
 ## Chapter 34
-- 34-1:
-- 34-2:
-- 34-3:
-- 34-4:
-- 34-5:
-- 34-6:
+- 34-1: Louie's Study (Castle) (I)
+- 34-2: Rainslick Raceway (Moonhill) (T)
+- 34-3: Lava Lane (Mine) (R)
+- 34-4: The Bridge Of Fate (Village) (C)
+- 34-5: Unfinished Zone 5 (Factory) (F)
+- 34-6: Frost Valley (Ice) (S)
 
 ## Chapter 35
-- 35-1:
-- 35-2:
-- 35-3:
-- 35-4:
-- 35-5:
-- 35-6:
+- 35-1: Tibetan Turnpike (China) (T)
+- 35-2: Shanghai Nights (China) (T)
+- 35-3: Up 'n' Down (Village) (C)
+- 35-4: Toy Factory (Block) (I)
+- 35-5: 360 Tower (Park) (Esc)
+- 35-6: Ski Resort (Ice) (S)
 
 ## Chapter 36
-- 36-1:
-- 36-2:
-- 36-3:
-- 36-4:
-- 36-5:
-- 36-6:
+- 36-1: Toy Factory (Block) (L)
+- 36-2: Crystal Quarry (Mine) (Esc)
+- 36-3: Louie's Study (Castle) (S)
+- 36-4: Unfinished Zone 5 (Factory) (T)
+- 36-5: Power Core (Brodi) (Em)
+- 36-6: Large Hot Rod Collider (Brodi) (I)
 
 ## Chapter 37
 - 37-1: Up 'n' Down (Village) (S)
@@ -501,3 +501,35 @@
 - 60-4: (森林游擊場?) (S)
 - 60-5: Checkered Flag Falls (Forest) (I)
 - 60-6: \[R\] Canopy Curve (Forest) (S)
+
+## Chapter 61
+- 61-1:
+- 61-2:
+- 61-3:
+- 61-4:
+- 61-5:
+- 61-6:
+
+## Chapter 62
+- 62-1:
+- 62-2:
+- 62-3:
+- 62-4:
+- 62-5:
+- 62-6:
+
+## Chapter 63
+- 63-1:
+- 63-2:
+- 63-3:
+- 63-4:
+- 63-5:
+- 63-6:
+
+## Chapter 64
+- 64-1:
+- 64-2:
+- 64-3:
+- 64-4:
+- 64-5:
+- 64-6:
