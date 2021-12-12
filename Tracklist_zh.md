@@ -81,7 +81,7 @@
 | 幽靈峽谷 | Cemetery Circuit (Tomb) |
 | 礦山寶石開採場 | Crystal Quarry (Mine) |
 | 礦山岩漿洞 | Lava Lane (Mine) |
-| 路易的書房 | Louis' Study (Castle) |
+| 路易的書房 | Louie's Study (Castle) |
 | 童話撲克牌的迷宮仙境 | Card Kingdom Maze (Storybook) |
 | 沙漠水庫 | Ancient Ruins (Desert) |
 | 城堡玩具的天堂 | Louie's Dollhouse (Castle) |
