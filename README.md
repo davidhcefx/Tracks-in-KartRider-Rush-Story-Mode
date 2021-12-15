@@ -2,7 +2,7 @@
 
 > | Completed chapters | Incomplete chapters | Total |
 > | ------------------ | ------------------- | ----- |
-> | 56                 | 8                   | 64    |
+> | 60                 | 4                   | 64    |
 > - **Tracklist (Maps)**:
 >   - https://www.reddit.com/r/Kartrider/comments/go4v6u/is_there_a_complete_tracklist_written_down/
 >   - https://strategywiki.org/wiki/Crazyracing_Kartrider/Tracks
@@ -312,35 +312,35 @@
 
 ## Chapter 37
 - 37-1: Up 'n' Down (Village) (S)
-- 37-2:
-- 37-3:
-- 37-4:
-- 37-5:
-- 37-6:
+- 37-2: Dragon Canal (China) (Em)
+- 37-3: Shanghai Noon (China) (L)
+- 37-4: Dragon Palace (China) (T)
+- 37-5: Louie's Study (Castle) (Esc)
+- 37-6: The Great Wall (Village) (F)
 
 ## Chapter 38
-- 38-1:
-- 38-2:
-- 38-3:
-- 38-4:
-- 38-5:
-- 38-6:
+- 38-1: Lumberjack Lane (Forest) (Esc)
+- 38-2: Checkered Flag Falls (Forest) (I)
+- 38-3: Twirling Construction Site (Desert) (S)
+- 38-4: Tibetan Turnpike (China) (L)
+- 38-5: Dizzying Downhill (Forest) (R)
+- 38-6: Huangshan Highway (China) (C)
 
 ## Chapter 39
-- 39-1:
-- 39-2:
-- 39-3:
-- 39-4:
-- 39-5:
-- 39-6:
+- 39-1: Greek Prix (World) (T)
+- 39-2: Secrets Of The Temple (Fairy) (F)
+- 39-3: Canopy Curve (Forest) (C)
+- 39-4: Training Center (Sword) (L)
+- 39-5: The Gate Of The Wonderland (Storybook) (T)
+- 39-6: Huangshan Highway (China) (Esc)
 
 ## Chapter 40
-- 40-1:
-- 40-2:
-- 40-3:
-- 40-4:
-- 40-5:
-- 40-6:
+- 40-1: Dragon's Descent (Sword) (T)
+- 40-2: Terracotta Twister (China) (T)
+- 40-3: Temple Of Vroom (Gold) (T)
+- 40-4: Dragon Canal (China) (T)
+- 40-5: Terracotta Twister (China) (I)
+- 40-6: Dragon Palace (China) (Em)
 
 ## Chapter 41
 - 41-1: Formula 51 (Northeu) (T)
