@@ -21,7 +21,7 @@
 | 中華主題紫禁城 | Dragon Palace (China) |
 | 侏儸紀恐龍墳墓 | Dino Boneyard (Jurassic) |
 | 木桶驚險跳躍 | ? |
-| 神域光之路 | ? |
+| 機械戰爭前線戰場 | ? |
 | 能量之源泉 | Power Core (Brodi) |
 | 太空跳躍峽谷 | Outer Orbiter (Northeu) |
 | 冰鯊墓地 | Shark's Tomb (Ice) |
@@ -40,13 +40,13 @@
 | 黃金文明危機四伏 | Boulder Dash (Gold) |
 | 黃金文明笑傲飛鷹 | Falcon's Reach (Gold) |
 | 精靈神木的捷徑 | Fairy Snail Pass (Fairy) |
+| 神域光之路 | Luminous Bridge (Norse) |
 
 
 ## 簡單
 
 | Zh      | En                      |
 | ------- | ----------------------- |
-| 神域諸神世界 | ? |
 | 靈岩環道 | Korea Circuit (WKC) |
 | 賽道9 | Corkscrew (Beach) |
 | 杜拜富人區 | Downtown Dubai (World) |
@@ -70,6 +70,7 @@
 | 世界紐約大疾走 | New York Rally (World) |
 | 世界比薩旋轉斜塔 | Tower of Pisa (World) |
 | 中華主題晴空萬里的西湖 | Dragon's Lake (China) |
+| 神域諸神世界 | God's Realm (Norse) |
 | 世界希臘的假日 | Greek Prix (World) |
 | 倫敦夜色 | London Nights (World) |
 | 太空迴旋走廊 | Mile High Motorway (Northeu) |
@@ -109,6 +110,7 @@
 | 黃金文明黃金座標 | Golden Coordinates (Gold) |
 | 中華主題中華胡同 | Alleyway Sprint (China) |
 | 海盜要塞瞭望塔 | Pirate's Cay (Pirate) |
+| 刀劍雲中峽谷 | ? |
 
 
 ## 困難
