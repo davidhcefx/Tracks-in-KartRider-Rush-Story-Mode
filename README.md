@@ -6,8 +6,8 @@
 > - **Tracklist (Maps)**:
 >   - https://www.reddit.com/r/Kartrider/comments/go4v6u/is_there_a_complete_tracklist_written_down/
 >   - https://strategywiki.org/wiki/Crazyracing_Kartrider/Tracks
->   - [中英對照表](Tracklist_zh.md)
->   - [跑跑卡丁車Rush+地圖翻譯及格式化](https://kartrider-story-mode-formatter-web.davidhcefx.repl.co/)
+>   - [地圖中英對照表](Tracklist_zh.md)
+>   - [地圖翻譯及格式化工具](https://kartrider-story-mode-formatter-web.davidhcefx.repl.co/)
 > - **Mode abbreviations**:  
 >   | Abbr | En               | Zh        |
 >   | ---- | ---------------- | --------- |
