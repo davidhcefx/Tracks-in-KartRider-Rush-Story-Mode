@@ -2,7 +2,7 @@
 
 > | Completed chapters | Incomplete chapters | Total |
 > | ------------------ | ------------------- | ----- |
-> | 60                 | 4                   | 64    |
+> | 64                 | 0                   | 64    |
 > - **Tracklist (Maps)**:
 >   - https://www.reddit.com/r/Kartrider/comments/go4v6u/is_there_a_complete_tracklist_written_down/
 >   - https://strategywiki.org/wiki/Crazyracing_Kartrider/Tracks
@@ -504,33 +504,34 @@
 - 60-6: \[R\] Canopy Curve (Forest) (S)
 
 ## Chapter 61
-- 61-1:
-- 61-2:
-- 61-3:
-- 61-4:
-- 61-5:
-- 61-6:
+- 61-1: God's Realm (Norse) (T)
+- 61-2: Luminous Bridge (Norse) (C)
+- 61-3: Up 'n' Down (Village) (R)
+- 61-4: Rainslick Raceway (Moonhill) (F)
+- 61-5: Downtown Dubai (World) (T)
+- 61-6: Shipping Lanes (Beach) (I)
 
 ## Chapter 62
-- 62-1:
-- 62-2:
-- 62-3:
-- 62-4:
-- 62-5:
-- 62-6:
+- 62-1: (刀劍雲中峽谷) (S)
+- 62-2: Luminous Bridge (Norse) (T)
+- 62-3: God's Realm (Norse) (C)
+- 62-4: Handy Harbor (Village) (I)
+- 62-5: Clock Tower (Village) (L)
+- 62-6: (刀劍雲中峽谷) (Esc)
 
 ## Chapter 63
-- 63-1:
-- 63-2:
-- 63-3:
-- 63-4:
-- 63-5:
-- 63-6:
+- 63-1: Bridge Run (Beach) (S)
+- 63-2: (機械戰爭前線戰場) (Em)
+- 63-3: Water Aerodrome (Beach) (T)
+- 63-4: Tibetan Turnpike (China) (R)
+- 63-5: Greek Prix (World) (I)
+- 63-6: God's Realm (Norse) (T)
 
 ## Chapter 64
-- 64-1:
-- 64-2:
-- 64-3:
-- 64-4:
-- 64-5:
-- 64-6:
+- 64-1: (刀劍雲中峽谷) (S)
+- 64-2: The Bridge Of Fate (Village) (C)
+- 64-3: Clock Tower (Village) (I)
+- 64-4: The Great Wall (Village) (C)
+- 64-5: Steamfunk Aerodrome (1920) (F)
+- 64-6: Luminous Bridge (Norse) (S)
+
