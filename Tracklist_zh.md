@@ -71,6 +71,8 @@
 | 世界比薩旋轉斜塔 | Tower of Pisa (World) |
 | 中華主題晴空萬里的西湖 | Dragon's Lake (China) |
 | 神域諸神世界 | God's Realm (Norse) |
+| 工廠傻瓜陷阱 | Trap Factory (Factory) |
+| 工廠砰砰砰大冒險 | ? |
 | 世界希臘的假日 | Greek Prix (World) |
 | 倫敦夜色 | London Nights (World) |
 | 太空迴旋走廊 | Mile High Motorway (Northeu) |
@@ -87,12 +89,14 @@
 | 沙漠水庫 | Ancient Ruins (Desert) |
 | 城堡玩具的天堂 | Louie's Dollhouse (Castle) |
 | 森林游擊場 | ? |
+| 工廠巨大齒輪的威脅 | Gear Grinder (Factory) |
 
 
 ## 普通
 
 | Zh      | En                      |
 | ------- | ----------------------- |
+| 工廠工廠中的雙工廠 | ? |
 | 龍之遺跡 | Terracotta Twister (China) |
 | 城鎮萬里長城 | The Great Wall (Village) |
 | 海盜絕壁海灣 | Boombeard's Hideout (Pirate) |
