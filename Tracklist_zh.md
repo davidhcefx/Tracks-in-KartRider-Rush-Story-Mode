@@ -129,5 +129,3 @@
 | 墓園魔王的邀請 | Demon King's Invitation (Tomb) |
 | 冰河冰山滑雪場 | Ski Resort (Ice) |
 
-
-> 相關連結：https://m.nexon.com/forum/board/1643
