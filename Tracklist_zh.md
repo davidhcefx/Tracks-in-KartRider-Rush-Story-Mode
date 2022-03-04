@@ -96,7 +96,7 @@
 
 | Zh      | En                      |
 | ------- | ----------------------- |
-| 工廠工廠中的雙工廠 | ? |
+| 工廠工廠中的雙工廠 | Dueling Factories (Factory) |
 | 龍之遺跡 | Terracotta Twister (China) |
 | 城鎮萬里長城 | The Great Wall (Village) |
 | 海盜絕壁海灣 | Boombeard's Hideout (Pirate) |
