@@ -114,7 +114,7 @@
 | 黃金文明黃金座標 | Golden Coordinates (Gold) |
 | 中華主題中華胡同 | Alleyway Sprint (China) |
 | 海盜要塞瞭望塔 | Pirate's Cay (Pirate) |
-| 刀劍雲中峽谷 | ? |
+| 刀劍雲中峽谷 | Cloud Canyon (Sword) |
 
 
 ## 困難
