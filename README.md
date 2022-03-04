@@ -1,4 +1,4 @@
-# KartRider Rush+ Story Mode Details
+# Tracks in KartRider Rush+ Story Mode
 
 > | Completed chapters | Incomplete chapters | Total |
 > | ------------------ | ------------------- | ----- |
