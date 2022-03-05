@@ -2,7 +2,7 @@
 
 > | Completed chapters | Incomplete chapters | Total |
 > | ------------------ | ------------------- | ----- |
-> | 64                 | 0                   | 64    |
+> | 64 (mode missing for Ch.9-32) | 0                   | 64    |
 > - **Tracklist (Maps)**:
 >   - https://www.reddit.com/r/Kartrider/comments/go4v6u/is_there_a_complete_tracklist_written_down/
 >   - https://strategywiki.org/wiki/Crazyracing_Kartrider/Tracks
