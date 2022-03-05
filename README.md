@@ -473,7 +473,7 @@
 
 ## Chapter 57
 - 57-1: Checkered Flag Falls (Forest) (S)
-- 57-2: (森林游擊場?) (S)
+- 57-2: Tenderfoot Trail (Forest) (S)
 - 57-3: Beanstalk Raceway (Storybook) (Esc)
 - 57-4: Clock Tower (Village) (S)
 - 57-5: Lumberjack Lane (Forest) (R)
@@ -484,7 +484,7 @@
 - 58-2: Demon King's Invitation (Tomb) (F)
 - 58-3: Crystal Quarry (Mine) (I)
 - 58-4: Lava Lane (Mine) (C)
-- 58-5: (木桶驚險跳躍?) (T)
+- 58-5: Knobbly Log Lane (Fairy) (T)
 - 58-6: Zigzag Downhill (Mine) (S)
 
 ## Chapter 59
@@ -497,9 +497,9 @@
 
 ## Chapter 60
 - 60-1: Secrets Of The Temple (Fairy) (F)
-- 60-2: (木桶驚險跳躍?) (S)
+- 60-2: Knobbly Log Lane (Fairy) (S)
 - 60-3: Fairy Snail Pass (Fairy) (I)
-- 60-4: (森林游擊場?) (S)
+- 60-4: Tenderfoot Trail (Forest) (S)
 - 60-5: Checkered Flag Falls (Forest) (I)
 - 60-6: \[R\] Canopy Curve (Forest) (S)
 
@@ -512,23 +512,23 @@
 - 61-6: Shipping Lanes (Beach) (I)
 
 ## Chapter 62
-- 62-1: (刀劍雲中峽谷) (S)
+- 62-1: Cloud Valley (Sword) (S)
 - 62-2: Luminous Bridge (Norse) (T)
 - 62-3: God's Realm (Norse) (C)
 - 62-4: Handy Harbor (Village) (I)
 - 62-5: Clock Tower (Village) (L)
-- 62-6: (刀劍雲中峽谷) (Esc)
+- 62-6: Cloud Valley (Sword) (Esc)
 
 ## Chapter 63
 - 63-1: Bridge Run (Beach) (S)
-- 63-2: (機械戰爭前線戰場) (Em)
+- 63-2: Line of Fire (Mechanic) (Em)
 - 63-3: Water Aerodrome (Beach) (T)
 - 63-4: Tibetan Turnpike (China) (R)
 - 63-5: Greek Prix (World) (I)
 - 63-6: God's Realm (Norse) (T)
 
 ## Chapter 64
-- 64-1: (刀劍雲中峽谷) (S)
+- 64-1: Cloud Valley (Sword) (S)
 - 64-2: The Bridge Of Fate (Village) (C)
 - 64-3: Clock Tower (Village) (I)
 - 64-4: The Great Wall (Village) (C)

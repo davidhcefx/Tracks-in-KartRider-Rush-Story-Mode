@@ -20,8 +20,8 @@
 | 中華主題龍之運河 | Dragon Canal (China) |
 | 中華主題紫禁城 | Dragon Palace (China) |
 | 侏儸紀恐龍墳墓 | Dino Boneyard (Jurassic) |
-| 木桶驚險跳躍 | ? |
-| 機械戰爭前線戰場 | ? |
+| 木桶驚險跳躍 | Knobbly Log Lane (Fairy) |
+| 機械戰爭前線戰場 | Line of Fire (Mechanic) |
 | 能量之源泉 | Power Core (Brodi) |
 | 太空跳躍峽谷 | Outer Orbiter (Northeu) |
 | 冰鯊墓地 | Shark's Tomb (Ice) |
@@ -72,7 +72,7 @@
 | 中華主題晴空萬里的西湖 | Dragon's Lake (China) |
 | 神域諸神世界 | God's Realm (Norse) |
 | 工廠傻瓜陷阱 | Trap Factory (Factory) |
-| 工廠砰砰砰大冒險 | ? |
+| 工廠砰砰砰大冒險 | Assembly Lane (Factory) |
 | 世界希臘的假日 | Greek Prix (World) |
 | 倫敦夜色 | London Nights (World) |
 | 太空迴旋走廊 | Mile High Motorway (Northeu) |
@@ -88,7 +88,7 @@
 | 童話撲克牌的迷宮仙境 | Card Kingdom Maze (Storybook) |
 | 沙漠水庫 | Ancient Ruins (Desert) |
 | 城堡玩具的天堂 | Louie's Dollhouse (Castle) |
-| 森林游擊場 | ? |
+| 森林游擊場 | Tenderfoot Trail (Forest) |
 | 工廠巨大齒輪的威脅 | Gear Grinder (Factory) |
 
 
@@ -114,7 +114,7 @@
 | 黃金文明黃金座標 | Golden Coordinates (Gold) |
 | 中華主題中華胡同 | Alleyway Sprint (China) |
 | 海盜要塞瞭望塔 | Pirate's Cay (Pirate) |
-| 刀劍雲中峽谷 | Cloud Canyon (Sword) |
+| 刀劍雲中峽谷 | Cloud Valley (Sword) |
 
 
 ## 困難
