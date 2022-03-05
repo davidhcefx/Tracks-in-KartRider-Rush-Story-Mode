@@ -28,7 +28,7 @@
 - 1-2: Specter Pass (Tomb) (T)
 - 1-3: Large Hot Rod Collider (Brodi) (L)
 - 1-4: Lumberjack Lane (Forest) (I)
-- 1-5: Up 'n' Down (Village) (B)
+- 1-5: Up 'N' Down (Village) (B)
 - 1-6: Formula 51 (Northeu) (S)
 
 ## Chapter 2
@@ -37,14 +37,14 @@
 - 2-3: Canal (Village) (R)
 - 2-4: Paris Grand Prix (World) (L)
 - 2-5: Singapore Circuit (WKC) (T)
-- 2-6: Up 'n' Down (Village) (F)
+- 2-6: Up 'N' Down (Village) (F)
 
 ## Chapter 3
 - 3-1: Mile High Motorway (Northeu) (S)
 - 3-2: Pharoah's Pass (Desert) (T)
 - 3-3: Shanghai Noon (China) (S)
 - 3-4: Downtown Dubai (World) (C)
-- 3-5: Mediea's Hidaway (Block) (I)
+- 3-5: Mediea's Hideaway (Block) (I)
 - 3-6: Singapore Circuit (WKC) (Em)
 
 ## Chapter 4
@@ -52,8 +52,8 @@
 - 4-2: Bridge Run (Beach) (T)
 - 4-3: Huangshan Highway (China) (F)
 - 4-4: The Great Wall (Village) (Em)
-- 4-5: Up 'n' Down (Village) (T)
-- 4-6: Dragon Canal (China) (S)
+- 4-5: Up 'N' Down (Village) (T)
+- 4-6: Dragon's Canal (China) (S)
 
 ## Chapter 5
 - 5-1: Beguy Market (Desert) (I)
@@ -64,7 +64,7 @@
 - 5-6: Hidden Treasure (Pirate) (S)
 
 ## Chapter 6
-- 6-1: Panda Paradice (Forest) (T)
+- 6-1: Panda Paradise (Forest) (T)
 - 6-2: Handy Harbor (Village) (S)
 - 6-3: Outer Orbiter (Northeu) (C)
 - 6-4: Mile High Motorway (Northeu) (I)
@@ -104,7 +104,7 @@
 - 10-6: Hidden Treasure (Pirate) (?)
 
 ## Chapter 11
-- 11-1: Up 'n' Down (Village) (?)
+- 11-1: Up 'N' Down (Village) (?)
 - 11-2: Cubeville Heights (Block) (?)
 - 11-3: Secret Basement (Castle) (?)
 - 11-4: Boombeard's Hideout (Pirate) (?)
@@ -129,7 +129,7 @@
 
 ## Chapter 14
 - 14-1: Kartland Park (Fairy) (?)
-- 14-2: The Gate Of The Wonderland (Storybook) (?)
+- 14-2: The Gate of the Wonderland (Storybook) (?)
 - 14-3: Steamfunk Aerodrome (1920) (?)
 - 14-4: Power Core (Brodi) (?)
 - 14-5: The Great Wall (Village) (?)
@@ -141,7 +141,7 @@
 - 15-3: Formula 51 (Northeu) (?)
 - 15-4: Water Aerodrome (Beach) (?)
 - 15-5: Canopy Curve (Forest) (?)
-- 15-6: The Gate Of The Wonderland (Storybook) (?)
+- 15-6: The Gate of the Wonderland (Storybook) (?)
 
 ## Chapter 16
 - 16-1: Secret Basement (Castle) (?)
@@ -149,7 +149,7 @@
 - 16-3: Twirling Construction Site (Desert) (?)
 - 16-4: Steamfunk Factory (1920) (?)
 - 16-5: Rainslick Raceway (Moonhill) (?)
-- 16-6: The Bridge Of Fate (Village) (?)
+- 16-6: The Bridge of Fate (Village) (?)
 
 ## Chapter 17
 - 17-1: Water Aerodrome (Beach) (?)
@@ -163,14 +163,14 @@
 - 18-1: Brazil Circuit (WKC) (?)
 - 18-2: Dizzying Downhill (Forest) (?)
 - 18-3: Dinosaur Arena (Jurassic) (?)
-- 18-4: Panda Paradice (Forest) (?)
+- 18-4: Panda Paradise (Forest) (?)
 - 18-5: Namsan Tour (Village) (?)
 - 18-6: Canopy Curve (Forest) (?)
 
 ## Chapter 19
 - 19-1: Huangshan Highway (China) (?)
 - 19-2: Large Hot Rod Collider (Brodi) (?)
-- 19-3: The Gate Of The Wonderland (Storybook) (?)
+- 19-3: The Gate of the Wonderland (Storybook) (?)
 - 19-4: Korea Circuit (WKC) (?)
 - 19-5: Cemetery Circuit (Tomb) (?)
 - 19-6: Dino Town (Jurassic) (?)
@@ -178,7 +178,7 @@
 ## Chapter 20
 - 20-1: 360 Tower (Park) (?)
 - 20-2: Corkscrew (Beach) (?)
-- 20-3: The Bridge Of Fate (Village) (?)
+- 20-3: The Bridge of Fate (Village) (?)
 - 20-4: Dino Town (Jurassic) (?)
 - 20-5: London Nights (World) (?)
 - 20-6: Zigzag Downhill (Mine) (?)
@@ -233,7 +233,7 @@
 
 ## Chapter 27
 - 27-1: Training Center (Sword) (?)
-- 27-2: The Bridge Of Fate (Village) (?)
+- 27-2: The Bridge of Fate (Village) (?)
 - 27-3: Canopy Curve (Forest) (?)
 - 27-4: Shipping Lanes (Beach) (?)
 - 27-5: Brazil Circuit (WKC) (?)
@@ -261,7 +261,7 @@
 - 30-3: Iceberg Speedway (Ice) (?)
 - 30-4: Frost Valley (Ice) (?)
 - 30-5: Shark's Tomb (Ice) (?)
-- 30-6: Temple Of Vroom (Gold) (?)
+- 30-6: Temple of Vroom (Gold) (?)
 
 ## Chapter 31
 - 31-1: Dangerous Volcano Jump Zone (Jurassic) (?)
@@ -273,7 +273,7 @@
 
 ## Chapter 32
 - 32-1: Clock Tower (Village) (?)
-- 32-2: Temple Of Vroom (Gold) (?)
+- 32-2: Temple of Vroom (Gold) (?)
 - 32-3: Iceberg Speedway (Ice) (?)
 - 32-4: Tibetan Turnpike (China) (?)
 - 32-5: Shark's Tomb (Ice) (?)
@@ -284,21 +284,21 @@
 - 33-2: Crystal Quarry (Mine) (Em)
 - 33-3: Shipping Lanes (Beach) (L)
 - 33-4: Power Core (Brodi) (R)
-- 33-5: Temple Of Vroom (Gold) (C)
+- 33-5: Temple of Vroom (Gold) (C)
 - 33-6: Demon King's Invitation (Tomb) (T)
 
 ## Chapter 34
 - 34-1: Louie's Study (Castle) (I)
 - 34-2: Rainslick Raceway (Moonhill) (T)
 - 34-3: Lava Lane (Mine) (R)
-- 34-4: The Bridge Of Fate (Village) (C)
+- 34-4: The Bridge of Fate (Village) (C)
 - 34-5: Unfinished Zone 5 (Factory) (F)
 - 34-6: Frost Valley (Ice) (S)
 
 ## Chapter 35
 - 35-1: Tibetan Turnpike (China) (T)
 - 35-2: Shanghai Nights (China) (T)
-- 35-3: Up 'n' Down (Village) (C)
+- 35-3: Up 'N' Down (Village) (C)
 - 35-4: Toy Factory (Block) (I)
 - 35-5: 360 Tower (Park) (Esc)
 - 35-6: Ski Resort (Ice) (S)
@@ -312,8 +312,8 @@
 - 36-6: Large Hot Rod Collider (Brodi) (I)
 
 ## Chapter 37
-- 37-1: Up 'n' Down (Village) (S)
-- 37-2: Dragon Canal (China) (Em)
+- 37-1: Up 'N' Down (Village) (S)
+- 37-2: Dragon's Canal (China) (Em)
 - 37-3: Shanghai Noon (China) (L)
 - 37-4: Dragon Palace (China) (T)
 - 37-5: Louie's Study (Castle) (Esc)
@@ -329,17 +329,17 @@
 
 ## Chapter 39
 - 39-1: Greek Prix (World) (T)
-- 39-2: Secrets Of The Temple (Fairy) (F)
+- 39-2: Secrets of the Temple (Fairy) (F)
 - 39-3: Canopy Curve (Forest) (C)
 - 39-4: Training Center (Sword) (L)
-- 39-5: The Gate Of The Wonderland (Storybook) (T)
+- 39-5: The Gate of the Wonderland (Storybook) (T)
 - 39-6: Huangshan Highway (China) (Esc)
 
 ## Chapter 40
 - 40-1: Dragon's Descent (Sword) (T)
 - 40-2: Terracotta Twister (China) (T)
-- 40-3: Temple Of Vroom (Gold) (T)
-- 40-4: Dragon Canal (China) (T)
+- 40-3: Temple of Vroom (Gold) (T)
+- 40-4: Dragon's Canal (China) (T)
 - 40-5: Terracotta Twister (China) (I)
 - 40-6: Dragon Palace (China) (Em)
 
@@ -360,7 +360,7 @@
 - 42-6: Jump Point (Northeu) (I)
 
 ## Chapter 43
-- 43-1: Golden Coordinates (Gold) (T)
+- 43-1: Path to Oret (Gold) (T)
 - 43-2: Water Aerodrome (Beach) (R)
 - 43-3: Mysterious Lab (Brodi) (F)
 - 43-4: Jump Point (Northeu) (Em)
@@ -370,8 +370,8 @@
 ## Chapter 44
 - 44-1: Large Hot Rod Collider (Brodi) (R)
 - 44-2: Unfinished Zone 5 (Factory) (F)
-- 44-3: Up 'n' Down (Village) (T)
-- 44-4: Golden Coordinates (Gold) (S)
+- 44-3: Up 'N' Down (Village) (T)
+- 44-4: Path to Oret (Gold) (S)
 - 44-5: Jump Point Reverse (Northeu) (T)
 - 44-6: Cosmic Canyon (Northeu) (S)
 
@@ -380,16 +380,16 @@
 - 45-2: Clock Tower (Village) (T)
 - 45-3: Kartland Park (Storybook) (F)
 - 45-4: Beanstalk Raceway (Storybook) (R)
-- 45-5: Golden Coordinates (Gold) (T)
+- 45-5: Path to Oret (Gold) (T)
 - 45-6: Card Kingdom Maze (Storybook) (Em)
 
 ## Chapter 46
 - 46-1: Greek Prix (World) (I)
-- 46-2: [R] Up 'n' Down (Village) (Esc)
+- 46-2: [R] Up 'N' Down (Village) (Esc)
 - 46-3: Extreme Zone (Village) (T)
 - 46-4: Ice Lantern Road (China) (T)
 - 46-5: Lumberjack Lane (Forest) (I)
-- 46-6: The Gate Of The Wonderland (Storybook) (S)
+- 46-6: The Gate of the Wonderland (Storybook) (S)
 
 ## Chapter 47
 - 47-1: Card Kingdom Maze (Storybook) (F)
@@ -404,7 +404,7 @@
 - 48-2: Extreme Zone (Village) (Em)
 - 48-3: Louie's Dollhouse (Castle) (T)
 - 48-4: Kartland Park (Storybook) (I)
-- 48-5: [R] Up 'n' Down (Village) (B)
+- 48-5: [R] Up 'N' Down (Village) (B)
 - 48-6: Alleyway Sprint (China) (S)
 
 ## Chapter 49
@@ -426,8 +426,8 @@
 ## Chapter 51
 - 51-1: Paris Eiffel Tower Dive (World) (T)
 - 51-2: Clock Tower (Village) (R)
-- 51-3: [R] Up 'n' Down (Village) (L)
-- 51-4: The Bridge Of Fate (Village) (Em)
+- 51-3: [R] Up 'N' Down (Village) (L)
+- 51-4: The Bridge of Fate (Village) (Em)
 - 51-5: Extreme Zone (Village) (C)
 - 51-6: [R] Cemetery Circuit (Tomb) (I)
 
@@ -441,16 +441,16 @@
 
 ## Chapter 53
 - 53-1: Checkered Flag Falls (Forest) (T)
-- 53-2: Golden Coordinates (Gold) (S)
+- 53-2: Path to Oret (Gold) (S)
 - 53-3: Boulder Dash (Gold) (C)
-- 53-4: Temple Of Vroom (Gold) (T)
+- 53-4: Temple of Vroom (Gold) (T)
 - 53-5: Falcon's Reach (Gold) (R)
 - 53-6: Dragon's Lake (China) (S)
 
 ## Chapter 54
 - 54-1: Lava Lane (Mine) (F)
 - 54-2: Falcon's Reach (Gold) (Em)
-- 54-3: Temple Of Vroom (Gold) (C)
+- 54-3: Temple of Vroom (Gold) (C)
 - 54-4: Dangerous Volcano Jump Zone (Jurassic) (T)
 - 54-5: Crystal Quarry (Mine) (I)
 - 54-6: Zigzag Downhill (Mine) (T)
@@ -460,12 +460,12 @@
 - 55-2: Ancient Ruins (Desert) (I)
 - 55-3: Twirling Construction Site (Desert) (C)
 - 55-4: Rio Downhill (World) (Em)
-- 55-5: Golden Coordinates (Gold) (T)
+- 55-5: Path to Oret (Gold) (T)
 - 55-6: Dino Boneyard (Jurassic) (S)
 
 ## Chapter 56
 - 56-1: Boulder Dash (Gold) (Esc)
-- 56-2: Temple Of Vroom (Gold) (Em)
+- 56-2: Temple of Vroom (Gold) (Em)
 - 56-3: Lava Lane (Mine) (T)
 - 56-4: Crystal Quarry (Mine) (F)
 - 56-5: Falcon's Reach (Gold) (I)
@@ -473,65 +473,64 @@
 
 ## Chapter 57
 - 57-1: Checkered Flag Falls (Forest) (S)
-- 57-2: (森林游擊場?) (S)
+- 57-2: Tenderfoot Trail (Forest) (S)
 - 57-3: Beanstalk Raceway (Storybook) (Esc)
 - 57-4: Clock Tower (Village) (S)
 - 57-5: Lumberjack Lane (Forest) (R)
-- 57-6: The Gate Of The Wonderland (Storybook) (S)
+- 57-6: The Gate of the Wonderland (Storybook) (S)
 
 ## Chapter 58
 - 58-1: Canopy Curve (Forest) (Esc)
 - 58-2: Demon King's Invitation (Tomb) (F)
 - 58-3: Crystal Quarry (Mine) (I)
 - 58-4: Lava Lane (Mine) (C)
-- 58-5: (木桶驚險跳躍?) (T)
+- 58-5: Knobbly Log Lane (Fairy) (T)
 - 58-6: Zigzag Downhill (Mine) (S)
 
 ## Chapter 59
 - 59-1: Boombeard's Hideout (Pirate) (S)
 - 59-2: Pirate's Cay (Pirate) (T)
-- 59-3: Secrets Of The Temple (Fairy) (Em)
+- 59-3: Secrets of the Temple (Fairy) (Em)
 - 59-4: Fairy Snail Pass (Fairy) (I)
 - 59-5: Pirate's Cay (Pirate) (C)
 - 59-6: Cubeville Heights (Block) (I)
 
 ## Chapter 60
-- 60-1: Secrets Of The Temple (Fairy) (F)
-- 60-2: (木桶驚險跳躍?) (S)
+- 60-1: Secrets of the Temple (Fairy) (F)
+- 60-2: Knobbly Log Lane (Fairy) (S)
 - 60-3: Fairy Snail Pass (Fairy) (I)
-- 60-4: (森林游擊場?) (S)
+- 60-4: Tenderfoot Trail (Forest) (S)
 - 60-5: Checkered Flag Falls (Forest) (I)
 - 60-6: \[R\] Canopy Curve (Forest) (S)
 
 ## Chapter 61
-- 61-1: God's Realm (Norse) (T)
+- 61-1: Gods' Realm (Norse) (T)
 - 61-2: Luminous Bridge (Norse) (C)
-- 61-3: Up 'n' Down (Village) (R)
+- 61-3: Up 'N' Down (Village) (R)
 - 61-4: Rainslick Raceway (Moonhill) (F)
 - 61-5: Downtown Dubai (World) (T)
 - 61-6: Shipping Lanes (Beach) (I)
 
 ## Chapter 62
-- 62-1: (刀劍雲中峽谷) (S)
+- 62-1: Cloud Valley (Sword) (S)
 - 62-2: Luminous Bridge (Norse) (T)
-- 62-3: God's Realm (Norse) (C)
+- 62-3: Gods' Realm (Norse) (C)
 - 62-4: Handy Harbor (Village) (I)
 - 62-5: Clock Tower (Village) (L)
-- 62-6: (刀劍雲中峽谷) (Esc)
+- 62-6: Cloud Valley (Sword) (Esc)
 
 ## Chapter 63
 - 63-1: Bridge Run (Beach) (S)
-- 63-2: (機械戰爭前線戰場) (Em)
+- 63-2: Line of Fire (Mechanic) (Em)
 - 63-3: Water Aerodrome (Beach) (T)
 - 63-4: Tibetan Turnpike (China) (R)
 - 63-5: Greek Prix (World) (I)
-- 63-6: God's Realm (Norse) (T)
+- 63-6: Gods' Realm (Norse) (T)
 
 ## Chapter 64
-- 64-1: (刀劍雲中峽谷) (S)
-- 64-2: The Bridge Of Fate (Village) (C)
+- 64-1: Cloud Valley (Sword) (S)
+- 64-2: The Bridge of Fate (Village) (C)
 - 64-3: Clock Tower (Village) (I)
 - 64-4: The Great Wall (Village) (C)
 - 64-5: Steamfunk Aerodrome (1920) (F)
 - 64-6: Luminous Bridge (Norse) (S)
-

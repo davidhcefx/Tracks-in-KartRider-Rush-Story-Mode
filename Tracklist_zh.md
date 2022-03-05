@@ -5,11 +5,11 @@
 | Zh      | En                      |
 | ------- | ----------------------- |
 | 城鎮運河 | Canal (Village) |
-| 龍貓樂園 | Panda Paradice (Forest) |
+| 龍貓樂園 | Panda Paradise (Forest) |
 | 森林木桶 | Lumberjack Lane (Forest) |
 | 城鎮環道 | Twin Gates (Village) |
 | 冰河企鵝島 | Penguin Rock (Ice) |
-| 城鎮高速公路 | Up 'n' Down (Village) |
+| 城鎮高速公路 | Up 'N' Down (Village) |
 | 城鎮南山 | Namsan Tour (Village) |
 | 濱海風景 | Bridge Run (Beach) |
 | 龍之都市 | Shanghai Noon (China) |
@@ -17,11 +17,11 @@
 | 獅城狂飆 | Singapore Circuit (WKC) |
 | 驚險飛機場 | Steamfunk Aerodrome (1920) |
 | 中華主題拉薩 | Tibetan Turnpike (China) |
-| 中華主題龍之運河 | Dragon Canal (China) |
+| 中華主題龍之運河 | Dragon's Canal (China) |
 | 中華主題紫禁城 | Dragon Palace (China) |
 | 侏儸紀恐龍墳墓 | Dino Boneyard (Jurassic) |
-| 木桶驚險跳躍 | ? |
-| 機械戰爭前線戰場 | ? |
+| 木桶驚險跳躍 | Knobbly Log Lane (Fairy) |
+| 機械戰爭前線戰場 | Line of Fire (Mechanic) |
 | 能量之源泉 | Power Core (Brodi) |
 | 太空跳躍峽谷 | Outer Orbiter (Northeu) |
 | 冰鯊墓地 | Shark's Tomb (Ice) |
@@ -34,7 +34,7 @@
 | 奇怪的蒸氣工廠 | Steamfunk Factory (1920) |
 | 能量生產線 | Large Hot Rod Collider (Brodi) |
 | 像素村鎮 | Cubeville Heights (Block) |
-| 麥迪婭隱匿所 | Mediea's Hidaway (Block) |
+| 麥迪婭隱匿所 | Mediea's Hideaway (Block) |
 | 太空彈跳 | Jump Point (Northeu) |
 | 童話藍寶與魔豆 | Beanstalk Raceway (Storybook) |
 | 黃金文明危機四伏 | Boulder Dash (Gold) |
@@ -59,7 +59,7 @@
 | 侏儸紀恐龍格鬥場 | Dinosaur Arena (Jurassic) |
 | 浮空要塞 | Rainslick Raceway (Moonhill) |
 | 遺忘孤城 | The Forgotten City (Mechanic) |
-| 城鎮命運之橋 | The Bridge Of Fate (Village) |
+| 城鎮命運之橋 | The Bridge of Fate (Village) |
 | 刀劍龍之路 | Dragon's Descent (Sword) |
 | 積木樂園玩具禮物工廠 | Toy Factory (Block) |
 | 布羅帝祕密的研究所 | Mysterious Lab (Brodi) |
@@ -70,9 +70,9 @@
 | 世界紐約大疾走 | New York Rally (World) |
 | 世界比薩旋轉斜塔 | Tower of Pisa (World) |
 | 中華主題晴空萬里的西湖 | Dragon's Lake (China) |
-| 神域諸神世界 | God's Realm (Norse) |
+| 神域諸神世界 | Gods' Realm (Norse) |
 | 工廠傻瓜陷阱 | Trap Factory (Factory) |
-| 工廠砰砰砰大冒險 | ? |
+| 工廠砰砰砰大冒險 | Assembly Lane (Factory) |
 | 世界希臘的假日 | Greek Prix (World) |
 | 倫敦夜色 | London Nights (World) |
 | 太空迴旋走廊 | Mile High Motorway (Northeu) |
@@ -88,7 +88,7 @@
 | 童話撲克牌的迷宮仙境 | Card Kingdom Maze (Storybook) |
 | 沙漠水庫 | Ancient Ruins (Desert) |
 | 城堡玩具的天堂 | Louie's Dollhouse (Castle) |
-| 森林游擊場 | ? |
+| 森林游擊場 | Tenderfoot Trail (Forest) |
 | 工廠巨大齒輪的威脅 | Gear Grinder (Factory) |
 
 
@@ -100,7 +100,7 @@
 | 龍之遺跡 | Terracotta Twister (China) |
 | 城鎮萬里長城 | The Great Wall (Village) |
 | 海盜絕壁海灣 | Boombeard's Hideout (Pirate) |
-| 海底神殿 | Secrets Of The Temple (Fairy) |
+| 海底神殿 | Secrets of the Temple (Fairy) |
 | 森林髮夾 | Canopy Curve (Forest) |
 | 英特格拉斯 | Brazil Circuit (WKC) |
 | 沙漠旋轉工地 | Twirling Construction Site (Desert) |
@@ -109,23 +109,22 @@
 | 海盜寶藏迷宮 | Hidden Treasure (Pirate) |
 | 城鎮公路 | Boomhill Tunnel (Village) |
 | 冰河裂谷 | Frost Valley (Ice) |
-| 黃金文明危險機關 | Temple Of Vroom (Gold) |
+| 黃金文明危險機關 | Temple of Vroom (Gold) |
 | 積木樂園聖誕老人的秘密基地 | Santa's Secret Space (Block) |
-| 黃金文明黃金座標 | Golden Coordinates (Gold) |
+| 黃金文明黃金座標 | Path to Oret (Gold) |
 | 中華主題中華胡同 | Alleyway Sprint (China) |
 | 海盜要塞瞭望塔 | Pirate's Cay (Pirate) |
-| 刀劍雲中峽谷 | Cloud Canyon (Sword) |
+| 刀劍雲中峽谷 | Cloud Valley (Sword) |
 
 
 ## 困難
 
 | Zh      | En                      |
 | ------- | ----------------------- |
-| 彩虹之門 | The Gate Of The Wonderland (Storybook) |
+| 彩虹之門 | The Gate of the Wonderland (Storybook) |
 | 太空蜿蜒跑道 | Cosmic Canyon (Northeu) |
 | 礦山曲折滑坡 | Zigzag Downhill (Mine) |
 | 未完成的第五區 | Unfinished Zone 5 (Factory) |
 | 森林崎嶇下山道 | Dizzying Downhill (Forest) |
 | 墓園魔王的邀請 | Demon King's Invitation (Tomb) |
 | 冰河冰山滑雪場 | Ski Resort (Ice) |
-
