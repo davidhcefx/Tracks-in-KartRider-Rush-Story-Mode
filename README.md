@@ -2,7 +2,7 @@
 
 > | Completed chapters | Incomplete chapters | Total |
 > | ------------------ | ------------------- | ----- |
-> | 64 (mode missing for Ch.9-32) | 0                   | 64    |
+> | 64 (mode missing for Ch.10-32) | 0                   | 64    |
 > - **Tracklist (Maps)**:
 >   - https://www.reddit.com/r/Kartrider/comments/go4v6u/is_there_a_complete_tracklist_written_down/
 >   - https://strategywiki.org/wiki/Crazyracing_Kartrider/Tracks
@@ -89,11 +89,11 @@
 
 ## Chapter 9
 - 9-1: Secrets of the Temple (Fairy) (Esc)
-- 9-2: Paris Grand Prix (World) (?)
-- 9-3: Formula 51 (Northeu) (?)
-- 9-4: Cubeville Heights (Block) (?)
-- 9-5: Terracotta Twister (China) (?)
-- 9-6: Dinosaur Arena (Jurassic) (?)
+- 9-2: Paris Grand Prix (World) (S)
+- 9-3: Formula 51 (Northeu) (I)
+- 9-4: Cubeville Heights (Block) (Em)
+- 9-5: Terracotta Twister (China) (C)
+- 9-6: Dinosaur Arena (Jurassic) (S)
 
 ## Chapter 10
 - 10-1: Steamfunk Aerodrome (1920) (?)
