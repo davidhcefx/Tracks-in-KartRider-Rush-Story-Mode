@@ -36,6 +36,7 @@
 | 像素村鎮 | Cubeville Heights (Block) |
 | 麥迪婭隱匿所 | Mediea's Hideaway (Block) |
 | 太空彈跳 | Jump Point (Northeu) |
+| [R] 太空彈跳 | Jump Point Reverse (Northeu) |
 | 童話藍寶與魔豆 | Beanstalk Raceway (Storybook) |
 | 黃金文明危機四伏 | Boulder Dash (Gold) |
 | 黃金文明笑傲飛鷹 | Falcon's Reach (Gold) |
@@ -65,6 +66,7 @@
 | 布羅帝祕密的研究所 | Mysterious Lab (Brodi) |
 | 中華主題月光冰燈城 | Ice Lantern Road (China) |
 | 太空戰鬥飛行場 | Combat Airfield (Northeu) |
+| [R] 城鎮高速公路 | Up 'N' Down Reverse (Village) |
 | 城鎮水上翹翹板 | Extreme Zone (Village) |
 | 世界巴黎艾菲爾鐵塔 | Paris Eiffel Tower Dive (World) |
 | 世界紐約大疾走 | New York Rally (World) |
@@ -87,6 +89,7 @@
 | 路易的書房 | Louie's Study (Castle) |
 | 童話撲克牌的迷宮仙境 | Card Kingdom Maze (Storybook) |
 | 沙漠水庫 | Ancient Ruins (Desert) |
+| [R] 墓園幽靈峽谷 | Cemetery Circuit Reverse (Tomb) |
 | 城堡玩具的天堂 | Louie's Dollhouse (Castle) |
 | 森林游擊場 | Tenderfoot Trail (Forest) |
 | 工廠巨大齒輪的威脅 | Gear Grinder (Factory) |
@@ -128,3 +131,4 @@
 | 森林崎嶇下山道 | Dizzying Downhill (Forest) |
 | 墓園魔王的邀請 | Demon King's Invitation (Tomb) |
 | 冰河冰山滑雪場 | Ski Resort (Ice) |
+| [R] 森林髮夾彎 | Canopy Curve Reverse (Forest) |

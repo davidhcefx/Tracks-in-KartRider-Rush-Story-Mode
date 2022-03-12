@@ -128,7 +128,7 @@
 - 13-6: London Nights (World) (Esc)
 
 ## Chapter 14
-- 14-1: Kartland Park (Fairy) (Em)
+- 14-1: Kartland Park (Storybook) (Em)
 - 14-2: The Gate of the Wonderland (Storybook) (S)
 - 14-3: Steamfunk Aerodrome (1920) (R)
 - 14-4: Power Core (Brodi) (T)
@@ -137,7 +137,7 @@
 
 ## Chapter 15
 - 15-1: Secrets of the Temple (Fairy) (T)
-- 15-2: Kartland Park (Fairy) (R)
+- 15-2: Kartland Park (Storybook) (R)
 - 15-3: Formula 51 (Northeu) (I)
 - 15-4: Water Aerodrome (Beach) (Em)
 - 15-5: Canopy Curve (Forest) (T)
@@ -385,7 +385,7 @@
 
 ## Chapter 46
 - 46-1: Greek Prix (World) (I)
-- 46-2: [R] Up 'N' Down (Village) (Esc)
+- 46-2: Up 'N' Down Reverse (Village) (Esc)
 - 46-3: Extreme Zone (Village) (T)
 - 46-4: Ice Lantern Road (China) (T)
 - 46-5: Lumberjack Lane (Forest) (I)
@@ -404,7 +404,7 @@
 - 48-2: Extreme Zone (Village) (Em)
 - 48-3: Louie's Dollhouse (Castle) (T)
 - 48-4: Kartland Park (Storybook) (I)
-- 48-5: [R] Up 'N' Down (Village) (B)
+- 48-5: Up 'N' Down Reverse (Village) (B)
 - 48-6: Alleyway Sprint (China) (S)
 
 ## Chapter 49
@@ -426,10 +426,10 @@
 ## Chapter 51
 - 51-1: Paris Eiffel Tower Dive (World) (T)
 - 51-2: Clock Tower (Village) (R)
-- 51-3: [R] Up 'N' Down (Village) (L)
+- 51-3: Up 'N' Down Reverse (Village) (L)
 - 51-4: The Bridge of Fate (Village) (Em)
 - 51-5: Extreme Zone (Village) (C)
-- 51-6: [R] Cemetery Circuit (Tomb) (I)
+- 51-6: Cemetery Circuit Reverse (Tomb) (I)
 
 ## Chapter 52
 - 52-1: Lava Lane (Mine) (T)
@@ -501,7 +501,7 @@
 - 60-3: Fairy Snail Pass (Fairy) (I)
 - 60-4: Tenderfoot Trail (Forest) (S)
 - 60-5: Checkered Flag Falls (Forest) (I)
-- 60-6: \[R\] Canopy Curve (Forest) (S)
+- 60-6: Canopy Curve Reverse (Forest) (S)
 
 ## Chapter 61
 - 61-1: Gods' Realm (Norse) (T)
