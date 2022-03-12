@@ -1,0 +1,33 @@
+{
+  "name": "tracks-in-kartrider-rush-story-mode",
+  "version": "1.0.0",
+  "description": "The tracks and modes of each story mode chapter.",
+  "main": "check_readme.js",
+  "scripts": {
+    "test": "check_readme.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/davidhcefx/Tracks-in-KartRider-Rush-Story-Mode.git"
+  },
+  "keywords": [
+    "maps",
+    "story",
+    "rush",
+    "tracks",
+    "kartrider",
+    "storymode",
+    "kartriderrushplus"
+  ],
+  "author": "davidhcefx",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/davidhcefx/Tracks-in-KartRider-Rush-Story-Mode/issues"
+  },
+  "homepage": "https://github.com/davidhcefx/Tracks-in-KartRider-Rush-Story-Mode#readme",
+  "devDependencies": {
+    "eslint": "^8.11.0",
+    "eslint-config-airbnb-base": "^15.0.0",
+    "eslint-plugin-import": "^2.25.4"
+  }
+}
