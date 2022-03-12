@@ -4,7 +4,7 @@
   "description": "The tracks and modes of each story mode chapter.",
   "main": "check_readme.js",
   "scripts": {
-    "test": "check_readme.js"
+    "test": "node check_readme.js"
   },
   "repository": {
     "type": "git",

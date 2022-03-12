@@ -1,8 +1,8 @@
 module.exports = {
   env: {
-    browser: true,
     commonjs: true,
     es2021: true,
+    node: true,
   },
   extends: [
     'airbnb-base',
@@ -19,5 +19,6 @@ module.exports = {
     'linebreak-style': 'warn',  // CRLF linebreaks are accepted
     'nonblock-statement-body-position': 'warn',  // allow statement below if
     'curly': ['error', 'multi-line', 'consistent'],  // enforce curly except single line
+    'no-console': 'off',  // node.js project
   },
 };

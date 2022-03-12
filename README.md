@@ -1,8 +1,10 @@
 # Tracks in KartRider Rush+ Story Mode
 
+[![check](https://github.com/davidhcefx/Tracks-in-KartRider-Rush-Story-Mode/actions/workflows/check.yml/badge.svg)](https://github.com/davidhcefx/Tracks-in-KartRider-Rush-Story-Mode/actions/workflows/check.yml)
+
 > | Completed chapters | Incomplete chapters | Total |
 > | ------------------ | ------------------- | ----- |
-> | 64 | 0                   | 64    |
+> | 64                 | 0                   | 64    |
 > - **Tracklist (Maps)**:
 >   - https://www.reddit.com/r/Kartrider/comments/go4v6u/is_there_a_complete_tracklist_written_down/
 >   - https://strategywiki.org/wiki/Crazyracing_Kartrider/Tracks

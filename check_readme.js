@@ -63,6 +63,7 @@ function check() {
       }
     }
   });
+  console.log('All seems well!');
 }
 
 check();
