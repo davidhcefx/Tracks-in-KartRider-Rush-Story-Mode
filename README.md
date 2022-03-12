@@ -367,14 +367,14 @@
 - 43-3: Mysterious Lab (Brodi) (F)
 - 43-4: Jump Point (Northeu) (Em)
 - 43-5: Mile High Motorway (Northeu) (I)
-- 43-6: Jump Point Reverse (Northeu) (Esc)
+- 43-6: [R] Jump Point (Northeu) (Esc)
 
 ## Chapter 44
 - 44-1: Large Hot Rod Collider (Brodi) (R)
 - 44-2: Unfinished Zone 5 (Factory) (F)
 - 44-3: Up 'N' Down (Village) (T)
 - 44-4: Path to Oret (Gold) (S)
-- 44-5: Jump Point Reverse (Northeu) (T)
+- 44-5: [R] Jump Point (Northeu) (T)
 - 44-6: Cosmic Canyon (Northeu) (S)
 
 ## Chapter 45
@@ -387,7 +387,7 @@
 
 ## Chapter 46
 - 46-1: Greek Prix (World) (I)
-- 46-2: Up 'N' Down Reverse (Village) (Esc)
+- 46-2: [R] Up 'N' Down (Village) (Esc)
 - 46-3: Extreme Zone (Village) (T)
 - 46-4: Ice Lantern Road (China) (T)
 - 46-5: Lumberjack Lane (Forest) (I)
@@ -406,7 +406,7 @@
 - 48-2: Extreme Zone (Village) (Em)
 - 48-3: Louie's Dollhouse (Castle) (T)
 - 48-4: Kartland Park (Storybook) (I)
-- 48-5: Up 'N' Down Reverse (Village) (B)
+- 48-5: [R] Up 'N' Down (Village) (B)
 - 48-6: Alleyway Sprint (China) (S)
 
 ## Chapter 49
@@ -428,10 +428,10 @@
 ## Chapter 51
 - 51-1: Paris Eiffel Tower Dive (World) (T)
 - 51-2: Clock Tower (Village) (R)
-- 51-3: Up 'N' Down Reverse (Village) (L)
+- 51-3: [R] Up 'N' Down (Village) (L)
 - 51-4: The Bridge of Fate (Village) (Em)
 - 51-5: Extreme Zone (Village) (C)
-- 51-6: Cemetery Circuit Reverse (Tomb) (I)
+- 51-6: [R] Cemetery Circuit (Tomb) (I)
 
 ## Chapter 52
 - 52-1: Lava Lane (Mine) (T)
@@ -503,7 +503,7 @@
 - 60-3: Fairy Snail Pass (Fairy) (I)
 - 60-4: Tenderfoot Trail (Forest) (S)
 - 60-5: Checkered Flag Falls (Forest) (I)
-- 60-6: Canopy Curve Reverse (Forest) (S)
+- 60-6: [R] Canopy Curve (Forest) (S)
 
 ## Chapter 61
 - 61-1: Gods' Realm (Norse) (T)
