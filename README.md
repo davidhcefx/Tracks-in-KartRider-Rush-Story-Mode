@@ -22,9 +22,9 @@
 >   | L    | Collection Race  | 收集賽 |
 >   | R    | Rainbow Gates    | 鑽門模式 |
 >   | S    | Speed Race       | 競速賽 |
->   | Tc   | Time Challenge   | 限時挑戰賽 |
+>   | Tc   | Time Challenge   | 時間挑戰賽 |
 >   | Tr   | Timed Race       | 限時賽 |
->   | Tt   | Time Trial       | |
+>   | Tt   | Time Trial       | 計時賽 |
 > - Chapter 9 ~ 32 is based on [this forum](https://forum.gamer.com.tw/C.php?bsn=36872&snA=2936), please correct me if there are some mistakes.
 
 ## Chapter 1
