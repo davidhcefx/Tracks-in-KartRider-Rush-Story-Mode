@@ -570,7 +570,7 @@
 ### Chapter 3
 - 3-1: Mile High Motorway (Northeu) (Esc)
 - 3-2: *N/A*
-- 3-3: Gods' Realm (Norse) (Speed Race)
+- 3-3: Gods' Realm (Norse) (S)
 - 3-4: Beanstalk Raceway (Storybook) (Esc)
 - 3-5: Formula 51 (Northeu) (S)
 - 3-6: Gear Grinder (Factory) (Em)
