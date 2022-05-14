@@ -540,3 +540,48 @@
 - 64-4: The Great Wall (Village) (C)
 - 64-5: Steamfunk Aerodrome (1920) (F)
 - 64-6: Luminous Bridge (Norse) (S)
+
+## Future Factory
+
+### Chapter 1
+- 1-1: Power Core (Brodi) (R)
+- 1-2: The Bridge of Fate (Village) (S)
+- 1-3: Mysterious Lab (Brodi) (Em)
+- 1-4: *N/A*
+- 1-5: Large Hot Rod Collider (Brodi) (S)
+- 1-6: Power Core (Brodi) (Tc)
+- 1-7: *N/A*
+- 1-8: Gear Grinder (Factory) (C)
+- 1-9: Trap Factory (Factory) (F)
+- 1-10: Unfinished Zone 5 (Factory) (Tt)
+
+### Chapter 2
+- 2-1: Steamfunk Aerodrome (1920) (Tr)
+- 2-2: Combat Airfield (Northeu) (S)
+- 2-3: Twin Gates (Village) (L)
+- 2-4: Assembly Lane (Factory) (Em)
+- 2-5: *N/A*
+- 2-6: The Great Wall (China) (F)
+- 2-7: Large Hot Rod Collider (Brodi) (L)
+- 2-8: Dueling Factories (Factory) (C)
+- 2-9: Gear Grinder (Factory) (I)
+- 2-10: Mysterious Lab (Brodi) (F)
+
+### Chapter 3
+- 3-1: Mile High Motorway (Northeu) (Esc)
+- 3-2: *N/A*
+- 3-3: Gods' Realm (Norse) (Speed Race)
+- 3-4: Beanstalk Raceway (Storybook) (Esc)
+- 3-5: Formula 1 (Northeu) (S)
+- 3-6: Gear Grinder (Factory) (Em)
+- 3-7: Assembly Lane (Factory) (I)
+- 3-8: Gear Grinder (Factory) (I)
+- 3-9: Unfinished Zone 5 (Tr)
+- 3-10: Dueling Factories (Factory) (S)
+
+### Bonus
+- Bonus 1: Power Core (Brodi) (Tr)
+- Bonus 2: Trap Factory (Factory) (C)
+- Bonus 3: Gear Grinder (Factory) (F)
+- Bonus 4: Dueling Factories (Factory) (Tr)
+- Bonus 5: Assembly Lane (Factory) (I)
