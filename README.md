@@ -585,3 +585,20 @@
 - Bonus 3: Gear Grinder (Factory) (F)
 - Bonus 4: Dueling Factories (Factory) (Tr)
 - Bonus 5: Assembly Lane (Factory) (I)
+
+## 2-Year Anniversary Party
+
+### Chapter 1
+- 1-1: Shipping Lanes (Beach) (S)
+- 1-2: Water Aerodrome (Beach) (F)
+- 1-3: *N/A*
+- 1-4: Witch City (Fairy) (Esc)
+- 1-5: 360 Tower (Park) (Tr)
+- 1-6: Party Arena (Park) (I)
+- 1-7: *N/A*
+- 1-8: Water Slide (Park) (Em)
+- 1-9: Fairy Snail Pass (Fairy) (Esc)
+- 1-10: Party Arena (Park) (S)
+
+### Bonus
+- Bonus 1: Party Arena (Park) (L)
