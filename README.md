@@ -561,7 +561,7 @@
 - 2-3: Twin Gates (Village) (L)
 - 2-4: Assembly Lane (Factory) (Em)
 - 2-5: *N/A*
-- 2-6: The Great Wall (China) (F)
+- 2-6: The Great Wall (Village) (F)
 - 2-7: Large Hot Rod Collider (Brodi) (L)
 - 2-8: Dueling Factories (Factory) (C)
 - 2-9: Gear Grinder (Factory) (I)
@@ -572,7 +572,7 @@
 - 3-2: *N/A*
 - 3-3: Gods' Realm (Norse) (Speed Race)
 - 3-4: Beanstalk Raceway (Storybook) (Esc)
-- 3-5: Formula 1 (Northeu) (S)
+- 3-5: Formula 51 (Northeu) (S)
 - 3-6: Gear Grinder (Factory) (Em)
 - 3-7: Assembly Lane (Factory) (I)
 - 3-8: Gear Grinder (Factory) (I)
@@ -617,7 +617,7 @@
 - 3-2: Secrets of the Temple (Fairy) (S)
 - 3-3: Pirate's Cay (Pirate) (Em)
 - 3-4: [R] Boombeard's Hideout (Pirate) (F)
-- 3-5: Hidden Tresure (Pirate) (L)
+- 3-5: Hidden Treasure (Pirate) (L)
 - 3-6: Shark Island (Pirate) (Em)
 - 3-7: Perilous Pier (Pirate) (I)
 - 3-8: Treasure Trail (Pirate) (I)

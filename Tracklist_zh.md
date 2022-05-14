@@ -97,6 +97,7 @@
 | 森林游擊場 | Tenderfoot Trail (Forest) |
 | 工廠巨大齒輪的威脅 | Gear Grinder (Factory) |
 | | Perilous Pier (Pirate) |
+| | [R] Boombeard's Hideout (Pirate) |
 | | Witch City (Fairy) |
 
 
