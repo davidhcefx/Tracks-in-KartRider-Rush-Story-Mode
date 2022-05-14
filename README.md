@@ -586,6 +586,51 @@
 - Bonus 4: Dueling Factories (Factory) (Tr)
 - Bonus 5: Assembly Lane (Factory) (I)
 
+## Pirate's Voyage
+
+### Chapter 1
+- 1-1: Paris Grand Prix (World) (Tr)
+- 1-2: Secret Basement (Castle) (Esc)
+- 1-3: *N/A*
+- 1-4: Perilous Pier (Pirate) (S)
+- 1-5: *N/A*
+- 1-6: The Bridge of Fate (Village) (Em)
+- 1-7: Extreme Zone (Village) (Esc)
+- 1-8: Bridge Run (Beach) (C)
+- 1-9: Perilous Pier (Pirate) (I)
+- 1-10: *N/A*
+
+### Chapter 2
+- 2-1: Shark Island (Pirate) (F)
+- 2-2: *N/A*
+- 2-3: Tenderfoot Trail (Forest) (S)
+- 2-4: Treasure Trail (Pirate) (C)
+- 2-5: Perilous Pier (Pirate) (I)
+- 2-6: Treasure Trail (Pirate) (Tc)
+- 2-7: *N/A*
+- 2-8: *N/A*
+- 2-9: [R] Boombeard's Hideout (Pirate) (Tr)
+- 2-10: Treasure Trail (Pirate) (I)
+
+### Chapter 3
+- 3-1: *N/A*
+- 3-2: Secrets of the Temple (Fairy) (S)
+- 3-3: Pirate's Cay (Pirate) (Em)
+- 3-4: [R] Boombeard's Hideout (Pirate) (F)
+- 3-5: Hidden Tresure (Pirate) (L)
+- 3-6: Shark Island (Pirate) (Em)
+- 3-7: Perilous Pier (Pirate) (I)
+- 3-8: Treasure Trail (Pirate) (I)
+- 3-9: Perilous Pier (Pirate) (S)
+- 3-10: Shark Island (Pirate) (S)
+
+### Bonus
+- Bonus 1: Namsan Tour (Village) (Em)
+- Bonus 2: Lumberjack Lane (Forest) (I)
+- Bonus 3: Hidden Treasure (Pirate) (Esc)
+- Bonus 4: Perilous Pier (Pirate) (Tr)
+- Bonus 5: Checkered Flag Falls (Forest) (I)
+
 ## 2-Year Anniversary Party
 
 ### Chapter 1
