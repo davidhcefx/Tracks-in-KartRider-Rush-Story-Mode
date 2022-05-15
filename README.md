@@ -2,9 +2,7 @@
 
 [![check](https://github.com/davidhcefx/Tracks-in-KartRider-Rush-Story-Mode/actions/workflows/check.yml/badge.svg)](https://github.com/davidhcefx/Tracks-in-KartRider-Rush-Story-Mode/actions/workflows/check.yml)
 
-> | Completed chapters | Incomplete chapters | Total |
-> | ------------------ | ------------------- | ----- |
-> | 64                 | 0                   | 64    |
+> - *Please use the [hamburger button](https://en.wikipedia.org/wiki/Hamburger_button) on the upper left corner to navigate or simply search for a keyword.*
 > - **Tracklist (Maps)**:
 >   - https://www.reddit.com/r/Kartrider/comments/go4v6u/is_there_a_complete_tracklist_written_down/
 >   - https://strategywiki.org/wiki/Crazyracing_Kartrider/Tracks
@@ -25,7 +23,7 @@
 >   | Tc   | Time Challenge   | 時間挑戰賽 |
 >   | Tr   | Timed Race       | 限時賽 |
 >   | Tt   | Time Trial       | 計時賽 |
-> - Chapter 9 ~ 32 is based on [this forum](https://forum.gamer.com.tw/C.php?bsn=36872&snA=2936), please correct me if there are some mistakes.
+> - Chapter 9 ~ 32 is based on [this forum](https://forum.gamer.com.tw/C.php?bsn=36872&snA=2936), please correct me if there are some mistakes :)
 
 ## Boomhill
 

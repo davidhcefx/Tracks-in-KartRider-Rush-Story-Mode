@@ -42,9 +42,9 @@
 | 黃金文明笑傲飛鷹 | Falcon's Reach (Gold) |
 | 精靈神木的捷徑 | Fairy Snail Pass (Fairy) |
 | 神域光之路 | Luminous Bridge (Norse) |
-| | Treasure Trail (Pirate) |
-| | Party Arena (Park) |
-| | Water Slide (Park) |
+| 海盜危機大逃亡 | Treasure Trail (Pirate) |
+| 遊樂園2週年派對競技場  | Party Arena (Park) |
+| ? | Water Slide (Park) |
 
 
 ## 簡單
@@ -77,7 +77,7 @@
 | 中華主題晴空萬里的西湖 | Dragon's Lake (China) |
 | 神域諸神世界 | Gods' Realm (Norse) |
 | 工廠傻瓜陷阱 | Trap Factory (Factory) |
-| 工廠砰砰砰大冒險 | Assembly Lane (Factory) |
+| [R] 海盜絕壁海灣 | [R] Boombeard's Hideout (Pirate) |
 | 世界希臘的假日 | Greek Prix (World) |
 | 倫敦夜色 | London Nights (World) |
 | 太空迴旋走廊 | Mile High Motorway (Northeu) |
@@ -96,9 +96,9 @@
 | 城堡玩具的天堂 | Louie's Dollhouse (Castle) |
 | 森林游擊場 | Tenderfoot Trail (Forest) |
 | 工廠巨大齒輪的威脅 | Gear Grinder (Factory) |
-| | Perilous Pier (Pirate) |
-| | [R] Boombeard's Hideout (Pirate) |
-| | Witch City (Fairy) |
+| 工廠砰砰砰大冒險 | Assembly Lane (Factory) |
+| 海盜暈眩碼頭 | Perilous Pier (Pirate) |
+| 童話魔女之城 | Witch City (Fairy) |
 
 
 ## 普通
@@ -124,7 +124,7 @@
 | 中華主題中華胡同 | Alleyway Sprint (China) |
 | 海盜要塞瞭望塔 | Pirate's Cay (Pirate) |
 | 刀劍雲中峽谷 | Cloud Valley (Sword) |
-| | Shark Island (Pirate) |
+| 海盜鯊魚島的秘密 | Shark Island (Pirate) |
 
 
 ## 困難
