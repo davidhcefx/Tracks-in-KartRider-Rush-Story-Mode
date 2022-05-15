@@ -42,6 +42,9 @@
 | 黃金文明笑傲飛鷹 | Falcon's Reach (Gold) |
 | 精靈神木的捷徑 | Fairy Snail Pass (Fairy) |
 | 神域光之路 | Luminous Bridge (Norse) |
+| | Treasure Trail (Pirate) |
+| | Party Arena (Park) |
+| | Water Slide (Park) |
 
 
 ## 簡單
@@ -93,6 +96,9 @@
 | 城堡玩具的天堂 | Louie's Dollhouse (Castle) |
 | 森林游擊場 | Tenderfoot Trail (Forest) |
 | 工廠巨大齒輪的威脅 | Gear Grinder (Factory) |
+| | Perilous Pier (Pirate) |
+| | [R] Boombeard's Hideout (Pirate) |
+| | Witch City (Fairy) |
 
 
 ## 普通
@@ -118,6 +124,7 @@
 | 中華主題中華胡同 | Alleyway Sprint (China) |
 | 海盜要塞瞭望塔 | Pirate's Cay (Pirate) |
 | 刀劍雲中峽谷 | Cloud Valley (Sword) |
+| | Shark Island (Pirate) |
 
 
 ## 困難

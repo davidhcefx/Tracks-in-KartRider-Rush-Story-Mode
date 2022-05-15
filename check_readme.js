@@ -44,6 +44,13 @@ function check() {
   const numSeen = new Set();
 
   readme.split('\n').forEach((line) => {
+    const storyMatch = line.match(/^##\s.+$/);
+    if (storyMatch) {
+      // reset numbering check if starting a new story
+      numSeen.clear();
+      return;
+    }
+
     const match = line.match(/^-\s+(\d+-\d+)\s*:\s*([^(\s].*\))\s*\((.+)\)$/);
     if (match) {
       const [, num, track, mode] = match;
