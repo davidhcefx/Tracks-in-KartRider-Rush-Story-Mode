@@ -5,9 +5,9 @@
 const fs = require('fs');
 
 /**
- * @returns{Set.<String>} English track names
+ * @returns {Set.<String>} English track names
  */
-function getTracklist() {
+function getTrackList() {
   const tracks = fs.readFileSync('Tracklist_zh.md', { encoding: 'utf8' })
     .split('\n')
     .map((ln) => ln.split('|'))
@@ -18,7 +18,7 @@ function getTracklist() {
 
 /**
  * @param {String} readme
- * @returns{Set.<String>} Mode abbreviations
+ * @returns {Set.<String>} Mode abbreviations
  */
 function getModes(readme) {
   const modes = new Set();
@@ -39,36 +39,32 @@ function getModes(readme) {
 
 function check() {
   const readme = fs.readFileSync('README.md', { encoding: 'utf8' });
-  const tracklist = getTracklist();
-  const modelist = getModes(readme);
-  const numSeen = new Set();
+  const trackList = getTrackList();
+  const modeList = getModes(readme);
 
-  readme.split('\n').forEach((line) => {
-    const storyMatch = line.match(/^##\s.+$/);
-    if (storyMatch) {
-      // reset numbering check if starting a new story
-      numSeen.clear();
-      return;
-    }
+  readme.split(/\n## .+\n/).forEach((story) => {  // each story consists of multiple chapters
+    const numSeen = new Set();
 
-    const match = line.match(/^-\s+(\d+-\d+)\s*:\s*([^(\s].*\))\s*\((.+)\)$/);
-    if (match) {
-      const [, num, track, mode] = match;
+    story.split('\n').forEach((line) => {
+      const item = line.match(/^-\s+(\d+-\d+)\s*:\s*([^(\s].*\))\s*\((.+)\)$/);
+      if (item) {
+        const [, num, track, mode] = item;
 
-      // each numbering (eg. '10-3') should be unique
-      if (numSeen.has(num)) {
-        throw Error(`The number '${num}' has appeared more than once!`);
+        // each numbering (eg. '10-3') should be unique
+        if (numSeen.has(num)) {
+          throw Error(`The number '${num}' has appeared more than once!`);
+        }
+        numSeen.add(num);
+        // each track should belongs to trackList
+        if (!trackList.has(track)) {
+          throw Error(`Track name '${track}' does not belong to 'Tracklist_zh.md'`);
+        }
+        // each mode should belongs to modeList
+        if (!modeList.has(mode)) {
+          throw Error(`Unrecognized mode name '${mode}' in: ${line}`);
+        }
       }
-      numSeen.add(num);
-      // each track should belongs to tracklist
-      if (!tracklist.has(track)) {
-        throw Error(`Track name '${track}' does not belong to 'Tracklist_zh.md'`);
-      }
-      // each mode should belongs to modelist
-      if (!modelist.has(mode)) {
-        throw Error(`Unrecognized mode name '${mode}' in: ${line}`);
-      }
-    }
+    });
   });
   console.log('All seems well!');
 }
