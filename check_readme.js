@@ -8,7 +8,7 @@ const fs = require('fs');
  * @returns {Set.<String>} English track names
  */
 function getTrackList() {
-  const tracks = fs.readFileSync('Tracklist_zh.md', { encoding: 'utf8' })
+  const tracks = fs.readFileSync('Tracklist.md', { encoding: 'utf8' })
     .split('\n')
     .map((ln) => ln.split('|'))
     .filter((row) => row.length >= 4 && !row[1].includes('--'))
