@@ -5,14 +5,15 @@
 const fs = require('fs');
 
 /**
+ * @param {String} filename The tracklist file
  * @returns {Set.<String>} English track names
  */
-function getTrackList() {
-  const tracks = fs.readFileSync('Tracklist.md', { encoding: 'utf8' })
+function getTrackList(filename) {
+  const tracks = fs.readFileSync(filename, { encoding: 'utf8' })
     .split('\n')
     .map((ln) => ln.split('|'))
     .filter((row) => row.length >= 4 && !row[1].includes('--'))
-    .map((row) => row[2].trim());
+    .map((row) => row[1].trim());
   return new Set(tracks);
 }
 
@@ -39,7 +40,7 @@ function getModes(readme) {
 
 function check() {
   const readme = fs.readFileSync('README.md', { encoding: 'utf8' });
-  const trackList = getTrackList();
+  const trackList = getTrackList('Tracklist.md');
   const modeList = getModes(readme);
 
   readme.split(/\n## .+\n/).forEach((story) => {  // each story consists of multiple chapters
@@ -57,7 +58,7 @@ function check() {
         numSeen.add(num);
         // each track should belongs to trackList
         if (!trackList.has(track)) {
-          throw Error(`Track name '${track}' does not belong to 'Tracklist_zh.md'`);
+          throw Error(`Track name '${track}' does not belong to 'Tracklist.md'`);
         }
         // each mode should belongs to modeList
         if (!modeList.has(mode)) {

@@ -4,10 +4,10 @@
 
 > - *Please use the [hamburger button](https://en.wikipedia.org/wiki/Hamburger_button) on the upper left corner to navigate or simply search for a keyword.*
 > - **Tracklist (Maps)**:
+>   - [Tracklist.md](Tracklist.md)
+>   - [地圖翻譯機](https://github.com/davidhcefx/KartRider-Track-Name-Translator)
 >   - https://www.reddit.com/r/Kartrider/comments/go4v6u/is_there_a_complete_tracklist_written_down/
 >   - https://strategywiki.org/wiki/Crazyracing_Kartrider/Tracks
->   - [地圖中英對照表](Tracklist_zh.md)
->   - [地圖翻譯機](https://github.com/davidhcefx/KartRider-Track-Name-Translator)
 > - **Mode abbreviations**:  
 >   | Abbr | En               | Zh        |
 >   | ---- | ---------------- | --------- |
@@ -23,6 +23,7 @@
 >   | Tc   | Time Challenge   | 時間挑戰賽 |
 >   | Tr   | Timed Race       | 限時賽 |
 >   | Tt   | Time Trial       | 計時賽 |
+> - **Karts**: https://krrplus.web.app/karts
 > - Chapter 9 ~ 32 is based on [this forum](https://forum.gamer.com.tw/C.php?bsn=36872&snA=2936), please correct me if there are some mistakes :)
 
 ## Boomhill

@@ -1,141 +1,143 @@
-# 地圖名稱中英對照表
+# Tracklist for KartRider Rush+
 
-## 初級
+> 跑跑地圖中英對照表
 
-| Zh      | En                      |
-| ------- | ----------------------- |
-| 城鎮運河 | Canal (Village) |
-| 龍貓樂園 | Panda Paradise (Forest) |
-| 森林木桶 | Lumberjack Lane (Forest) |
-| 城鎮環道 | Twin Gates (Village) |
-| 冰河企鵝島 | Penguin Rock (Ice) |
-| 城鎮高速公路 | Up 'N' Down (Village) |
-| 城鎮南山 | Namsan Tour (Village) |
-| 濱海風景 | Bridge Run (Beach) |
-| 龍之都市 | Shanghai Noon (China) |
-| 中華主題東方明珠之夜 | Shanghai Nights (China) |
-| 獅城狂飆 | Singapore Circuit (WKC) |
-| 驚險飛機場 | Steamfunk Aerodrome (1920) |
-| 中華主題拉薩 | Tibetan Turnpike (China) |
-| 中華主題龍之運河 | Dragon's Canal (China) |
-| 中華主題紫禁城 | Dragon Palace (China) |
-| 侏儸紀恐龍墳墓 | Dino Boneyard (Jurassic) |
-| 木桶驚險跳躍 | Knobbly Log Lane (Fairy) |
-| 機械戰爭前線戰場 | Line of Fire (Mechanic) |
-| 能量之源泉 | Power Core (Brodi) |
-| 太空跳躍峽谷 | Outer Orbiter (Northeu) |
-| 冰鯊墓地 | Shark's Tomb (Ice) |
-| 沙漠市場 | Beguy Market (Desert) |
-| 墓園幽靈鬼域 | Specter Pass (Tomb) |
-| 濱海水上機場 | Water Aerodrome (Beach) |
-| 城鎮鐘樓 | Clock Tower (Village) |
-| 太空噴射滑坡 | Formula 51 (Northeu) |
-| 森林瀑布 | Checkered Flag Falls (Forest) |
-| 奇怪的蒸氣工廠 | Steamfunk Factory (1920) |
-| 能量生產線 | Large Hot Rod Collider (Brodi) |
-| 像素村鎮 | Cubeville Heights (Block) |
-| 麥迪婭隱匿所 | Mediea's Hideaway (Block) |
-| 太空彈跳 | Jump Point (Northeu) |
-| [R] 太空彈跳 | [R] Jump Point (Northeu) |
-| 童話藍寶與魔豆 | Beanstalk Raceway (Storybook) |
-| 黃金文明危機四伏 | Boulder Dash (Gold) |
-| 黃金文明笑傲飛鷹 | Falcon's Reach (Gold) |
-| 精靈神木的捷徑 | Fairy Snail Pass (Fairy) |
-| 神域光之路 | Luminous Bridge (Norse) |
-| 海盜危機大逃亡 | Treasure Trail (Pirate) |
-| 遊樂園2週年派對競技場  | Party Arena (Park) |
-| ? | Water Slide (Park) |
+## Basic
 
-
-## 簡單
-
-| Zh      | En                      |
-| ------- | ----------------------- |
-| 靈岩環道 | Korea Circuit (WKC) |
-| 賽道9 | Corkscrew (Beach) |
-| 杜拜富人區 | Downtown Dubai (World) |
-| 巴黎風情 | Paris Grand Prix (World) |
-| 海濱遊艇俱樂部 | Shipping Lanes (Beach) |
-| 刀劍野外修練館 | Training Center (Sword) |
-| 城鎮手指 | Handy Harbor (Village) |
-| 里約滑坡 | Rio Downhill (World) |
-| 360塔樓 | 360 Tower (Park) |
-| 侏儸紀恐龍格鬥場 | Dinosaur Arena (Jurassic) |
-| 浮空要塞 | Rainslick Raceway (Moonhill) |
-| 遺忘孤城 | The Forgotten City (Mechanic) |
-| 城鎮命運之橋 | The Bridge of Fate (Village) |
-| 刀劍龍之路 | Dragon's Descent (Sword) |
-| 積木樂園玩具禮物工廠 | Toy Factory (Block) |
-| 布羅帝祕密的研究所 | Mysterious Lab (Brodi) |
-| 中華主題月光冰燈城 | Ice Lantern Road (China) |
-| 太空戰鬥飛行場 | Combat Airfield (Northeu) |
-| [R] 城鎮高速公路 | [R] Up 'N' Down (Village) |
-| 城鎮水上翹翹板 | Extreme Zone (Village) |
-| 世界巴黎艾菲爾鐵塔 | Paris Eiffel Tower Dive (World) |
-| 世界紐約大疾走 | New York Rally (World) |
-| 世界比薩旋轉斜塔 | Tower of Pisa (World) |
-| 中華主題晴空萬里的西湖 | Dragon's Lake (China) |
-| 神域諸神世界 | Gods' Realm (Norse) |
-| 工廠傻瓜陷阱 | Trap Factory (Factory) |
-| [R] 海盜絕壁海灣 | [R] Boombeard's Hideout (Pirate) |
-| 世界希臘的假日 | Greek Prix (World) |
-| 倫敦夜色 | London Nights (World) |
-| 太空迴旋走廊 | Mile High Motorway (Northeu) |
-| 旋轉木馬 | Kartland Park (Storybook) |
-| 冰河冰山極速 | Iceberg Speedway (Ice) |
-| 沙漠金字塔 | Pharoah's Pass (Desert) |
-| 進擊的恐龍村 | Dino Town (Jurassic) |
-| 侏儸紀火山歷險 | Dangerous Volcano Jump Zone (Jurassic) |
-| 幽靈峽谷 | Cemetery Circuit (Tomb) |
-| 礦山寶石開採場 | Crystal Quarry (Mine) |
-| 礦山岩漿洞 | Lava Lane (Mine) |
-| 路易的書房 | Louie's Study (Castle) |
-| 童話撲克牌的迷宮仙境 | Card Kingdom Maze (Storybook) |
-| 沙漠水庫 | Ancient Ruins (Desert) |
-| [R] 墓園幽靈峽谷 | [R] Cemetery Circuit (Tomb) |
-| 城堡玩具的天堂 | Louie's Dollhouse (Castle) |
-| 森林游擊場 | Tenderfoot Trail (Forest) |
-| 工廠巨大齒輪的威脅 | Gear Grinder (Factory) |
-| 工廠砰砰砰大冒險 | Assembly Lane (Factory) |
-| 海盜暈眩碼頭 | Perilous Pier (Pirate) |
-| 童話魔女之城 | Witch City (Fairy) |
+| En              | Zh      |
+| --------------- | ------- |
+| Canal (Village) | 城鎮運河 |
+| Panda Paradise (Forest) | 龍貓樂園 |
+| Lumberjack Lane (Forest) | 森林木桶 |
+| Twin Gates (Village) | 城鎮環道 |
+| Penguin Rock (Ice) | 冰河企鵝島 |
+| Up 'N' Down (Village) | 城鎮高速公路 |
+| Namsan Tour (Village) | 城鎮南山 |
+| Bridge Run (Beach) | 濱海風景 |
+| Shanghai Noon (China) | 龍之都市 |
+| Shanghai Nights (China) | 中華主題東方明珠之夜 |
+| Singapore Circuit (WKC) | 獅城狂飆 |
+| Steamfunk Aerodrome (1920) | 驚險飛機場 |
+| Tibetan Turnpike (China) | 中華主題拉薩 |
+| Dragon's Canal (China) | 中華主題龍之運河 |
+| Dragon Palace (China) | 中華主題紫禁城 |
+| Dino Boneyard (Jurassic) | 侏儸紀恐龍墳墓 |
+| Knobbly Log Lane (Fairy) | 木桶驚險跳躍 |
+| Line of Fire (Mechanic) | 機械戰爭前線戰場 |
+| Power Core (Brodi) | 能量之源泉 |
+| Outer Orbiter (Northeu) | 太空跳躍峽谷 |
+| Shark's Tomb (Ice) | 冰鯊墓地 |
+| Beguy Market (Desert) | 沙漠市場 |
+| Specter Pass (Tomb) | 墓園幽靈鬼域 |
+| Water Aerodrome (Beach) | 濱海水上機場 |
+| Clock Tower (Village) | 城鎮鐘樓 |
+| Formula 51 (Northeu) | 太空噴射滑坡 |
+| Checkered Flag Falls (Forest) | 森林瀑布 |
+| Steamfunk Factory (1920) | 奇怪的蒸氣工廠 |
+| Large Hot Rod Collider (Brodi) | 能量生產線 |
+| Cubeville Heights (Block) | 像素村鎮 |
+| Mediea's Hideaway (Block) | 麥迪婭隱匿所 |
+| Jump Point (Northeu) | 太空彈跳 |
+| [R] Jump Point (Northeu) | [R] 太空彈跳 |
+| Beanstalk Raceway (Storybook) | 童話藍寶與魔豆 |
+| Boulder Dash (Gold) | 黃金文明危機四伏 |
+| Falcon's Reach (Gold) | 黃金文明笑傲飛鷹 |
+| Fairy Snail Pass (Fairy) | 精靈神木的捷徑 |
+| Luminous Bridge (Norse) | 神域光之路 |
+| Treasure Trail (Pirate) | 海盜危機大逃亡 |
+| Party Arena (Park) | 遊樂園2週年派對競技場  |
+| Water Slide (Park) | ? |
 
 
-## 普通
+## Easy
 
-| Zh      | En                      |
-| ------- | ----------------------- |
-| 工廠工廠中的雙工廠 | Dueling Factories (Factory) |
-| 龍之遺跡 | Terracotta Twister (China) |
-| 城鎮萬里長城 | The Great Wall (Village) |
-| 海盜絕壁海灣 | Boombeard's Hideout (Pirate) |
-| 海底神殿 | Secrets of the Temple (Fairy) |
-| 森林髮夾 | Canopy Curve (Forest) |
-| 英特格拉斯 | Brazil Circuit (WKC) |
-| 沙漠旋轉工地 | Twirling Construction Site (Desert) |
-| 大城堡秘密地下室 | Secret Basement (Castle) |
-| 黃山賽道 | Huangshan Highway (China) |
-| 海盜寶藏迷宮 | Hidden Treasure (Pirate) |
-| 城鎮公路 | Boomhill Tunnel (Village) |
-| 冰河裂谷 | Frost Valley (Ice) |
-| 黃金文明危險機關 | Temple of Vroom (Gold) |
-| 積木樂園聖誕老人的秘密基地 | Santa's Secret Space (Block) |
-| 黃金文明黃金座標 | Path to Oret (Gold) |
-| 中華主題中華胡同 | Alleyway Sprint (China) |
-| 海盜要塞瞭望塔 | Pirate's Cay (Pirate) |
-| 刀劍雲中峽谷 | Cloud Valley (Sword) |
-| 海盜鯊魚島的秘密 | Shark Island (Pirate) |
+| En                  | Zh      |
+| ------------------- | ------- |
+| Korea Circuit (WKC) | 靈岩環道 |
+| Corkscrew (Beach) | 賽道9 |
+| Downtown Dubai (World) | 杜拜富人區 |
+| Paris Grand Prix (World) | 巴黎風情 |
+| Shipping Lanes (Beach) | 海濱遊艇俱樂部 |
+| Training Center (Sword) | 刀劍野外修練館 |
+| Handy Harbor (Village) | 城鎮手指 |
+| Rio Downhill (World) | 里約滑坡 |
+| 360 Tower (Park) | 360塔樓 |
+| Dinosaur Arena (Jurassic) | 侏儸紀恐龍格鬥場 |
+| Rainslick Raceway (Moonhill) | 浮空要塞 |
+| The Forgotten City (Mechanic) | 遺忘孤城 |
+| The Bridge of Fate (Village) | 城鎮命運之橋 |
+| Dragon's Descent (Sword) | 刀劍龍之路 |
+| Toy Factory (Block) | 積木樂園玩具禮物工廠 |
+| Mysterious Lab (Brodi) | 布羅帝祕密的研究所 |
+| Ice Lantern Road (China) | 中華主題月光冰燈城 |
+| Combat Airfield (Northeu) | 太空戰鬥飛行場 |
+| [R] Up 'N' Down (Village) | [R] 城鎮高速公路 |
+| Extreme Zone (Village) | 城鎮水上翹翹板 |
+| Paris Eiffel Tower Dive (World) | 世界巴黎艾菲爾鐵塔 |
+| New York Rally (World) | 世界紐約大疾走 |
+| Tower of Pisa (World) | 世界比薩旋轉斜塔 |
+| Dragon's Lake (China) | 中華主題晴空萬里的西湖 |
+| Gods' Realm (Norse) | 神域諸神世界 |
+| Trap Factory (Factory) | 工廠傻瓜陷阱 |
+| [R] Boombeard's Hideout (Pirate) | [R] 海盜絕壁海灣 |
+| Greek Prix (World) | 世界希臘的假日 |
+| London Nights (World) | 倫敦夜色 |
+| Mile High Motorway (Northeu) | 太空迴旋走廊 |
+| Kartland Park (Storybook) | 旋轉木馬 |
+| Iceberg Speedway (Ice) | 冰河冰山極速 |
+| Pharoah's Pass (Desert) | 沙漠金字塔 |
+| Dino Town (Jurassic) | 進擊的恐龍村 |
+| Dangerous Volcano Jump Zone (Jurassic) | 侏儸紀火山歷險 |
+| Cemetery Circuit (Tomb) | 幽靈峽谷 |
+| Crystal Quarry (Mine) | 礦山寶石開採場 |
+| Lava Lane (Mine) | 礦山岩漿洞 |
+| Louie's Study (Castle) | 路易的書房 |
+| Card Kingdom Maze (Storybook) | 童話撲克牌的迷宮仙境 |
+| Ancient Ruins (Desert) | 沙漠水庫 |
+| [R] Cemetery Circuit (Tomb) | [R] 墓園幽靈峽谷 |
+| Louie's Dollhouse (Castle) | 城堡玩具的天堂 |
+| Tenderfoot Trail (Forest) | 森林游擊場 |
+| Gear Grinder (Factory) | 工廠巨大齒輪的威脅 |
+| Assembly Lane (Factory) | 工廠砰砰砰大冒險 |
+| Perilous Pier (Pirate) | 海盜暈眩碼頭 |
+| Witch City (Fairy) | 童話魔女之城 |
 
 
-## 困難
+## Normal
 
-| Zh      | En                      |
-| ------- | ----------------------- |
-| 彩虹之門 | The Gate of the Wonderland (Storybook) |
-| 太空蜿蜒跑道 | Cosmic Canyon (Northeu) |
-| 礦山曲折滑坡 | Zigzag Downhill (Mine) |
-| 未完成的第五區 | Unfinished Zone 5 (Factory) |
-| 森林崎嶇下山道 | Dizzying Downhill (Forest) |
-| 墓園魔王的邀請 | Demon King's Invitation (Tomb) |
-| 冰河冰山滑雪場 | Ski Resort (Ice) |
-| [R] 森林髮夾彎 | [R] Canopy Curve (Forest) |
+| En                          | Zh      |
+| --------------------------- | ------- |
+| Dueling Factories (Factory) | 工廠工廠中的雙工廠 |
+| Terracotta Twister (China) | 龍之遺跡 |
+| The Great Wall (Village) | 城鎮萬里長城 |
+| Boombeard's Hideout (Pirate) | 海盜絕壁海灣 |
+| Secrets of the Temple (Fairy) | 海底神殿 |
+| Canopy Curve (Forest) | 森林髮夾 |
+| Brazil Circuit (WKC) | 英特格拉斯 |
+| Twirling Construction Site (Desert) | 沙漠旋轉工地 |
+| Secret Basement (Castle) | 大城堡秘密地下室 |
+| Huangshan Highway (China) | 黃山賽道 |
+| Hidden Treasure (Pirate) | 海盜寶藏迷宮 |
+| Boomhill Tunnel (Village) | 城鎮公路 |
+| Frost Valley (Ice) | 冰河裂谷 |
+| Temple of Vroom (Gold) | 黃金文明危險機關 |
+| Santa's Secret Space (Block) | 積木樂園聖誕老人的秘密基地 |
+| Path to Oret (Gold) | 黃金文明黃金座標 |
+| Alleyway Sprint (China) | 中華主題中華胡同 |
+| Pirate's Cay (Pirate) | 海盜要塞瞭望塔 |
+| Cloud Valley (Sword) | 刀劍雲中峽谷 |
+| Shark Island (Pirate) | 海盜鯊魚島的秘密 |
+
+
+## Hard
+
+| En                                     | Zh      |
+| -------------------------------------- | ------- |
+| The Gate of the Wonderland (Storybook) | 彩虹之門 |
+| Cosmic Canyon (Northeu) | 太空蜿蜒跑道 |
+| Zigzag Downhill (Mine) | 礦山曲折滑坡 |
+| Unfinished Zone 5 (Factory) | 未完成的第五區 |
+| Dizzying Downhill (Forest) | 森林崎嶇下山道 |
+| Demon King's Invitation (Tomb) | 墓園魔王的邀請 |
+| Ski Resort (Ice) | 冰河冰山滑雪場 |
+| [R] Canopy Curve (Forest) | [R] 森林髮夾彎 |
