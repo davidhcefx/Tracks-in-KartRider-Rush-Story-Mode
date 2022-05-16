@@ -570,52 +570,52 @@ B-5 | Assembly Lane (Factory) | I |
 \#   | Track | Mode | Kart
 --- | ----- | ---- | ----
 1-1 | Paris Grand Prix (World) | Tr | Starship Solid
-1-2 | Secret Basement (Castle) | Esc |
+1-2 | Secret Basement (Castle) | Esc | Sprinter
 1-3 | *N/A*
-1-4 | Perilous Pier (Pirate) | S |
+1-4 | Perilous Pier (Pirate) | S | Static Striker (Mjolnir)
 1-5 | *N/A*
-1-6 | The Bridge of Fate (Village) | Em |
-1-7 | Extreme Zone (Village) | Esc |
-1-8 | Bridge Run (Beach) | C |
-1-9 | Perilous Pier (Pirate) | I |
+1-6 | The Bridge of Fate (Village) | Em | Sprinter
+1-7 | Extreme Zone (Village) | Esc | Static Striker (Mjolnir)
+1-8 | Bridge Run (Beach) | C | War Master Chariot (Svalinn/Asgard Shield)
+1-9 | Perilous Pier (Pirate) | I | Static Striker (Mjolnir)
 1-10 | *N/A*
 
 ### Chapter 2
 \#   | Track | Mode | Kart
 --- | ----- | ---- | ----
-2-1 | Shark Island (Pirate) | F |
+2-1 | Shark Island (Pirate) | F | War Panda (Divine Panda)
 2-2 | *N/A*
-2-3 | Tenderfoot Trail (Forest) | S |
-2-4 | Treasure Trail (Pirate) | C |
-2-5 | Perilous Pier (Pirate) | I |
-2-6 | Treasure Trail (Pirate) | Tc |
+2-3 | Tenderfoot Trail (Forest) | S | Thunder Lancer (Gungnir)
+2-4 | Treasure Trail (Pirate) | C | Sprinter
+2-5 | Perilous Pier (Pirate) | I | War Master Chariot (Svalinn/Asgard Shield)
+2-6 | Treasure Trail (Pirate) | Tc | Lightning Chariot
 2-7 | *N/A*
 2-8 | *N/A*
-2-9 | [R] Boombeard's Hideout (Pirate) | Tr |
-2-10 | Treasure Trail (Pirate) | I |
+2-9 | [R] Boombeard's Hideout (Pirate) | Tr | War Panda (Divine Panda)
+2-10 | Treasure Trail (Pirate) | I | Light Piercer (Evergreen Blade)
 
 ### Chapter 3
 \#   | Track | Mode | Kart
 --- | ----- | ---- | ----
 3-1 | *N/A*
-3-2 | Secrets of the Temple (Fairy) | S |
-3-3 | Pirate's Cay (Pirate) | Em |
-3-4 | [R] Boombeard's Hideout (Pirate) | F |
-3-5 | Hidden Treasure (Pirate) | L |
-3-6 | Shark Island (Pirate) | Em |
-3-7 | Perilous Pier (Pirate) | I |
-3-8 | Treasure Trail (Pirate) | I |
-3-9 | Perilous Pier (Pirate) | S |
-3-10 | Shark Island (Pirate) | S |
+3-2 | Secrets of the Temple (Fairy) | S | Thunder Lancer (Gungnir)
+3-3 | Pirate's Cay (Pirate) | Em | Monowheeler (Golden Ring)
+3-4 | [R] Boombeard's Hideout (Pirate) | F | Fairy Airship
+3-5 | Hidden Treasure (Pirate) | L | Lightning Chariot
+3-6 | Shark Island (Pirate) | Em | War Panda (Divine Panda)
+3-7 | Perilous Pier (Pirate) | I | Purrowler (Bastet)
+3-8 | Treasure Trail (Pirate) | I | Sprinter
+3-9 | Perilous Pier (Pirate) | S | War Master Chariot (Svalinn/Asgard Shield)
+3-10 | Shark Island (Pirate) | S | Fairy Airship
 
 ### Bonus
 \#   | Track | Mode | Kart
 --- | ----- | ---- | ----
-Bonus 1 | Namsan Tour (Village) | Em |
-Bonus 2 | Lumberjack Lane (Forest) | I |
-Bonus 3 | Hidden Treasure (Pirate) | Esc |
-Bonus 4 | Perilous Pier (Pirate) | Tr |
-Bonus 5 | Checkered Flag Falls (Forest) | I |
+Bonus 1 | Namsan Tour (Village) | Em | Starship Solid
+Bonus 2 | Lumberjack Lane (Forest) | I | War Master Chariot (Svalinn/Asgard Shield)
+Bonus 3 | Hidden Treasure (Pirate) | Esc | Lodi Pyron
+Bonus 4 | Perilous Pier (Pirate) | Tr | Static Striker (Mjolnir)
+Bonus 5 | Checkered Flag Falls (Forest) | I | War Master Chariot (Svalinn/Asgard Shield)
 
 ## 2-Year Anniversary Party
 
