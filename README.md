@@ -316,7 +316,7 @@
 - 36-6: Large Hot Rod Collider (Brodi) (I)
 
 ### Chapter 37-40
-\#    | Track | Mode
+\#   | Track | Mode
 ---- | ----- | ----
 37-1 | Up 'N' Down (Village) | S
 37-2 | Dragon's Canal (China) | Em
@@ -344,7 +344,7 @@
 40-6 | Dragon Palace (China) | Em
 
 ### Chapter 41-44
-\#    | Track | Mode
+\#   | Track | Mode
 ---- | ----- | ----
 41-1 | Formula 51 (Northeu) | Tr
 41-2 | Namsan Tour (Village) | C
@@ -372,7 +372,7 @@
 44-6 | Cosmic Canyon (Northeu) | S
 
 ### Chapter 45-48
-\#    | Track | Mode
+\#   | Track | Mode
 ---- | ----- | ----
 45-1 | 360 Tower (Park) | S
 45-2 | Clock Tower (Village) | Tr
@@ -400,7 +400,7 @@
 48-6 | Alleyway Sprint (China) | S
 
 ### Chapter 49-52
-\#    | Track | Mode
+\#   | Track | Mode
 ---- | ----- | ----
 49-1 | Twin Gates (Village) | Tr
 49-2 | New York Rally (World) | F
@@ -428,7 +428,7 @@
 52-6 | New York Rally (World) | S
 
 ### Chapter 53-56
-\#    | Track | Mode
+\#   | Track | Mode
 ---- | ----- | ----
 53-1 | Checkered Flag Falls (Forest) | Tr
 53-2 | Path to Oret (Gold) | S
@@ -456,7 +456,7 @@
 56-6 | Dizzying Downhill (Forest) | S
 
 ### Chapter 57-60
-\#    | Track | Mode
+\#   | Track | Mode
 ---- | ----- | ----
 57-1 | Checkered Flag Falls (Forest) | S
 57-2 | Tenderfoot Trail (Forest) | S
@@ -484,7 +484,7 @@
 60-6 | [R] Canopy Curve (Forest) | S
 
 ### Chapter 61-64
-\#    | Track | Mode
+\#   | Track | Mode
 ---- | ----- | ----
 61-1 | Gods' Realm (Norse) | Tr
 61-2 | Luminous Bridge (Norse) | C
@@ -514,7 +514,7 @@
 ## Future Factory
 
 ### Chapter 1
-\#   | Track | Mode | Kart
+\#  | Track | Mode | Kart
 --- | ----- | ---- | ----
 1-1 | Power Core (Brodi) | R |
 1-2 | The Bridge of Fate (Village) | S |
@@ -528,7 +528,7 @@
 1-10 | Unfinished Zone 5 (Factory) | Tt |
 
 ### Chapter 2
-\#   | Track | Mode | Kart
+\#  | Track | Mode | Kart
 --- | ----- | ---- | ----
 2-1 | Steamfunk Aerodrome (1920) | Tr |
 2-2 | Combat Airfield (Northeu) | S |
@@ -542,7 +542,7 @@
 2-10 | Mysterious Lab (Brodi) | F |
 
 ### Chapter 3
-\#   | Track | Mode | Kart
+\#  | Track | Mode | Kart
 --- | ----- | ---- | ----
 3-1 | Mile High Motorway (Northeu) | Esc |
 3-2 | *N/A*
@@ -556,7 +556,7 @@
 3-10 | Dueling Factories (Factory) | S |
 
 ### Bonus
-\#   | Track | Mode | Kart
+\#  | Track | Mode | Kart
 --- | ----- | ---- | ----
 B-1 | Power Core (Brodi) | Tr |
 B-2 | Trap Factory (Factory) | C |
@@ -567,7 +567,7 @@ B-5 | Assembly Lane (Factory) | I |
 ## Pirate's Voyage
 
 ### Chapter 1
-\#   | Track | Mode | Kart
+\#  | Track | Mode | Kart
 --- | ----- | ---- | ----
 1-1 | Paris Grand Prix (World) | Tr | Starship Solid
 1-2 | Secret Basement (Castle) | Esc | Sprinter
@@ -581,7 +581,7 @@ B-5 | Assembly Lane (Factory) | I |
 1-10 | *N/A*
 
 ### Chapter 2
-\#   | Track | Mode | Kart
+\#  | Track | Mode | Kart
 --- | ----- | ---- | ----
 2-1 | Shark Island (Pirate) | F | War Panda (Divine Panda)
 2-2 | *N/A*
@@ -595,7 +595,7 @@ B-5 | Assembly Lane (Factory) | I |
 2-10 | Treasure Trail (Pirate) | I | Light Piercer (Evergreen Blade)
 
 ### Chapter 3
-\#   | Track | Mode | Kart
+\#  | Track | Mode | Kart
 --- | ----- | ---- | ----
 3-1 | *N/A*
 3-2 | Secrets of the Temple (Fairy) | S | Thunder Lancer (Gungnir)
@@ -609,7 +609,7 @@ B-5 | Assembly Lane (Factory) | I |
 3-10 | Shark Island (Pirate) | S | Fairy Airship
 
 ### Bonus
-\#   | Track | Mode | Kart
+\#  | Track | Mode | Kart
 --- | ----- | ---- | ----
 Bonus 1 | Namsan Tour (Village) | Em | Starship Solid
 Bonus 2 | Lumberjack Lane (Forest) | I | War Master Chariot (Svalinn/Asgard Shield)
@@ -620,7 +620,7 @@ Bonus 5 | Checkered Flag Falls (Forest) | I | War Master Chariot (Svalinn/Asgard
 ## 2-Year Anniversary Party
 
 ### Chapter 1
-\#   | Track | Mode | Kart
+\#  | Track | Mode | Kart
 --- | ----- | ---- | ----
 1-1 | Shipping Lanes (Beach) | S |
 1-2 | Water Aerodrome (Beach) | F |
@@ -634,6 +634,6 @@ Bonus 5 | Checkered Flag Falls (Forest) | I | War Master Chariot (Svalinn/Asgard
 1-10 | Party Arena (Park) | S |
 
 ### Bonus
-\#   | Track | Mode | Kart
+\#  | Track | Mode | Kart
 --- | ----- | ---- | ----
 Bonus 1 | Party Arena (Park) | L |

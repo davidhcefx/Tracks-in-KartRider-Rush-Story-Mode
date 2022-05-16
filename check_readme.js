@@ -46,6 +46,9 @@ function check() {
     const numSeen = new Set();
 
     story.split('\n').forEach((line) => {
+      // TODO: change to parsing tables
+      // - also verify the chapter ranges
+
       const item = line.match(/^-\s+(\d+-\d+)\s*:\s*([^(\s].*\))\s*\((.+)\)$/);
       if (item) {
         const [, num, track, mode] = item;
