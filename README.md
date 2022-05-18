@@ -4,11 +4,10 @@
 
 > - *Please use the [hamburger button](https://en.wikipedia.org/wiki/Hamburger_button) on the upper left corner to navigate or simply search for a keyword.*
 > - **Tracklist (Maps)**:
->   - [Tracklist.md](Tracklist.md)
->   - [地圖翻譯機](https://github.com/davidhcefx/KartRider-Track-Name-Translator)
->   - https://www.reddit.com/r/Kartrider/comments/go4v6u/is_there_a_complete_tracklist_written_down/
->   - https://strategywiki.org/wiki/Crazyracing_Kartrider/Tracks
-> - **Mode abbreviations**:  
+>   - [KartRider Rush+ Unofficial Manual: Tracks](https://krrplus.web.app/tracks)
+>   - [Tracklist in English and Chinese](Tracklist.md)
+>   - [跑跑地圖翻譯機](https://github.com/davidhcefx/KartRider-Track-Name-Translator)
+> - **Mode abbreviations**:
 >   | Abbr | En               | Zh        |
 >   | ---- | ---------------- | --------- |
 >   | B    | Barricade Buster | 清障模式 |

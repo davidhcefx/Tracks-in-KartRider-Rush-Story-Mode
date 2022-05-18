@@ -1,4 +1,4 @@
-# Tracklist for KartRider Rush+
+# KartRider Rush+ Tracklist in English and Chinese
 
 > 跑跑地圖中英對照表
 
