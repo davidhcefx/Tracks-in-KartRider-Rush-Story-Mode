@@ -81,12 +81,12 @@ function check(readmeFile, tracksFile) {
 
         // each track should belongs to trackList
         if (!trackList.has(track)) {
-          throw Error(`Track name '${track}' does not belong to 'Tracklist.md'`);
+          throw Error(`Track name '${track}' does not belong to 'Tracklist.md': "${row[0]}"`);
         }
 
         // each mode should belongs to modeList
         if (!modeList.has(mode)) {
-          throw Error(`Unrecognized mode name '${mode}'`);
+          throw Error(`Unrecognized mode name '${mode}': "${row[0]}"`);
         }
       }
     });

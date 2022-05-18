@@ -709,7 +709,7 @@
 3-6 | Gear Grinder (Factory) | Em |
 3-7 | Assembly Lane (Factory) | I |
 3-8 | Gear Grinder (Factory) | I |
-3-9 | Unfinished Zone 5 | Tr |
+3-9 | Unfinished Zone 5 (Factory) | Tr |
 3-10 | Dueling Factories (Factory) | S |
 
 ### Bonus
