@@ -5,11 +5,11 @@
 const fs = require('fs');
 
 /**
- * @param {String} filename The tracklist file
- * @returns {Set.<String>} English track names
+ * @param {String} tracksFile The filename of tracklist
+ * @returns {Set.<String>} Track names in English
  */
-function getTrackList(filename) {
-  const tracks = fs.readFileSync(filename, { encoding: 'utf8' })
+function getTracklist(tracksFile) {
+  const tracks = fs.readFileSync(tracksFile, { encoding: 'utf8' })
     .split('\n')
     .map((ln) => ln.split('|'))
     .filter((row) => row.length >= 4 && !row[1].includes('--'))
@@ -38,36 +38,60 @@ function getModes(readme) {
   return modes;
 }
 
-function check() {
-  const readme = fs.readFileSync('README.md', { encoding: 'utf8' });
-  const trackList = getTrackList('Tracklist.md');
+// TODO: how to make fetch synchronous?
+// function getKarts() {
+//   let result;
+
+//   fetch('https://krrplus.web.app/main.js')
+//     .then((r) => r.text())
+//     .then((text) => {
+//       const match = text.match(/; *const .+?(\[\{.+?\}\])/);
+//       if (!match) throw Error('Cannot parse response from krrplus.web.app.');
+//       result = match[1].matchAll(/Name: *"(.+?)",/);
+//     });
+
+//   return result;
+// }
+
+/**
+ * @param {String} readmeFile The filename of readme
+ * @param {String} tracksFile The filename of tracklist
+ * @throws An error when some checks failed.
+ */
+function check(readmeFile, tracksFile) {
+  const readme = fs.readFileSync(readmeFile, { encoding: 'utf8' });
+  const trackList = getTracklist(tracksFile);
   const modeList = getModes(readme);
 
-  readme.split(/\n## .+\n/).forEach((story) => {  // each story consists of multiple chapters
+  // each story consists of multiple chapters
+  readme.split(/\n## .+\n/).slice(1).forEach((story) => {
+    // eg. '| 10-3 | Korea Circuit (WKC) | Tr | Monster |'
+    const rowRegex = /^\|?\s*([0-9B]+-[0-9]+)\s*\|([^|]+)\|([^|]+)\|?([^|]+)?/;
     const numSeen = new Set();
 
-    story.split('\n').forEach((line) => {
-      const item = line.match(/^-\s+(\d+-\d+)\s*:\s*([^(\s].*\))\s*\((.+)\)$/);
-      if (item) {
-        const [, num, track, mode] = item;
+    story.split('\n').map((line) => line.match(rowRegex)).forEach((row) => {
+      if (row) {
+        const [, num, track, mode, kart] = row.map((x) => (x ? x.trim() : x));
 
-        // each numbering (eg. '10-3') should be unique
+        // each numbering should be unique
         if (numSeen.has(num)) {
           throw Error(`The number '${num}' has appeared more than once!`);
         }
         numSeen.add(num);
+
         // each track should belongs to trackList
         if (!trackList.has(track)) {
           throw Error(`Track name '${track}' does not belong to 'Tracklist.md'`);
         }
+
         // each mode should belongs to modeList
         if (!modeList.has(mode)) {
-          throw Error(`Unrecognized mode name '${mode}' in: ${line}`);
+          throw Error(`Unrecognized mode name '${mode}'`);
         }
       }
     });
   });
-  console.log('All seems well!');
 }
 
-check();
+check('README.md', 'Tracklist.md');
+console.log('All seems well!');
