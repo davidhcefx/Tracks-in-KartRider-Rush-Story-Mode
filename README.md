@@ -781,18 +781,18 @@ B-5 | Checkered Flag Falls (Forest) | I | War Master Chariot (Svalinn/Asgard Shi
 ### Chapter 1
 \#  | Track | Mode | Kart
 --- | ----- | ---- | ----
-1-1 | Shipping Lanes (Beach) | S |
-1-2 | Water Aerodrome (Beach) | F |
+1-1 | Shipping Lanes (Beach) | S | Zeno Hyper
+1-2 | Water Aerodrome (Beach) | F | Skeletank D (Cannon)
 1-3 | *N/A*
-1-4 | Witch City (Fairy) | Esc |
-1-5 | 360 Tower (Park) | Tr |
-1-6 | Party Arena (Park) | I |
+1-4 | Witch City (Fairy) | Esc | Jolly Roadster (Pirate Ship)
+1-5 | 360 Tower (Park) | Tr | Zeno Hyper
+1-6 | Party Arena (Park) | I | Buzzwheeler (Constructor)
 1-7 | *N/A*
-1-8 | Water Slide (Park) | Em |
-1-9 | Fairy Snail Pass (Fairy) | Esc |
-1-10 | Party Arena (Park) | S |
+1-8 | Water Slide (Park) | Em | Monster Gold (Golden Monster)
+1-9 | Fairy Snail Pass (Fairy) | Esc | Infinity Ranger (Paragon Red-C)
+1-10 | Party Arena (Park) | S | Beetle Dasher (Black Beetle)
 
 ### Bonus
 \#  | Track | Mode | Kart
 --- | ----- | ---- | ----
-B-1 | Party Arena (Park) | L |
+B-1 | Party Arena (Park) | L | Zeno Hyper
