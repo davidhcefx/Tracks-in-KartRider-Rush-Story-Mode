@@ -792,7 +792,23 @@ B-5 | Checkered Flag Falls (Forest) | I | War Master Chariot (Svalinn/Asgard Shi
 1-9 | Fairy Snail Pass (Fairy) | Esc | Infinity Ranger (Paragon Red-C)
 1-10 | Party Arena (Park) | S | Beetle Dasher (Black Beetle)
 
+### Chapter 2
+\#  | Track | Mode | Kart
+--- | ----- | ---- | ----
+2-1 | [R] Up 'N' Down (Village) | S | Jolly Roadster
+2-2 | Water Slide (Park) | L | Grappler
+2-3 | Thrill Ride (Park) | S | Jolly Roadster
+2-4 | *N/A*
+2-5 | Party Arena (Park) | F | Zeno Hyper
+2-6 | Extreme Zone (Village) | Em | Infinity Ranger
+2-7 | Witch City (Storybook) | S | Monster Gold
+2-8 | *N/A*
+2-9 | Water Slide (Park) | S | Beetle Dasher
+2-10 | Boomhill Tunnel (Village) | Tc | Sharkbiter Gold
+
 ### Bonus
 \#  | Track | Mode | Kart
 --- | ----- | ---- | ----
 B-1 | Party Arena (Park) | L | Zeno Hyper
+B-2 | 360 Tower (Park) | Esc | Infinity Ranger
+B-3 | Party Arena (Park) | I | Monster Gold

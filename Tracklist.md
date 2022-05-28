@@ -47,6 +47,7 @@
 | Treasure Trail (Pirate) | 海盜危機大逃亡 |
 | Party Arena (Park) | 遊樂園2週年派對競技場  |
 | Water Slide (Park) | 遊樂園水上滑梯 |
+| Thrill Ride (Park) | |
 
 
 ## Easy
