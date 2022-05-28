@@ -673,53 +673,53 @@
 ### Chapter 1
 \#  | Track | Mode | Kart
 --- | ----- | ---- | ----
-1-1 | Power Core (Brodi) | R |
-1-2 | The Bridge of Fate (Village) | S |
-1-3 | Mysterious Lab (Brodi) | Em |
+1-1 | Power Core (Brodi) | R | Starship Solid
+1-2 | The Bridge of Fate (Village) | S | Sprinter
+1-3 | Mysterious Lab (Brodi) | Em | Static Striker
 1-4 | *N/A*
-1-5 | Large Hot Rod Collider (Brodi) | S |
-1-6 | Power Core (Brodi) | Tc |
+1-5 | Large Hot Rod Collider (Brodi) | S | Lodi Pyron
+1-6 | Power Core (Brodi) | Tc | Sprinter
 1-7 | *N/A*
-1-8 | Gear Grinder (Factory) | C |
-1-9 | Trap Factory (Factory) | F |
-1-10 | Unfinished Zone 5 (Factory) | Tt |
+1-8 | Gear Grinder (Factory) | C | War Master Chariot
+1-9 | Trap Factory (Factory) | F | Static Striker
+1-10 | Unfinished Zone 5 (Factory) | Tt | Monowheeler
 
 ### Chapter 2
 \#  | Track | Mode | Kart
 --- | ----- | ---- | ----
-2-1 | Steamfunk Aerodrome (1920) | Tr |
-2-2 | Combat Airfield (Northeu) | S |
-2-3 | Twin Gates (Village) | L |
-2-4 | Assembly Lane (Factory) | Em |
+2-1 | Steamfunk Aerodrome (1920) | Tr | War Panda
+2-2 | Combat Airfield (Northeu) | S | Fairy Airship
+2-3 | Twin Gates (Village) | L | Thunder Lancer
+2-4 | Assembly Lane (Factory) | Em | Sprinter
 2-5 | *N/A*
-2-6 | The Great Wall (Village) | F |
-2-7 | Large Hot Rod Collider (Brodi) | L |
-2-8 | Dueling Factories (Factory) | C |
-2-9 | Gear Grinder (Factory) | I |
-2-10 | Mysterious Lab (Brodi) | F |
+2-6 | The Great Wall (Village) | F | Lightning Chariot
+2-7 | Large Hot Rod Collider (Brodi) | L | Static Striker
+2-8 | Dueling Factories (Factory) | C | Light Piercer
+2-9 | Gear Grinder (Factory) | I | War Panda
+2-10 | Mysterious Lab (Brodi) | F | Light Piercer
 
 ### Chapter 3
 \#  | Track | Mode | Kart
 --- | ----- | ---- | ----
-3-1 | Mile High Motorway (Northeu) | Esc |
+3-1 | Mile High Motorway (Northeu) | Esc | Starship Solid
 3-2 | *N/A*
-3-3 | Gods' Realm (Norse) | S |
-3-4 | Beanstalk Raceway (Storybook) | Esc |
-3-5 | Formula 51 (Northeu) | S |
-3-6 | Gear Grinder (Factory) | Em |
-3-7 | Assembly Lane (Factory) | I |
-3-8 | Gear Grinder (Factory) | I |
-3-9 | Unfinished Zone 5 (Factory) | Tr |
-3-10 | Dueling Factories (Factory) | S |
+3-3 | Gods' Realm (Norse) | S | Monowheeler
+3-4 | Beanstalk Raceway (Storybook) | Esc | Fairy Airship
+3-5 | Formula 51 (Northeu) | S | Lightning Chariot
+3-6 | Gear Grinder (Factory) | Em | War Panda
+3-7 | Assembly Lane (Factory) | I | Purrowler
+3-8 | Gear Grinder (Factory) | I | Sprinter
+3-9 | Unfinished Zone 5 (Factory) | Tr | War Master Chariot
+3-10 | Dueling Factories (Factory) | S | Fairy Airship
 
 ### Bonus
 \#  | Track | Mode | Kart
 --- | ----- | ---- | ----
-B-1 | Power Core (Brodi) | Tr |
-B-2 | Trap Factory (Factory) | C |
-B-3 | Gear Grinder (Factory) | F |
-B-4 | Dueling Factories (Factory) | Tr |
-B-5 | Assembly Lane (Factory) | I |
+B-1 | Power Core (Brodi) | Tr | Starship Solid
+B-2 | Trap Factory (Factory) | C | War Master Chariot
+B-3 | Gear Grinder (Factory) | F | Lodi Pyron
+B-4 | Dueling Factories (Factory) | Tr | Static Striker
+B-5 | Assembly Lane (Factory) | I | War Master Chariot
 
 
 ## Pirate's Voyage
@@ -730,50 +730,50 @@ B-5 | Assembly Lane (Factory) | I |
 1-1 | Paris Grand Prix (World) | Tr | Starship Solid
 1-2 | Secret Basement (Castle) | Esc | Sprinter
 1-3 | *N/A*
-1-4 | Perilous Pier (Pirate) | S | Static Striker (Mjolnir)
+1-4 | Perilous Pier (Pirate) | S | Static Striker
 1-5 | *N/A*
 1-6 | The Bridge of Fate (Village) | Em | Sprinter
-1-7 | Extreme Zone (Village) | Esc | Static Striker (Mjolnir)
-1-8 | Bridge Run (Beach) | C | War Master Chariot (Svalinn/Asgard Shield)
-1-9 | Perilous Pier (Pirate) | I | Static Striker (Mjolnir)
+1-7 | Extreme Zone (Village) | Esc | Static Striker
+1-8 | Bridge Run (Beach) | C | War Master Chariot
+1-9 | Perilous Pier (Pirate) | I | Static Striker
 1-10 | *N/A*
 
 ### Chapter 2
 \#  | Track | Mode | Kart
 --- | ----- | ---- | ----
-2-1 | Shark Island (Pirate) | F | War Panda (Divine Panda)
+2-1 | Shark Island (Pirate) | F | War Panda
 2-2 | *N/A*
-2-3 | Tenderfoot Trail (Forest) | S | Thunder Lancer (Gungnir)
+2-3 | Tenderfoot Trail (Forest) | S | Thunder Lancer
 2-4 | Treasure Trail (Pirate) | C | Sprinter
-2-5 | Perilous Pier (Pirate) | I | War Master Chariot (Svalinn/Asgard Shield)
+2-5 | Perilous Pier (Pirate) | I | War Master Chariot
 2-6 | Treasure Trail (Pirate) | Tc | Lightning Chariot
 2-7 | *N/A*
 2-8 | *N/A*
-2-9 | [R] Boombeard's Hideout (Pirate) | Tr | War Panda (Divine Panda)
-2-10 | Treasure Trail (Pirate) | I | Light Piercer (Evergreen Blade)
+2-9 | [R] Boombeard's Hideout (Pirate) | Tr | War Panda
+2-10 | Treasure Trail (Pirate) | I | Light Piercer
 
 ### Chapter 3
 \#  | Track | Mode | Kart
 --- | ----- | ---- | ----
 3-1 | *N/A*
-3-2 | Secrets of the Temple (Fairy) | S | Thunder Lancer (Gungnir)
-3-3 | Pirate's Cay (Pirate) | Em | Monowheeler (Golden Ring)
+3-2 | Secrets of the Temple (Fairy) | S | Thunder Lancer
+3-3 | Pirate's Cay (Pirate) | Em | Monowheeler
 3-4 | [R] Boombeard's Hideout (Pirate) | F | Fairy Airship
 3-5 | Hidden Treasure (Pirate) | L | Lightning Chariot
-3-6 | Shark Island (Pirate) | Em | War Panda (Divine Panda)
-3-7 | Perilous Pier (Pirate) | I | Purrowler (Bastet)
+3-6 | Shark Island (Pirate) | Em | War Panda
+3-7 | Perilous Pier (Pirate) | I | Purrowler
 3-8 | Treasure Trail (Pirate) | I | Sprinter
-3-9 | Perilous Pier (Pirate) | S | War Master Chariot (Svalinn/Asgard Shield)
+3-9 | Perilous Pier (Pirate) | S | War Master Chariot
 3-10 | Shark Island (Pirate) | S | Fairy Airship
 
 ### Bonus
 \#  | Track | Mode | Kart
 --- | ----- | ---- | ----
 B-1 | Namsan Tour (Village) | Em | Starship Solid
-B-2 | Lumberjack Lane (Forest) | I | War Master Chariot (Svalinn/Asgard Shield)
+B-2 | Lumberjack Lane (Forest) | I | War Master Chariot
 B-3 | Hidden Treasure (Pirate) | Esc | Lodi Pyron
-B-4 | Perilous Pier (Pirate) | Tr | Static Striker (Mjolnir)
-B-5 | Checkered Flag Falls (Forest) | I | War Master Chariot (Svalinn/Asgard Shield)
+B-4 | Perilous Pier (Pirate) | Tr | Static Striker
+B-5 | Checkered Flag Falls (Forest) | I | War Master Chariot
 
 
 ## 2-Year Anniversary Party
@@ -782,15 +782,15 @@ B-5 | Checkered Flag Falls (Forest) | I | War Master Chariot (Svalinn/Asgard Shi
 \#  | Track | Mode | Kart
 --- | ----- | ---- | ----
 1-1 | Shipping Lanes (Beach) | S | Zeno Hyper
-1-2 | Water Aerodrome (Beach) | F | Skeletank D (Cannon)
+1-2 | Water Aerodrome (Beach) | F | Skeletank D
 1-3 | *N/A*
-1-4 | Witch City (Storybook) | Esc | Jolly Roadster (Pirate Ship)
+1-4 | Witch City (Storybook) | Esc | Jolly Roadster
 1-5 | 360 Tower (Park) | Tr | Zeno Hyper
-1-6 | Party Arena (Park) | I | Buzzwheeler (Constructor)
+1-6 | Party Arena (Park) | I | Buzzwheeler
 1-7 | *N/A*
-1-8 | Water Slide (Park) | Em | Monster Gold (Golden Monster)
-1-9 | Fairy Snail Pass (Fairy) | Esc | Infinity Ranger (Paragon Red-C)
-1-10 | Party Arena (Park) | S | Beetle Dasher (Black Beetle)
+1-8 | Water Slide (Park) | Em | Monster Gold
+1-9 | Fairy Snail Pass (Fairy) | Esc | Infinity Ranger
+1-10 | Party Arena (Park) | S | Beetle Dasher
 
 ### Chapter 2
 \#  | Track | Mode | Kart
