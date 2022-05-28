@@ -784,7 +784,7 @@ B-5 | Checkered Flag Falls (Forest) | I | War Master Chariot (Svalinn/Asgard Shi
 1-1 | Shipping Lanes (Beach) | S | Zeno Hyper
 1-2 | Water Aerodrome (Beach) | F | Skeletank D (Cannon)
 1-3 | *N/A*
-1-4 | Witch City (Fairy) | Esc | Jolly Roadster (Pirate Ship)
+1-4 | Witch City (Storybook) | Esc | Jolly Roadster (Pirate Ship)
 1-5 | 360 Tower (Park) | Tr | Zeno Hyper
 1-6 | Party Arena (Park) | I | Buzzwheeler (Constructor)
 1-7 | *N/A*

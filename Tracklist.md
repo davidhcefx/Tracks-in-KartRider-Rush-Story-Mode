@@ -101,7 +101,7 @@
 | Gear Grinder (Factory) | 工廠巨大齒輪的威脅 |
 | Assembly Lane (Factory) | 工廠砰砰砰大冒險 |
 | Perilous Pier (Pirate) | 海盜暈眩碼頭 |
-| Witch City (Fairy) | 童話魔女之城 |
+| Witch City (Storybook) | 童話魔女之城 |
 
 
 ## Normal
