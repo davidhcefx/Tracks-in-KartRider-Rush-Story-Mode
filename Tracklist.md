@@ -47,6 +47,7 @@
 | Treasure Trail (Pirate) | 海盜危機大逃亡 |
 | Party Arena (Park) | 遊樂園2週年派對競技場  |
 | Water Slide (Park) | 遊樂園水上滑梯 |
+| Thrill Ride (Park) | 遊樂園刺激破百軌道特急 |
 
 
 ## Easy
@@ -100,7 +101,7 @@
 | Gear Grinder (Factory) | 工廠巨大齒輪的威脅 |
 | Assembly Lane (Factory) | 工廠砰砰砰大冒險 |
 | Perilous Pier (Pirate) | 海盜暈眩碼頭 |
-| Witch City (Fairy) | 童話魔女之城 |
+| Witch City (Storybook) | 童話魔女之城 |
 
 
 ## Normal
