@@ -806,9 +806,25 @@ B-5 | Checkered Flag Falls (Forest) | I | War Master Chariot
 2-9 | Water Slide (Park) | S | Beetle Dasher
 2-10 | Boomhill Tunnel (Village) | Tc | Sharkbiter Gold
 
+### Chapter 3
+\#  | Track | Mode | Kart
+--- | ----- | ---- | ----
+3-1 | Witch City (Storybook) | R | Grappler
+3-2 | Knobbly Log Lane (Fairy) | Tr | Sharkbiter Gold
+3-3 | Handy Harbor (Village) | Esc | Infinity Ranger
+3-4 | Beanstalk Raceway (Storybook) | C | Jolly Roadster
+3-5 | Thrill Ride (Park) | I | Grappler
+3-6 | Thrill Ride (Park) | Tr | Sharkbiter Gold
+3-7 | Kartland Park (Storybook) | Tc | Zeno Hyper
+3-8 | Card Kingdom Maze (Storybook) | Esc | Monster Gold
+3-9 | *N/A* |  |
+3-10 | Party Arena (Park) | Em | Beetle Dasher
+
 ### Bonus
 \#  | Track | Mode | Kart
 --- | ----- | ---- | ----
 B-1 | Party Arena (Park) | L | Zeno Hyper
 B-2 | 360 Tower (Park) | Esc | Infinity Ranger
 B-3 | Party Arena (Park) | I | Monster Gold
+B-4 | Thrill Ride (Park) | I | Zeno Hyper
+B-5 | Witch City (Storybook) | Tr | Monster Gold
