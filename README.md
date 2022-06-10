@@ -817,7 +817,7 @@ B-5 | Checkered Flag Falls (Forest) | I | War Master Chariot
 3-6 | Thrill Ride (Park) | Tr | Sharkbiter Gold
 3-7 | Kartland Park (Storybook) | Tc | Zeno Hyper
 3-8 | Card Kingdom Maze (Storybook) | Esc | Monster Gold
-3-9 | *N/A* |  |
+3-9 | *N/A*
 3-10 | Party Arena (Park) | Em | Beetle Dasher
 
 ### Bonus
