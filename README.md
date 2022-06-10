@@ -33,7 +33,7 @@
 1-1 | Canal (Village) | Tr
 1-2 | Specter Pass (Tomb) | Tr
 1-3 | Large Hot Rod Collider (Brodi) | L
-1-4 | Lumberjack Lane (Forest) | I
+1-4 | Lumberjack Lane (Wyldwood) | I
 1-5 | Up 'N' Down (Village) | B
 1-6 | Formula 51 (Northeu) | S
 
@@ -80,7 +80,7 @@
 ### Chapter 6
 \#  | Track | Mode
 --- | ----- | ----
-6-1 | Panda Paradise (Forest) | Tr
+6-1 | Panda Paradise (Wyldwood) | Tr
 6-2 | Handy Harbor (Village) | S
 6-3 | Outer Orbiter (Northeu) | C
 6-4 | Mile High Motorway (Northeu) | I
@@ -103,7 +103,7 @@
 8-1 | Handy Harbor (Village) | Tr
 8-2 | Bridge Run (Beach) | Em
 8-3 | The Forgotten City (Mechanic) | F
-8-4 | Lumberjack Lane (Forest) | C
+8-4 | Lumberjack Lane (Wyldwood) | C
 8-5 | Steamfunk Factory (1920) | S
 8-6 | Unfinished Zone 5 (Factory) | Tr
 
@@ -174,7 +174,7 @@
 15-2 | Kartland Park (Storybook) | R
 15-3 | Formula 51 (Northeu) | I
 15-4 | Water Aerodrome (Beach) | Em
-15-5 | Canopy Curve (Forest) | Tr
+15-5 | Canopy Curve (Wyldwood) | Tr
 15-6 | The Gate of the Wonderland (Storybook) | S
 
 ### Chapter 16
@@ -201,11 +201,11 @@
 \#   | Track | Mode
 ---- | ----- | ----
 18-1 | Brazil Circuit (WKC) | F
-18-2 | Dizzying Downhill (Forest) | C
+18-2 | Dizzying Downhill (Wyldwood) | C
 18-3 | Dinosaur Arena (Jurassic) | R
-18-4 | Panda Paradise (Forest) | Tr
+18-4 | Panda Paradise (Wyldwood) | Tr
 18-5 | Namsan Tour (Village) | Esc
-18-6 | Canopy Curve (Forest) | Em
+18-6 | Canopy Curve (Wyldwood) | Em
 
 ### Chapter 19
 \#   | Track | Mode
@@ -251,8 +251,8 @@
 \#   | Track | Mode
 ---- | ----- | ----
 23-1 | London Nights (World) | L
-23-2 | Canopy Curve (Forest) | R
-23-3 | Checkered Flag Falls (Forest) | I
+23-2 | Canopy Curve (Wyldwood) | R
+23-3 | Checkered Flag Falls (Wyldwood) | I
 23-4 | Brazil Circuit (WKC) | Em
 23-5 | Korea Circuit (WKC) | C
 23-6 | Unfinished Zone 5 (Factory) | Tc
@@ -273,7 +273,7 @@
 25-1 | Greek Prix (World) | Tr
 25-2 | Namsan Tour (Village) | C
 25-3 | Training Center (Sword) | Tc
-25-4 | Checkered Flag Falls (Forest) | Tr
+25-4 | Checkered Flag Falls (Wyldwood) | Tr
 25-5 | Hidden Treasure (Pirate) | F
 25-6 | Cemetery Circuit (Tomb) | I
 
@@ -292,10 +292,10 @@
 ---- | ----- | ----
 27-1 | Training Center (Sword) | S
 27-2 | The Bridge of Fate (Village) | Em
-27-3 | Canopy Curve (Forest) | C
+27-3 | Canopy Curve (Wyldwood) | C
 27-4 | Shipping Lanes (Beach) | Esc
 27-5 | Brazil Circuit (WKC) | Tc
-27-6 | Dizzying Downhill (Forest) | F
+27-6 | Dizzying Downhill (Wyldwood) | F
 
 ### Chapter 28
 \#   | Track | Mode
@@ -400,11 +400,11 @@
 ### Chapter 38
 \#   | Track | Mode
 ---- | ----- | ----
-38-1 | Lumberjack Lane (Forest) | Esc
-38-2 | Checkered Flag Falls (Forest) | I
+38-1 | Lumberjack Lane (Wyldwood) | Esc
+38-2 | Checkered Flag Falls (Wyldwood) | I
 38-3 | Twirling Construction Site (Desert) | S
 38-4 | Tibetan Turnpike (China) | L
-38-5 | Dizzying Downhill (Forest) | R
+38-5 | Dizzying Downhill (Wyldwood) | R
 38-6 | Huangshan Highway (China) | C
 
 ### Chapter 39
@@ -412,7 +412,7 @@
 ---- | ----- | ----
 39-1 | Greek Prix (World) | Tr
 39-2 | Secrets of the Temple (Fairy) | F
-39-3 | Canopy Curve (Forest) | C
+39-3 | Canopy Curve (Wyldwood) | C
 39-4 | Training Center (Sword) | L
 39-5 | The Gate of the Wonderland (Storybook) | Tc
 39-6 | Huangshan Highway (China) | Esc
@@ -484,7 +484,7 @@
 46-2 | [R] Up 'N' Down (Village) | Esc
 46-3 | Extreme Zone (Village) | Tr
 46-4 | Ice Lantern Road (China) | Tr
-46-5 | Lumberjack Lane (Forest) | I
+46-5 | Lumberjack Lane (Wyldwood) | I
 46-6 | The Gate of the Wonderland (Storybook) | S
 
 ### Chapter 47
@@ -494,7 +494,7 @@
 47-2 | Beanstalk Raceway (Storybook) | Tr
 47-3 | Kartland Park (Storybook) | L
 47-4 | Louie's Study (Castle) | I
-47-5 | Checkered Flag Falls (Forest) | Em
+47-5 | Checkered Flag Falls (Wyldwood) | Em
 47-6 | Card Kingdom Maze (Storybook) | I
 
 ### Chapter 48
@@ -550,7 +550,7 @@
 ### Chapter 53
 \#   | Track | Mode
 ---- | ----- | ----
-53-1 | Checkered Flag Falls (Forest) | Tr
+53-1 | Checkered Flag Falls (Wyldwood) | Tr
 53-2 | Path to Oret (Gold) | S
 53-3 | Boulder Dash (Gold) | C
 53-4 | Temple of Vroom (Gold) | Tr
@@ -585,22 +585,22 @@
 56-3 | Lava Lane (Mine) | Tc
 56-4 | Crystal Quarry (Mine) | F
 56-5 | Falcon's Reach (Gold) | I
-56-6 | Dizzying Downhill (Forest) | S
+56-6 | Dizzying Downhill (Wyldwood) | S
 
 ### Chapter 57
 \#   | Track | Mode
 ---- | ----- | ----
-57-1 | Checkered Flag Falls (Forest) | S
-57-2 | Tenderfoot Trail (Forest) | S
+57-1 | Checkered Flag Falls (Wyldwood) | S
+57-2 | Tenderfoot Trail (Wyldwood) | S
 57-3 | Beanstalk Raceway (Storybook) | Esc
 57-4 | Clock Tower (Village) | S
-57-5 | Lumberjack Lane (Forest) | R
+57-5 | Lumberjack Lane (Wyldwood) | R
 57-6 | The Gate of the Wonderland (Storybook) | S
 
 ### Chapter 58
 \#   | Track | Mode
 ---- | ----- | ----
-58-1 | Canopy Curve (Forest) | Esc
+58-1 | Canopy Curve (Wyldwood) | Esc
 58-2 | Demon King's Invitation (Tomb) | F
 58-3 | Crystal Quarry (Mine) | I
 58-4 | Lava Lane (Mine) | C
@@ -623,9 +623,9 @@
 60-1 | Secrets of the Temple (Fairy) | F
 60-2 | Knobbly Log Lane (Fairy) | S
 60-3 | Fairy Snail Pass (Fairy) | I
-60-4 | Tenderfoot Trail (Forest) | S
-60-5 | Checkered Flag Falls (Forest) | I
-60-6 | [R] Canopy Curve (Forest) | S
+60-4 | Tenderfoot Trail (Wyldwood) | S
+60-5 | Checkered Flag Falls (Wyldwood) | I
+60-6 | [R] Canopy Curve (Wyldwood) | S
 
 ### Chapter 61
 \#   | Track | Mode
@@ -743,7 +743,7 @@ B-5 | Assembly Lane (Factory) | I | War Master Chariot
 --- | ----- | ---- | ----
 2-1 | Shark Island (Pirate) | F | War Panda
 2-2 | *N/A*
-2-3 | Tenderfoot Trail (Forest) | S | Thunder Lancer
+2-3 | Tenderfoot Trail (Wyldwood) | S | Thunder Lancer
 2-4 | Treasure Trail (Pirate) | C | Sprinter
 2-5 | Perilous Pier (Pirate) | I | War Master Chariot
 2-6 | Treasure Trail (Pirate) | Tc | Lightning Chariot
@@ -770,10 +770,10 @@ B-5 | Assembly Lane (Factory) | I | War Master Chariot
 \#  | Track | Mode | Kart
 --- | ----- | ---- | ----
 B-1 | Namsan Tour (Village) | Em | Starship Solid
-B-2 | Lumberjack Lane (Forest) | I | War Master Chariot
+B-2 | Lumberjack Lane (Wyldwood) | I | War Master Chariot
 B-3 | Hidden Treasure (Pirate) | Esc | Lodi Pyron
 B-4 | Perilous Pier (Pirate) | Tr | Static Striker
-B-5 | Checkered Flag Falls (Forest) | I | War Master Chariot
+B-5 | Checkered Flag Falls (Wyldwood) | I | War Master Chariot
 
 
 ## 2-Year Anniversary Party
