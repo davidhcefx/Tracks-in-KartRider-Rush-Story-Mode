@@ -3,6 +3,7 @@
  * Written by davidhcefx, 2022.3.13.
  */
 const fs = require('fs');
+const { XMLHttpRequest } = require('xmlhttprequest');
 
 /**
  * @param {String} tracksFile The filename of tracklist
@@ -38,20 +39,24 @@ function getModes(readme) {
   return modes;
 }
 
-// TODO: how to make fetch synchronous?
-// function getKarts() {
-//   let result;
+/**
+ * @returns {Set.<String>} Kart names without parenthesis
+ * @throws An error when failed to parse the web page.
+ */
+function getKarts() {
+  const karts = new Set();
+  const xhr = new XMLHttpRequest();
 
-//   fetch('https://krrplus.web.app/main.js')
-//     .then((r) => r.text())
-//     .then((text) => {
-//       const match = text.match(/; *const .+?(\[\{.+?\}\])/);
-//       if (!match) throw Error('Cannot parse response from krrplus.web.app.');
-//       result = match[1].matchAll(/Name: *"(.+?)",/);
-//     });
+  xhr.open('GET', 'https://krrplus.web.app/main.js', false);
+  xhr.send();
+  const match = xhr.responseText.match(/; *const .+?(\[\{.+?\}\])/);
+  if (!match) throw Error('Cannot parse response from krrplus.web.app.');
+  for (const name of match[1].matchAll(/Name: *"(.+?)",/g)) {
+    karts.add(name[1].replace(/ \(.+?\)$/, ''));
+  }
 
-//   return result;
-// }
+  return karts;
+}
 
 /**
  * @param {String} readmeFile The filename of readme
@@ -62,6 +67,7 @@ function check(readmeFile, tracksFile) {
   const readme = fs.readFileSync(readmeFile, { encoding: 'utf8' });
   const trackList = getTracklist(tracksFile);
   const modeList = getModes(readme);
+  const kartList = getKarts();
 
   // each story consists of multiple chapters
   readme.split(/\n## .+\n/).slice(1).forEach((story) => {
@@ -87,6 +93,12 @@ function check(readmeFile, tracksFile) {
         // each mode should belongs to modeList
         if (!modeList.has(mode)) {
           throw Error(`Unrecognized mode name '${mode}': "${row[0]}"`);
+        }
+
+        // each kart name should belongs to kartList
+        if (kart && !kartList.has(kart)) {
+          throw Error(`Unrecognized kart name: '${kart}'. Please use names on `
+              + 'this site (without brackets): https://krrplus.web.app/karts.');
         }
       }
     });
