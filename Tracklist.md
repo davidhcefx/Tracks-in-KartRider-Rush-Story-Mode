@@ -7,8 +7,8 @@
 | En              | Zh      |
 | --------------- | ------- |
 | Canal (Village) | 城鎮運河 |
-| Panda Paradise (Forest) | 龍貓樂園 |
-| Lumberjack Lane (Forest) | 森林木桶 |
+| Panda Paradise (Wyldwood) | 龍貓樂園 |
+| Lumberjack Lane (Wyldwood) | 森林木桶 |
 | Twin Gates (Village) | 城鎮環道 |
 | Penguin Rock (Ice) | 冰河企鵝島 |
 | Up 'N' Down (Village) | 城鎮高速公路 |
@@ -32,7 +32,7 @@
 | Water Aerodrome (Beach) | 濱海水上機場 |
 | Clock Tower (Village) | 城鎮鐘樓 |
 | Formula 51 (Northeu) | 太空噴射滑坡 |
-| Checkered Flag Falls (Forest) | 森林瀑布 |
+| Checkered Flag Falls (Wyldwood) | 森林瀑布 |
 | Steamfunk Factory (1920) | 奇怪的蒸氣工廠 |
 | Large Hot Rod Collider (Brodi) | 能量生產線 |
 | Cubeville Heights (Block) | 像素村鎮 |
@@ -97,7 +97,7 @@
 | Ancient Ruins (Desert) | 沙漠水庫 |
 | [R] Cemetery Circuit (Tomb) | [R] 墓園幽靈峽谷 |
 | Louie's Dollhouse (Castle) | 城堡玩具的天堂 |
-| Tenderfoot Trail (Forest) | 森林游擊場 |
+| Tenderfoot Trail (Wyldwood) | 森林游擊場 |
 | Gear Grinder (Factory) | 工廠巨大齒輪的威脅 |
 | Assembly Lane (Factory) | 工廠砰砰砰大冒險 |
 | Perilous Pier (Pirate) | 海盜暈眩碼頭 |
@@ -113,7 +113,7 @@
 | The Great Wall (Village) | 城鎮萬里長城 |
 | Boombeard's Hideout (Pirate) | 海盜絕壁海灣 |
 | Secrets of the Temple (Fairy) | 海底神殿 |
-| Canopy Curve (Forest) | 森林髮夾 |
+| Canopy Curve (Wyldwood) | 森林髮夾 |
 | Brazil Circuit (WKC) | 英特格拉斯 |
 | Twirling Construction Site (Desert) | 沙漠旋轉工地 |
 | Secret Basement (Castle) | 大城堡秘密地下室 |
@@ -138,7 +138,7 @@
 | Cosmic Canyon (Northeu) | 太空蜿蜒跑道 |
 | Zigzag Downhill (Mine) | 礦山曲折滑坡 |
 | Unfinished Zone 5 (Factory) | 未完成的第五區 |
-| Dizzying Downhill (Forest) | 森林崎嶇下山道 |
+| Dizzying Downhill (Wyldwood) | 森林崎嶇下山道 |
 | Demon King's Invitation (Tomb) | 墓園魔王的邀請 |
 | Ski Resort (Ice) | 冰河冰山滑雪場 |
-| [R] Canopy Curve (Forest) | [R] 森林髮夾彎 |
+| [R] Canopy Curve (Wyldwood) | [R] 森林髮夾彎 |
