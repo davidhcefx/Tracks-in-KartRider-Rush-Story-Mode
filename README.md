@@ -392,7 +392,7 @@
 ---- | ----- | ---- | ----
 37-1 | Up 'N' Down (Village) | S | Cyclone Solid
 37-2 | Dragon's Canal (China) | Em | Cyclone Solid
-37-3 | Shanghai Noon (China) | L | Nimbus
+37-3 | Shanghai Noon (China) | L | Somersault Cloud
 37-4 | Dragon Palace (China) | Tr | White Knight
 37-5 | Louie's Study (Castle) | Esc | Golden Drake
 37-6 | The Great Wall (Village) | F | Chaos
@@ -401,7 +401,7 @@
 \#   | Track | Mode | Kart
 ---- | ----- | ---- | ----
 38-1 | Lumberjack Lane (Wyldwood) | Esc | Ice Cotton
-38-2 | Checkered Flag Falls (Wyldwood) | I | Nimbus
+38-2 | Checkered Flag Falls (Wyldwood) | I | Somersault Cloud
 38-3 | Twirling Construction Site (Desert) | S | Monster
 38-4 | Tibetan Turnpike (China) | L | Festive Lollipop
 38-5 | Dizzying Downhill (Wyldwood) | R | Emperor's New Car
@@ -423,7 +423,7 @@
 40-1 | Dragon's Descent (Sword) | Tc | Moonshade
 40-2 | Terracotta Twister (China) | Tr | Ice Cotton
 40-3 | Temple of Vroom (Gold) | Tr | Golden Drake
-40-4 | Dragon's Canal (China) | Tr | Nimbus
+40-4 | Dragon's Canal (China) | Tr | Somersault Cloud
 40-5 | Terracotta Twister (China) | I | Festive Lollipop
 40-6 | Dragon Palace (China) | Em | Chaos
 
