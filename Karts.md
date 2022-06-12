@@ -1,0 +1,224 @@
+# Karts in KartRider Rush+
+
+## Speed
+
+- Saber Red
+- Pink Cotton
+- Zeno
+- Golden Lodi Kafka
+- Solar
+- Spyder
+- Panda Buggy
+- Burst
+- Lodi November
+- Lodi Albert
+- Violet Meteor
+- Solid
+- Marathon
+- Strike
+- Storm
+- Practice Kart
+- Monster
+- Atlas
+- Dragon Blade
+- Specter
+- Boxster
+- Sheffer
+- Venger
+- Golden Roadhog
+- Saber
+- Terra Blade
+- Vulture
+- White Knight
+- Emperor's New Car
+- Ice Cotton
+- Sky Piercer
+- Falcon
+- Neon
+- Gale
+- Sonata N Line
+- Chaos
+- Banshee
+- Wayward Bazzi
+- Golden Drake
+- Cyclone Solid
+- Festival Panda
+- Lion Dance Kart
+- Moonshade
+- Dark Knight
+- Dark Starfall
+- Cyber Burst
+- Shadow Sheffer
+- Taycan 4S
+- Mechanix
+- Saber Hellfire
+- Tyranno
+- TRKS
+- Fairytale Diz
+- Night Eagle
+- Brutus
+- Stingray
+- Pink Scooter
+- Ranger
+- Atlas Redux
+- Regalia
+- Marathon Redux
+- Shadow Meteor
+- Golden Practice Kart
+- Frying Pan Kart
+- Cotton Lite
+- Burst Lite
+- Marathon Lite
+- Saber Lite
+- Solid Lite
+- Luxury Pink Scooter
+- Luxury Spyder
+- Taxicab
+- Screamin' Skateboard
+- Mantis
+- Supercycle
+- Monowheeler
+- Golden Boxster
+- Magic Carpet
+- kakao T Bike
+- Saber Gold
+- Dragonflier
+- Shadow Flier
+- BMW R 18
+- Soundwave Speeder
+- Charger
+- Puppy Pouncer
+- Starship Solid
+- Scorpio
+- RYAN Speeder
+- Thunder Lancer
+- War Master Chariot
+- Run Moli
+- Lodi Pyron
+- Serpent
+- Beetle Dasher
+- Kartboard Stealth
+- Monster Gold
+- Super Shuttle
+- Infinity Ranger
+- Zeta Mantis
+- Proto Mantis
+- Ranger Gold
+- Kartboard Booster
+- Shadow the Hedgehog
+- Solar Gold
+- Sonic the Hedgehog
+- Wooden Sonic
+- Zeno Hyper
+- Mantis Proto 2
+- Sprinter
+- Super Cotton
+- Cotton Gold Onyx
+- Red Bumper Kart
+- Lodi Mercury
+- Bonobono
+
+
+## Item
+
+- Unicorn Chariot
+- Skelemech
+- Foodie Scootie
+- Deuce Coupe
+- Rudolf
+- Banana Split
+- Turbo Tortoise
+- Daominator
+- Justice
+- Kitty Cruiser
+- Lunar Blade
+- Mari-Go-Round
+- Dizzy Drifter
+- Igloo
+- Bluebird
+- Pumpkin Kart
+- Iceball
+- Couples Carriage
+- Red Trolley
+- Unifier
+- Seth
+- Phoenix
+- Festive Lollipop
+- Fortune Bag Kart
+- Nian Kart
+- Nimbus
+- Bazzamatazz
+- emart Kart
+- Galaxy Salvation
+- Athlete Georgie
+- Cherub Cruiser
+- Mini School Bus
+- Pengsoo Kart
+- Rolling Saucer
+- Elephant Trike
+- Chupa Chups Kart
+- TRK
+- Fearless Dao
+- Grand Piano
+- Octokart
+- Sole Soul
+- Scooper Scooter
+- Rosy Mobster
+- Trailmaster
+- Level 3 Helmet Kart
+- Cheery CONY
+- Froyo Flier
+- CONY Kart
+- Luxury Fortune Bag Kart
+- Royal Chariot
+- Wildcat
+- Guardian
+- Lantern Fisher
+- kakao T Blue
+- Rooster Booster
+- Shadow Dragster
+- Twilight Unicorn Chariot
+- Fairy Airship
+- Mithril Leaf
+- Disruptor Rig
+- Reindeer Flyer
+- Static Striker
+- Lightning Chariot
+- Fenrir Rover
+- Light Piercer
+- Kartboard Mimic
+- Bazzi Battler
+- Mistfall Bed
+- Buzzwheeler
+- Grappler
+- Compactor
+- Couples Carriage+
+- Pizza Hut Bike
+- Elemental Staff
+- Bulldozer
+- Kartboard Angel
+- Jolly Roadster
+- Sharkbiter Gold
+- Dolphinana
+- Wave Breaker
+- Egg Booster
+- Tails
+- Skeletank D
+- Shellback Raider
+- Sea Runner
+- Go Go Gorilla
+- Glaze
+- Tea Karty
+- Boss Bear
+
+
+## Hybrid
+
+- Sweeper
+- Purrowler
+- Jin Ramen Kart
+- War Panda
+- CHOONSIK Sled
+- Glaze S12 Edition
+- Super Sonic
+- Thermal Buggy
