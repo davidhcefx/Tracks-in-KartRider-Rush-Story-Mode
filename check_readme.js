@@ -4,6 +4,8 @@
  */
 const fs = require('fs');
 const { XMLHttpRequest } = require('xmlhttprequest');
+// kart names that should always be valid (last resort)
+const WHITELIST_KARTS = ['Nimbus'];
 
 /**
  * @param {String} tracksFile The filename of tracklist
@@ -96,7 +98,7 @@ function check(readmeFile, tracksFile) {
         }
 
         // each kart name should belongs to kartList
-        if (kart && !kartList.has(kart)) {
+        if (kart && !kartList.has(kart) && !WHITELIST_KARTS.includes(kart)) {
           throw Error(`Unrecognized kart name: '${kart}'. Please use names on `
               + 'this site (without brackets): https://krrplus.web.app/karts.');
         }
