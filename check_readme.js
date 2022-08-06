@@ -4,8 +4,6 @@
  */
 const fs = require('fs');
 const { XMLHttpRequest } = require('xmlhttprequest');
-// kart names that should always be valid (last resort)
-const WHITELIST_KARTS = ['Nimbus'];
 
 /**
  * @param {String} tracksFile The filename of tracklist
@@ -42,22 +40,16 @@ function getModes(readme) {
 }
 
 /**
- * @returns {Set.<String>} Kart names without parenthesis
- * @throws An error when failed to parse the web page.
+ * @param {String} kartsFile The filename of kartlist
+ * @returns {Set.<String>} Kart names
  */
-function getKarts() {
-  const karts = new Set();
-  const xhr = new XMLHttpRequest();
-
-  xhr.open('GET', 'https://krrplus.web.app/main.js', false);
-  xhr.send();
-  const match = xhr.responseText.match(/; *const .+?(\[\{.+?\}\])/);
-  if (!match) throw Error('Cannot parse response from krrplus.web.app.');
-  for (const name of match[1].matchAll(/Name: *"(.+?)",/g)) {
-    karts.add(name[1].replace(/ \(.+?\)$/, ''));
-  }
-
-  return karts;
+function getKarts(kartsFile) {
+  const karts = fs.readFileSync(kartsFile, { encoding: 'utf8' })
+    .split('\n')
+    .map((ln) => ln.match(/^- (.+?)\s*$/))
+    .filter((match) => match)
+    .map((match) => match[1]);
+  return new Set(karts);
 }
 
 /**
@@ -69,7 +61,7 @@ function check(readmeFile, tracksFile) {
   const readme = fs.readFileSync(readmeFile, { encoding: 'utf8' });
   const trackList = getTracklist(tracksFile);
   const modeList = getModes(readme);
-  const kartList = getKarts();
+  const kartList = getKarts('Karts.md');
 
   // each story consists of multiple chapters
   readme.split(/\n## .+\n/).slice(1).forEach((story) => {
@@ -98,7 +90,7 @@ function check(readmeFile, tracksFile) {
         }
 
         // each kart name should belongs to kartList
-        if (kart && !kartList.has(kart) && !WHITELIST_KARTS.includes(kart)) {
+        if (kart && !kartList.has(kart)) {
           throw Error(`Unrecognized kart name: '${kart}'. Please use names on `
               + 'this site (without brackets): https://krrplus.web.app/karts.');
         }
