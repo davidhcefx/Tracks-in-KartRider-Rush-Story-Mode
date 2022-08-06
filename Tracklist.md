@@ -23,7 +23,7 @@
 | Dragon Palace (China) | 中華主題紫禁城 |
 | Dino Boneyard (Jurassic) | 侏儸紀恐龍墳墓 |
 | Knobbly Log Lane (Fairy) | 木桶驚險跳躍 |
-| Line of Fire (Mechanic) | 機械戰爭前線戰場 |
+| Water Slide (Park) | 遊樂園水上滑梯 |
 | Power Core (Brodi) | 能量之源泉 |
 | Outer Orbiter (Northeu) | 太空跳躍峽谷 |
 | Shark's Tomb (Ice) | 冰鯊墓地 |
@@ -43,11 +43,12 @@
 | Boulder Dash (Gold) | 黃金文明危機四伏 |
 | Falcon's Reach (Gold) | 黃金文明笑傲飛鷹 |
 | Fairy Snail Pass (Fairy) | 精靈神木的捷徑 |
+| Line of Fire (Mechanic) | 機械戰爭前線戰場 |
 | Luminous Bridge (Norse) | 神域光之路 |
 | Treasure Trail (Pirate) | 海盜危機大逃亡 |
 | Party Arena (Park) | 遊樂園2週年派對競技場  |
-| Water Slide (Park) | 遊樂園水上滑梯 |
 | Thrill Ride (Park) | 遊樂園刺激破百軌道特急 |
+| Granite Pass (Forest) | 森林原石 |
 
 
 ## Easy
@@ -81,6 +82,7 @@
 | Gods' Realm (Norse) | 神域諸神世界 |
 | Trap Factory (Factory) | 工廠傻瓜陷阱 |
 | [R] Boombeard's Hideout (Pirate) | [R] 海盜絕壁海灣 |
+| Witch City (Storybook) | 童話魔女之城 |
 | Greek Prix (World) | 世界希臘的假日 |
 | London Nights (World) | 倫敦夜色 |
 | Mile High Motorway (Northeu) | 太空迴旋走廊 |
@@ -101,14 +103,12 @@
 | Gear Grinder (Factory) | 工廠巨大齒輪的威脅 |
 | Assembly Lane (Factory) | 工廠砰砰砰大冒險 |
 | Perilous Pier (Pirate) | 海盜暈眩碼頭 |
-| Witch City (Storybook) | 童話魔女之城 |
 
 
 ## Normal
 
 | En                          | Zh      |
 | --------------------------- | ------- |
-| Dueling Factories (Factory) | 工廠工廠中的雙工廠 |
 | Terracotta Twister (China) | 龍之遺跡 |
 | The Great Wall (Village) | 城鎮萬里長城 |
 | Boombeard's Hideout (Pirate) | 海盜絕壁海灣 |
@@ -127,7 +127,9 @@
 | Alleyway Sprint (China) | 中華主題中華胡同 |
 | Pirate's Cay (Pirate) | 海盜要塞瞭望塔 |
 | Cloud Valley (Sword) | 刀劍雲中峽谷 |
+| Dueling Factories (Factory) | 工廠工廠中的雙工廠 |
 | Shark Island (Pirate) | 海盜鯊魚島的秘密 |
+| Rickety Bridge (Forest) | 森林恐怖空中吊橋 |
 
 
 ## Hard
