@@ -49,6 +49,7 @@
 | Party Arena (Park) | 遊樂園2週年派對競技場  |
 | Thrill Ride (Park) | 遊樂園刺激破百軌道特急 |
 | Granite Pass (Wyldwood) | 森林原石 |
+| Mushroom Cavern (Wyldwood) | |
 
 
 ## Easy
@@ -130,6 +131,7 @@
 | Dueling Factories (Factory) | 工廠工廠中的雙工廠 |
 | Shark Island (Pirate) | 海盜鯊魚島的秘密 |
 | Rickety Bridge (Wyldwood) | 森林恐怖空中吊橋 |
+| Sheep Crossing (Wyldwood) | |
 
 
 ## Hard

@@ -828,3 +828,57 @@ B-2 | 360 Tower (Park) | Esc | Infinity Ranger
 B-3 | Party Arena (Park) | I | Monster Gold
 B-4 | Thrill Ride (Park) | I | Zeno Hyper
 B-5 | Witch City (Storybook) | Tr | Monster Gold
+
+
+## Wyldwood
+
+### Chapter 1
+\#  | Track | Mode | Kart
+--- | ----- | ---- | ----
+1-1 | Panda Paradise (Wyldwood) | S | Zeno Hyper
+1-2 | Granite Pass (Wyldwood) | C | Monster Gold
+1-3 | *N/A*
+1-4 | Checkered Flag Falls (Wyldwood) | Em | Red Bumper Kart
+1-5 | *N/A*
+1-6 | Bridge Run (Beach) | Tr | Super Cotton
+1-7 | Sheep Crossing (Wyldwood) | C | Lodi Mercury
+1-8 | Dino Town (Jurassic) | I | Sharkbiter Gold
+1-9 | Shipping Lanes (Beach) | Tc | Lodi Mercury
+1-10 | Canopy Curve (Wyldwood) | S | Super Cotton
+
+### Chapter 2
+\#  | Track | Mode | Kart
+--- | ----- | ---- | ----
+2-1 | Lumberjack Lane (Wyldwood) | R | Lodi Mercury
+2-2 | Falcon's Reach (Gold) | S | Zeno Hyper
+2-3 | Dragon's Descent (Sword) | F | Red Bumper Kart
+2-4 | *N/A*
+2-5 | Dragon's Canal (China) | C | Super Cotton
+2-6 | Rickety Bridge (Wyldwood) | F | Monster Gold
+2-7 | Sheep Crossing (Wyldwood) | Esc | Red Bumper Kart
+2-8 | Rainslick Raceway (Moonhill) | C | Lodi Mercury
+2-9 | Terracotta Twister (China) | S | Zeno Hyper
+2-10 | Treasure Trail (Pirate) | Tr | Monster Gold
+
+### Chapter 3
+\#  | Track | Mode | Kart
+--- | ----- | ---- | ----
+3-1 | Assembly Lane (Factory) | C | Red Bumper Kart
+3-2 | *N/A*
+3-3 | Mysterious Lab (Brodi) | Tr | Zeno Hyper
+3-4 | Card Kingdom Maze (Storybook) | Em | Monster Gold
+3-5 | *N/A*
+3-6 | Mushroom Cavern (Wyldwood) | I | Sharkbiter Gold
+3-7 | Lava Lane (Mine) | S | Zeno Hyper
+3-8 | Dangerous Volcano Jump Zone (Jurassic) | F | Lodi Mercury
+3-9 | Granite Pass (Wyldwood) | I | Glaze
+3-10 | Rickety Bridge (Wyldwood) | S | Monster Gold
+
+### Bonus
+\#  | Track | Mode | Kart
+--- | ----- | ---- | ----
+B-1 | Fairy Snail Pass (Fairy) | Esc | Monster Gold
+B-2 | Sheep Crossing (Wyldwood) | S | Super Cotton
+B-3 | Training Center (Sword) | C | Zeno Hyper
+B-4 | Rickety Bridge (Wyldwood) | S | Zeno Hyper
+B-5 | Line of Fire (Mechanic) | Tr | Super Cotton
