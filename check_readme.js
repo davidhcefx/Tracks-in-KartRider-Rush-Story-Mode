@@ -64,7 +64,7 @@ function check(readmeFile, tracksFile) {
   const kartList = getKarts('Karts.md');
 
   // each story consists of multiple chapters
-  readme.split(/\n## .+\n/).slice(1).forEach((story) => {
+  readme.split(/\r?\n## .+\r?\n/).slice(1).forEach((story) => {
     // eg. '| 10-3 | Korea Circuit (WKC) | Tr | Monster |'
     const rowRegex = /^\|?\s*([0-9B]+-[0-9]+)\s*\|([^|]+)\|([^|]+)\|?([^|]+)?/;
     const numSeen = new Set();
