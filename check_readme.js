@@ -3,7 +3,6 @@
  * Written by davidhcefx, 2022.3.13.
  */
 const fs = require('fs');
-const { XMLHttpRequest } = require('xmlhttprequest');
 
 /**
  * @param {String} tracksFile The filename of tracklist
@@ -26,7 +25,7 @@ function getModes(readme) {
   const modes = new Set();
   let begin = false;  // detect keyword 'Mode abbreviations'
 
-  readme.split('\n').forEach((line) => {
+  readme.split(/\r?\n/).forEach((line) => {
     if (begin) {
       const match = line.match(/^>\s*\|\s*(\S+)\s*\|.+\|.+\|/);
       if (!match) return;
@@ -45,7 +44,7 @@ function getModes(readme) {
  */
 function getKarts(kartsFile) {
   const karts = fs.readFileSync(kartsFile, { encoding: 'utf8' })
-    .split('\n')
+    .split(/\r?\n/)
     .map((ln) => ln.match(/^- (.+?)\s*$/))
     .filter((match) => match)
     .map((match) => match[1]);
@@ -69,7 +68,7 @@ function check(readmeFile, tracksFile) {
     const rowRegex = /^\|?\s*([0-9B]+-[0-9]+)\s*\|([^|]+)\|([^|]+)\|?([^|]+)?/;
     const numSeen = new Set();
 
-    story.split('\n').map((line) => line.match(rowRegex)).forEach((row) => {
+    story.split(/\r?\n/).map((line) => line.match(rowRegex)).forEach((row) => {
       if (row) {
         const [, num, track, mode, kart] = row.map((x) => (x ? x.trim() : x));
 
