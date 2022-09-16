@@ -117,6 +117,13 @@
 - Red Bumper Kart
 - Lodi Mercury
 - Bonobono
+- Kartboard Draft
+- Plasma GT
+- Atlas Black
+- Gen2
+- Tiger
+- Lodi Pyron Phantom
+- Artemyzer
 
 
 ## Item
@@ -210,7 +217,13 @@
 - Glaze
 - Tea Karty
 - Boss Bear
-
+- Mecha Tortoise
+- Kartboard Police
+- Spirit Litter
+- Wooly Wheeler
+- Minekart
+- Justice Shadow
+- Porcelain Tea Karty
 
 ## Hybrid
 
@@ -222,3 +235,6 @@
 - Glaze S12 Edition
 - Super Sonic
 - Thermal Buggy
+- Scary Bear
+- BAEMIN Mint Bike
+- Sweeper Plantinum

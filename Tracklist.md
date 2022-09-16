@@ -49,7 +49,8 @@
 | Party Arena (Park) | 遊樂園2週年派對競技場  |
 | Thrill Ride (Park) | 遊樂園刺激破百軌道特急 |
 | Granite Pass (Wyldwood) | 森林原石 |
-| Mushroom Cavern (Wyldwood) | |
+| Mushroom Cavern (Wyldwood) | 森林蘑菇洞穴 |
+| Zipi's Hideout (Moonhill) | 月光未完成大樓 |
 
 
 ## Easy
@@ -131,7 +132,7 @@
 | Dueling Factories (Factory) | 工廠工廠中的雙工廠 |
 | Shark Island (Pirate) | 海盜鯊魚島的秘密 |
 | Rickety Bridge (Wyldwood) | 森林恐怖空中吊橋 |
-| Sheep Crossing (Wyldwood) | |
+| Sheep Crossing (Wyldwood) | 森林大山嶺牧羊場 |
 
 
 ## Hard
@@ -146,3 +147,4 @@
 | Demon King's Invitation (Tomb) | 墓園魔王的邀請 |
 | Ski Resort (Ice) | 冰河冰山滑雪場 |
 | [R] Canopy Curve (Wyldwood) | [R] 森林髮夾彎 |
+| Moonshadow Tunnel (Moonhill) | 月光遺落的地下巷道 |
