@@ -29,7 +29,7 @@
 
 ### Chapter 1
 \#  | Track | Mode | Kart
---- | ----- | ---- | ----
+--- | --- | --- | ---
 1-1 | Canal (Village) | Tr | Burst
 1-2 | Specter Pass (Tomb) | Tr | Burst
 1-3 | Large Hot Rod Collider (Brodi) | L | Burst
@@ -39,7 +39,7 @@
 
 ### Chapter 2
 \#  | Track | Mode | Kart
---- | ----- | ---- | ----
+--- | --- | --- | ---
 2-1 | Bridge Run (Beach) | Tr | Practice Kart
 2-2 | Shark's Tomb (Ice) | I | Banana Split
 2-3 | Canal (Village) | R | Marathon
@@ -49,7 +49,7 @@
 
 ### Chapter 3
 \#  | Track | Mode | Kart
---- | ----- | ---- | ----
+--- | --- | --- | ---
 3-1 | Mile High Motorway (Northeu) | S | Strike
 3-2 | Pharoah's Pass (Desert) | Tc | Solid
 3-3 | Shanghai Noon (China) | S | Lodi Albert
@@ -59,7 +59,7 @@
 
 ### Chapter 4
 \#  | Track | Mode | Kart
---- | ----- | ---- | ----
+--- | --- | --- | ---
 4-1 | Paris Grand Prix (World) | S | Solid
 4-2 | Bridge Run (Beach) | Tr | Marathon
 4-3 | Huangshan Highway (China) | F | Panda Buggy
@@ -69,7 +69,7 @@
 
 ### Chapter 5
 \#  | Track | Mode | Kart
---- | ----- | ---- | ----
+--- | --- | --- | ---
 5-1 | Beguy Market (Desert) | I | Banana Split
 5-2 | Handy Harbor (Village) | F | Lodi November
 5-3 | Downtown Dubai (World) | Em | Panda Buggy
@@ -79,7 +79,7 @@
 
 ### Chapter 6
 \#  | Track | Mode | Kart
---- | ----- | ---- | ----
+--- | --- | --- | ---
 6-1 | Panda Paradise (Wyldwood) | Tr | Lodi November
 6-2 | Handy Harbor (Village) | S | Lodi November
 6-3 | Outer Orbiter (Northeu) | C | Golden Roadhog
@@ -89,7 +89,7 @@
 
 ### Chapter 7
 \#  | Track | Mode | Kart
---- | ----- | ---- | ----
+--- | --- | --- | ---
 7-1 | Pharoah's Pass (Desert) | S | Burst
 7-2 | Brazil Circuit (WKC) | Tt | Marathon
 7-3 | Outer Orbiter (Northeu) | Em | Marathon
@@ -99,7 +99,7 @@
 
 ### Chapter 8
 \#  | Track | Mode | Kart
---- | ----- | ---- | ----
+--- | --- | --- | ---
 8-1 | Handy Harbor (Village) | Tr | Solar
 8-2 | Bridge Run (Beach) | Em | Golden Roadhog
 8-3 | The Forgotten City (Mechanic) | F | Unicorn Chariot
@@ -109,7 +109,7 @@
 
 ### Chapter 9
 \#  | Track | Mode | Kart
---- | ----- | ---- | ----
+--- | --- | --- | ---
 9-1 | Secrets of the Temple (Fairy) | Esc | Solar
 9-2 | Paris Grand Prix (World) | S | Solar
 9-3 | Formula 51 (Northeu) | I | Rudolf
@@ -119,7 +119,7 @@
 
 ### Chapter 10
 \#   | Track | Mode | Kart
----- | ----- | ---- | ----
+---- | --- | --- | ---
 10-1 | Steamfunk Aerodrome (1920) | F | Burst
 10-2 | Canal (Village) | R | Unicorn Chariot
 10-3 | Korea Circuit (WKC) | Tr | Monster
@@ -129,7 +129,7 @@
 
 ### Chapter 11
 \#   | Track | Mode | Kart
----- | ----- | ---- | ----
+---- | --- | --- | ---
 11-1 | Up 'N' Down (Village) | R | Burst
 11-2 | Cubeville Heights (Block) | I | Turbo Tortoise
 11-3 | Secret Basement (Castle) | F | Golden Lodi Kafka
@@ -139,7 +139,7 @@
 
 ### Chapter 12
 \#   | Track | Mode | Kart
----- | ----- | ---- | ----
+---- | --- | --- | ---
 12-1 | Shanghai Noon (China) | Tr | Unicorn Chariot
 12-2 | Outer Orbiter (Northeu) | Tc | Unicorn Chariot
 12-3 | Specter Pass (Tomb) | R | Golden Lodi Kafka
@@ -149,7 +149,7 @@
 
 ### Chapter 13
 \#   | Track | Mode | Kart
----- | ----- | ---- | ----
+---- | --- | --- | ---
 13-1 | The Forgotten City (Mechanic) | Tt | Golden Lodi Kafka
 13-2 | Water Aerodrome (Beach) | F | Golden Lodi Kafka
 13-3 | Twin Gates (Village) | Tr | Unicorn Chariot
@@ -159,7 +159,7 @@
 
 ### Chapter 14
 \#   | Track | Mode | Kart
----- | ----- | ---- | ----
+---- | --- | --- | ---
 14-1 | Kartland Park (Storybook) | Em | Golden Lodi Kafka
 14-2 | The Gate of the Wonderland (Storybook) | S | Saber Red
 14-3 | Steamfunk Aerodrome (1920) | R | Pink Cotton
@@ -169,7 +169,7 @@
 
 ### Chapter 15
 \#   | Track | Mode | Kart
----- | ----- | ---- | ----
+---- | --- | --- | ---
 15-1 | Secrets of the Temple (Fairy) | Tc | Saber Red
 15-2 | Kartland Park (Storybook) | R | Golden Lodi Kafka
 15-3 | Formula 51 (Northeu) | I | Pink Cotton
@@ -179,7 +179,7 @@
 
 ### Chapter 16
 \#   | Track | Mode | Kart
----- | ----- | ---- | ----
+---- | --- | --- | ---
 16-1 | Secret Basement (Castle) | Tc | Golden Lodi Kafka
 16-2 | Canal (Village) | Tr | Golden Lodi Kafka
 16-3 | Twirling Construction Site (Desert) | Tr | Pink Cotton
@@ -189,7 +189,7 @@
 
 ### Chapter 17
 \#   | Track | Mode | Kart
----- | ----- | ---- | ----
+---- | --- | --- | ---
 17-1 | Water Aerodrome (Beach) | S | Golden Lodi Kafka
 17-2 | Power Core (Brodi) | R | Golden Lodi Kafka
 17-3 | Cemetery Circuit (Tomb) | I | Pink Cotton
@@ -199,7 +199,7 @@
 
 ### Chapter 18
 \#   | Track | Mode | Kart
----- | ----- | ---- | ----
+---- | --- | --- | ---
 18-1 | Brazil Circuit (WKC) | F | Golden Lodi Kafka
 18-2 | Dizzying Downhill (Wyldwood) | C | Monster
 18-3 | Dinosaur Arena (Jurassic) | R | Golden Lodi Kafka
@@ -209,7 +209,7 @@
 
 ### Chapter 19
 \#   | Track | Mode | Kart
----- | ----- | ---- | ----
+---- | --- | --- | ---
 19-1 | Huangshan Highway (China) | R | Golden Lodi Kafka
 19-2 | Large Hot Rod Collider (Brodi) | Tr | Pink Cotton
 19-3 | The Gate of the Wonderland (Storybook) | Tc | Unicorn Chariot
@@ -219,7 +219,7 @@
 
 ### Chapter 20
 \#   | Track | Mode | Kart
----- | ----- | ---- | ----
+---- | --- | --- | ---
 20-1 | 360 Tower (Park) | F | Monster
 20-2 | Corkscrew (Beach) | R | Golden Lodi Kafka
 20-3 | The Bridge of Fate (Village) | Esc | Saber Red
@@ -229,7 +229,7 @@
 
 ### Chapter 21
 \#   | Track | Mode | Kart
----- | ----- | ---- | ----
+---- | --- | --- | ---
 21-1 | The Great Wall (Village) | Tc | Zeno
 21-2 | Boomhill Tunnel (Village) | S | Pink Cotton
 21-3 | Dangerous Volcano Jump Zone (Jurassic) | Esc | Pink Cotton
@@ -239,7 +239,7 @@
 
 ### Chapter 22
 \#   | Track | Mode | Kart
----- | ----- | ---- | ----
+---- | --- | --- | ---
 22-1 | Corkscrew (Beach) | S | Zeno
 22-2 | Terracotta Twister (China) | L | Golden Lodi Kafka
 22-3 | Tibetan Turnpike (China) | Esc | Pink Cotton
@@ -249,7 +249,7 @@
 
 ### Chapter 23
 \#   | Track | Mode | Kart
----- | ----- | ---- | ----
+---- | --- | --- | ---
 23-1 | London Nights (World) | L | Zeno
 23-2 | Canopy Curve (Wyldwood) | R | Monster
 23-3 | Checkered Flag Falls (Wyldwood) | I | Banana Split
@@ -259,7 +259,7 @@
 
 ### Chapter 24
 \#   | Track | Mode | Kart
----- | ----- | ---- | ----
+---- | --- | --- | ---
 24-1 | Twirling Construction Site (Desert) | R | Zeno
 24-2 | Dino Town (Jurassic) | F | Monster
 24-3 | Shipping Lanes (Beach) | Tr | Pink Cotton
@@ -269,7 +269,7 @@
 
 ### Chapter 25
 \#   | Track | Mode | Kart
----- | ----- | ---- | ----
+---- | --- | --- | ---
 25-1 | Greek Prix (World) | Tr | Dragon Blade
 25-2 | Namsan Tour (Village) | C | Pink Cotton
 25-3 | Training Center (Sword) | Tc | Dragon Blade
@@ -279,7 +279,7 @@
 
 ### Chapter 26
 \#   | Track | Mode | Kart
----- | ----- | ---- | ----
+---- | --- | --- | ---
 26-1 | Dangerous Volcano Jump Zone (Jurassic) | Tc | Golden Lodi Kafka
 26-2 | Steamfunk Factory (1920) | F | Venger
 26-3 | Dragon's Descent (Sword) | I | Turbo Tortoise
@@ -289,7 +289,7 @@
 
 ### Chapter 27
 \#   | Track | Mode | Kart
----- | ----- | ---- | ----
+---- | --- | --- | ---
 27-1 | Training Center (Sword) | S | Venger
 27-2 | The Bridge of Fate (Village) | Em | White Knight
 27-3 | Canopy Curve (Wyldwood) | C | Specter
@@ -299,7 +299,7 @@
 
 ### Chapter 28
 \#   | Track | Mode | Kart
----- | ----- | ---- | ----
+---- | --- | --- | ---
 28-1 | Dragon's Descent (Sword) | I | Justice
 28-2 | Boomhill Tunnel (Village) | C | Monster
 28-3 | The Forgotten City (Mechanic) | R | Pink Cotton
@@ -309,7 +309,7 @@
 
 ### Chapter 29
 \#   | Track | Mode | Kart
----- | ----- | ---- | ----
+---- | --- | --- | ---
 29-1 | Frost Valley (Ice) | Tr | Falcon
 29-2 | Shanghai Nights (China) | F | Atlas
 29-3 | Penguin Rock (Ice) | R | Sheffer
@@ -319,7 +319,7 @@
 
 ### Chapter 30
 \#   | Track | Mode | Kart
----- | ----- | ---- | ----
+---- | --- | --- | ---
 30-1 | Dragon's Descent (Sword) | Esc | White Knight
 30-2 | Lava Lane (Mine) | I | Kitty Cruiser
 30-3 | Iceberg Speedway (Ice) | L | Gale
@@ -329,7 +329,7 @@
 
 ### Chapter 31
 \#   | Track | Mode | Kart
----- | ----- | ---- | ----
+---- | --- | --- | ---
 31-1 | Dangerous Volcano Jump Zone (Jurassic) | S | Falcon
 31-2 | Crystal Quarry (Mine) | Em | Monster
 31-3 | Shark's Tomb (Ice) | F | Zeno
@@ -339,7 +339,7 @@
 
 ### Chapter 32
 \#   | Track | Mode | Kart
----- | ----- | ---- | ----
+---- | --- | --- | ---
 32-1 | Clock Tower (Village) | Tc | Iceball
 32-2 | Temple of Vroom (Gold) | Em | Iceball
 32-3 | Iceberg Speedway (Ice) | I | Justice
@@ -349,7 +349,7 @@
 
 ### Chapter 33
 \#   | Track | Mode | Kart
----- | ----- | ---- | ----
+---- | --- | --- | ---
 33-1 | Boomhill Tunnel (Village) | Tr | Falcon
 33-2 | Crystal Quarry (Mine) | Em | Atlas
 33-3 | Shipping Lanes (Beach) | L | Red Trolley
@@ -359,7 +359,7 @@
 
 ### Chapter 34
 \#   | Track | Mode | Kart
----- | ----- | ---- | ----
+---- | --- | --- | ---
 34-1 | Louie's Study (Castle) | I | Igloo
 34-2 | Rainslick Raceway (Moonhill) | Tr | Iceball
 34-3 | Lava Lane (Mine) | R | White Knight
@@ -369,7 +369,7 @@
 
 ### Chapter 35
 \#   | Track | Mode | Kart
----- | ----- | ---- | ----
+---- | --- | --- | ---
 35-1 | Tibetan Turnpike (China) | Tr | Falcon
 35-2 | Shanghai Nights (China) | Tc | Monster
 35-3 | Up 'N' Down (Village) | C | Saber Red
@@ -379,7 +379,7 @@
 
 ### Chapter 36
 \#   | Track | Mode | Kart
----- | ----- | ---- | ----
+---- | --- | --- | ---
 36-1 | Toy Factory (Block) | L | Couples Carriage
 36-2 | Crystal Quarry (Mine) | Esc | White Knight
 36-3 | Louie's Study (Castle) | S | Gale
@@ -389,7 +389,7 @@
 
 ### Chapter 37
 \#   | Track | Mode | Kart
----- | ----- | ---- | ----
+---- | --- | --- | ---
 37-1 | Up 'N' Down (Village) | S | Cyclone Solid
 37-2 | Dragon's Canal (China) | Em | Cyclone Solid
 37-3 | Shanghai Noon (China) | L | Nimbus
@@ -399,7 +399,7 @@
 
 ### Chapter 38
 \#   | Track | Mode | Kart
----- | ----- | ---- | ----
+---- | --- | --- | ---
 38-1 | Lumberjack Lane (Wyldwood) | Esc | Ice Cotton
 38-2 | Checkered Flag Falls (Wyldwood) | I | Nimbus
 38-3 | Twirling Construction Site (Desert) | S | Monster
@@ -409,7 +409,7 @@
 
 ### Chapter 39
 \#   | Track | Mode | Kart
----- | ----- | ---- | ----
+---- | --- | --- | ---
 39-1 | Greek Prix (World) | Tr | Moonshade
 39-2 | Secrets of the Temple (Fairy) | F | Emperor's New Car
 39-3 | Canopy Curve (Wyldwood) | C | Ice Cotton
@@ -419,7 +419,7 @@
 
 ### Chapter 40
 \#   | Track | Mode | Kart
----- | ----- | ---- | ----
+---- | --- | --- | ---
 40-1 | Dragon's Descent (Sword) | Tc | Moonshade
 40-2 | Terracotta Twister (China) | Tr | Ice Cotton
 40-3 | Temple of Vroom (Gold) | Tr | Golden Drake
@@ -429,7 +429,7 @@
 
 ### Chapter 41
 \#   | Track | Mode | Kart
----- | ----- | ---- | ----
+---- | --- | --- | ---
 41-1 | Formula 51 (Northeu) | Tr | Rolling Saucer
 41-2 | Namsan Tour (Village) | C | Banshee
 41-3 | Outer Orbiter (Northeu) | S | Emperor's New Car
@@ -439,7 +439,7 @@
 
 ### Chapter 42
 \#   | Track | Mode | Kart
----- | ----- | ---- | ----
+---- | --- | --- | ---
 42-1 | Formula 51 (Northeu) | Esc | Emperor's New Car
 42-2 | The Forgotten City (Mechanic) | C | Mechanix
 42-3 | Power Core (Brodi) | Tc | Rolling Saucer
@@ -449,7 +449,7 @@
 
 ### Chapter 43
 \#   | Track | Mode | Kart
----- | ----- | ---- | ----
+---- | --- | --- | ---
 43-1 | Path to Oret (Gold) | Tr | Chaos
 43-2 | Water Aerodrome (Beach) | R | Banshee
 43-3 | Mysterious Lab (Brodi) | F | Monster
@@ -459,7 +459,7 @@
 
 ### Chapter 44
 \#   | Track | Mode | Kart
----- | ----- | ---- | ----
+---- | --- | --- | ---
 44-1 | Large Hot Rod Collider (Brodi) | R | Emperor's New Car
 44-2 | Unfinished Zone 5 (Factory) | F | Mechanix
 44-3 | Up 'N' Down (Village) | Tr | Cherub Cruiser
@@ -469,7 +469,7 @@
 
 ### Chapter 45
 \#   | Track | Mode | Kart
----- | ----- | ---- | ----
+---- | --- | --- | ---
 45-1 | 360 Tower (Park) | S | Pink Scooter
 45-2 | Clock Tower (Village) | Tr | Night Eagle
 45-3 | Kartland Park (Storybook) | F | Sweeper
@@ -479,7 +479,7 @@
 
 ### Chapter 46
 \#   | Track | Mode | Kart
----- | ----- | ---- | ----
+---- | --- | --- | ---
 46-1 | Greek Prix (World) | I | Octokart
 46-2 | [R] Up 'N' Down (Village) | Esc | Pink Scooter
 46-3 | Extreme Zone (Village) | Tr | Seth
@@ -489,7 +489,7 @@
 
 ### Chapter 47
 \#   | Track | Mode | Kart
----- | ----- | ---- | ----
+---- | --- | --- | ---
 47-1 | Card Kingdom Maze (Storybook) | F | Sweeper
 47-2 | Beanstalk Raceway (Storybook) | Tr | Mechanix
 47-3 | Kartland Park (Storybook) | L | Pink Scooter
@@ -499,7 +499,7 @@
 
 ### Chapter 48
 \#   | Track | Mode | Kart
----- | ----- | ---- | ----
+---- | --- | --- | ---
 48-1 | 360 Tower (Park) | R | Sweeper
 48-2 | Extreme Zone (Village) | Em | Cyber Burst
 48-3 | Louie's Dollhouse (Castle) | Tc | Mechanix
@@ -509,7 +509,7 @@
 
 ### Chapter 49
 \#   | Track | Mode | Kart
----- | ----- | ---- | ----
+---- | --- | --- | ---
 49-1 | Twin Gates (Village) | Tr | Screamin' Skateboard
 49-2 | New York Rally (World) | F | Octokart
 49-3 | Shipping Lanes (Beach) | Em | Shadow Sheffer
@@ -519,7 +519,7 @@
 
 ### Chapter 50
 \#   | Track | Mode | Kart
----- | ----- | ---- | ----
+---- | --- | --- | ---
 50-1 | Paris Eiffel Tower Dive (World) | F | Stingray
 50-2 | Water Aerodrome (Beach) | I | Mini School Bus
 50-3 | Ancient Ruins (Desert) | C | Brutus
@@ -529,7 +529,7 @@
 
 ### Chapter 51
 \#   | Track | Mode | Kart
----- | ----- | ---- | ----
+---- | --- | --- | ---
 51-1 | Paris Eiffel Tower Dive (World) | Tt | Octokart
 51-2 | Clock Tower (Village) | R | Brutus
 51-3 | [R] Up 'N' Down (Village) | L | Sweeper
@@ -539,7 +539,7 @@
 
 ### Chapter 52
 \#   | Track | Mode | Kart
----- | ----- | ---- | ----
+---- | --- | --- | ---
 52-1 | Lava Lane (Mine) | Tc | Sweeper
 52-2 | Rio Downhill (World) | Em | Shadow Sheffer
 52-3 | Pharoah's Pass (Desert) | Tr | Dark Knight
@@ -549,7 +549,7 @@
 
 ### Chapter 53
 \#   | Track | Mode | Kart
----- | ----- | ---- | ----
+---- | --- | --- | ---
 53-1 | Checkered Flag Falls (Wyldwood) | Tr | Marathon Redux
 53-2 | Path to Oret (Gold) | S | Lantern Fisher
 53-3 | Boulder Dash (Gold) | C | Regalia
@@ -559,7 +559,7 @@
 
 ### Chapter 54
 \#   | Track | Mode | Kart
----- | ----- | ---- | ----
+---- | --- | --- | ---
 54-1 | Lava Lane (Mine) | F | Taxicab
 54-2 | Falcon's Reach (Gold) | Em | Froyo Flier
 54-3 | Temple of Vroom (Gold) | C | Lantern Fisher
@@ -569,7 +569,7 @@
 
 ### Chapter 55
 \#   | Track | Mode | Kart
----- | ----- | ---- | ----
+---- | --- | --- | ---
 55-1 | Tower of Pisa (World) | S | Shadow Meteor
 55-2 | Ancient Ruins (Desert) | I | Lantern Fisher
 55-3 | Twirling Construction Site (Desert) | C | Rosy Mobster
@@ -579,7 +579,7 @@
 
 ### Chapter 56
 \#   | Track | Mode | Kart
----- | ----- | ---- | ----
+---- | --- | --- | ---
 56-1 | Boulder Dash (Gold) | Esc | Shadow Meteor
 56-2 | Temple of Vroom (Gold) | Em | Froyo Flier
 56-3 | Lava Lane (Mine) | Tc | Taxicab
@@ -589,7 +589,7 @@
 
 ### Chapter 57
 \#   | Track | Mode | Kart
----- | ----- | ---- | ----
+---- | --- | --- | ---
 57-1 | Checkered Flag Falls (Wyldwood) | S | Magic Carpet
 57-2 | Tenderfoot Trail (Wyldwood) | S | Guardian
 57-3 | Beanstalk Raceway (Storybook) | Esc | Wildcat
@@ -599,7 +599,7 @@
 
 ### Chapter 58
 \#   | Track | Mode | Kart
----- | ----- | ---- | ----
+---- | --- | --- | ---
 58-1 | Canopy Curve (Wyldwood) | Esc | Mantis
 58-2 | Demon King's Invitation (Tomb) | F | Magic Carpet
 58-3 | Crystal Quarry (Mine) | I | Rooster Booster
@@ -609,7 +609,7 @@
 
 ### Chapter 59
 \#   | Track | Mode | Kart
----- | ----- | ---- | ----
+---- | --- | --- | ---
 59-1 | Boombeard's Hideout (Pirate) | S | Mantis
 59-2 | Pirate's Cay (Pirate) | Tc | Purrowler
 59-3 | Secrets of the Temple (Fairy) | Em | Magic Carpet
@@ -619,7 +619,7 @@
 
 ### Chapter 60
 \#   | Track | Mode | Kart
----- | ----- | ---- | ----
+---- | --- | --- | ---
 60-1 | Secrets of the Temple (Fairy) | F | Mantis
 60-2 | Knobbly Log Lane (Fairy) | S | Purrowler
 60-3 | Fairy Snail Pass (Fairy) | I | Wildcat
@@ -629,7 +629,7 @@
 
 ### Chapter 61
 \#   | Track | Mode | Kart
----- | ----- | ---- | ----
+---- | --- | --- | ---
 61-1 | Gods' Realm (Norse) | Tr | Soundwave Speeder
 61-2 | Luminous Bridge (Norse) | C | Mantis
 61-3 | Up 'N' Down (Village) | R | Charger
@@ -639,7 +639,7 @@
 
 ### Chapter 62
 \#   | Track | Mode | Kart
----- | ----- | ---- | ----
+---- | --- | --- | ---
 62-1 | Cloud Valley (Sword) | S | Shadow Flier
 62-2 | Luminous Bridge (Norse) | Tr | Guardian
 62-3 | Gods' Realm (Norse) | C | Shadow Flier
@@ -649,7 +649,7 @@
 
 ### Chapter 63
 \#   | Track | Mode | Kart
----- | ----- | ---- | ----
+---- | --- | --- | ---
 63-1 | Bridge Run (Beach) | S | Monowheeler
 63-2 | Line of Fire (Mechanic) | Em | Soundwave Speeder
 63-3 | Water Aerodrome (Beach) | Tr | Charger
@@ -659,7 +659,7 @@
 
 ### Chapter 64
 \#   | Track | Mode | Kart
----- | ----- | ---- | ----
+---- | --- | --- | ---
 64-1 | Cloud Valley (Sword) | S | Golden Boxster
 64-2 | The Bridge of Fate (Village) | C | Charger
 64-3 | Clock Tower (Village) | I | Shadow Dragster
@@ -672,7 +672,7 @@
 
 ### Chapter 1
 \#  | Track | Mode | Kart
---- | ----- | ---- | ----
+--- | --- | --- | ---
 1-1 | Power Core (Brodi) | R | Starship Solid
 1-2 | The Bridge of Fate (Village) | S | Sprinter
 1-3 | Mysterious Lab (Brodi) | Em | Static Striker
@@ -686,7 +686,7 @@
 
 ### Chapter 2
 \#  | Track | Mode | Kart
---- | ----- | ---- | ----
+--- | --- | --- | ---
 2-1 | Steamfunk Aerodrome (1920) | Tr | War Panda
 2-2 | Combat Airfield (Northeu) | S | Fairy Airship
 2-3 | Twin Gates (Village) | L | Thunder Lancer
@@ -700,7 +700,7 @@
 
 ### Chapter 3
 \#  | Track | Mode | Kart
---- | ----- | ---- | ----
+--- | --- | --- | ---
 3-1 | Mile High Motorway (Northeu) | Esc | Starship Solid
 3-2 | *N/A*
 3-3 | Gods' Realm (Norse) | S | Monowheeler
@@ -714,7 +714,7 @@
 
 ### Bonus
 \#  | Track | Mode | Kart
---- | ----- | ---- | ----
+--- | --- | --- | ---
 B-1 | Power Core (Brodi) | Tr | Starship Solid
 B-2 | Trap Factory (Factory) | C | War Master Chariot
 B-3 | Gear Grinder (Factory) | F | Lodi Pyron
@@ -726,7 +726,7 @@ B-5 | Assembly Lane (Factory) | I | War Master Chariot
 
 ### Chapter 1
 \#  | Track | Mode | Kart
---- | ----- | ---- | ----
+--- | --- | --- | ---
 1-1 | Paris Grand Prix (World) | Tr | Starship Solid
 1-2 | Secret Basement (Castle) | Esc | Sprinter
 1-3 | *N/A*
@@ -740,7 +740,7 @@ B-5 | Assembly Lane (Factory) | I | War Master Chariot
 
 ### Chapter 2
 \#  | Track | Mode | Kart
---- | ----- | ---- | ----
+--- | --- | --- | ---
 2-1 | Shark Island (Pirate) | F | War Panda
 2-2 | *N/A*
 2-3 | Tenderfoot Trail (Wyldwood) | S | Thunder Lancer
@@ -754,7 +754,7 @@ B-5 | Assembly Lane (Factory) | I | War Master Chariot
 
 ### Chapter 3
 \#  | Track | Mode | Kart
---- | ----- | ---- | ----
+--- | --- | --- | ---
 3-1 | *N/A*
 3-2 | Secrets of the Temple (Fairy) | S | Thunder Lancer
 3-3 | Pirate's Cay (Pirate) | Em | Monowheeler
@@ -768,7 +768,7 @@ B-5 | Assembly Lane (Factory) | I | War Master Chariot
 
 ### Bonus
 \#  | Track | Mode | Kart
---- | ----- | ---- | ----
+--- | --- | --- | ---
 B-1 | Namsan Tour (Village) | Em | Starship Solid
 B-2 | Lumberjack Lane (Wyldwood) | I | War Master Chariot
 B-3 | Hidden Treasure (Pirate) | Esc | Lodi Pyron
@@ -780,7 +780,7 @@ B-5 | Checkered Flag Falls (Wyldwood) | I | War Master Chariot
 
 ### Chapter 1
 \#  | Track | Mode | Kart
---- | ----- | ---- | ----
+--- | --- | --- | ---
 1-1 | Shipping Lanes (Beach) | S | Zeno Hyper
 1-2 | Water Aerodrome (Beach) | F | Skeletank D
 1-3 | *N/A*
@@ -794,7 +794,7 @@ B-5 | Checkered Flag Falls (Wyldwood) | I | War Master Chariot
 
 ### Chapter 2
 \#  | Track | Mode | Kart
---- | ----- | ---- | ----
+--- | --- | --- | ---
 2-1 | [R] Up 'N' Down (Village) | S | Jolly Roadster
 2-2 | Water Slide (Park) | L | Grappler
 2-3 | Thrill Ride (Park) | S | Jolly Roadster
@@ -808,7 +808,7 @@ B-5 | Checkered Flag Falls (Wyldwood) | I | War Master Chariot
 
 ### Chapter 3
 \#  | Track | Mode | Kart
---- | ----- | ---- | ----
+--- | --- | --- | ---
 3-1 | Witch City (Storybook) | R | Grappler
 3-2 | Knobbly Log Lane (Fairy) | Tr | Sharkbiter Gold
 3-3 | Handy Harbor (Village) | Esc | Infinity Ranger
@@ -822,7 +822,7 @@ B-5 | Checkered Flag Falls (Wyldwood) | I | War Master Chariot
 
 ### Bonus
 \#  | Track | Mode | Kart
---- | ----- | ---- | ----
+--- | --- | --- | ---
 B-1 | Party Arena (Park) | L | Zeno Hyper
 B-2 | 360 Tower (Park) | Esc | Infinity Ranger
 B-3 | Party Arena (Park) | I | Monster Gold
@@ -834,7 +834,7 @@ B-5 | Witch City (Storybook) | Tr | Monster Gold
 
 ### Chapter 1
 \#  | Track | Mode | Kart
---- | ----- | ---- | ----
+--- | --- | --- | ---
 1-1 | Panda Paradise (Wyldwood) | S | Zeno Hyper
 1-2 | Granite Pass (Wyldwood) | C | Monster Gold
 1-3 | *N/A*
@@ -848,7 +848,7 @@ B-5 | Witch City (Storybook) | Tr | Monster Gold
 
 ### Chapter 2
 \#  | Track | Mode | Kart
---- | ----- | ---- | ----
+--- | --- | --- | ---
 2-1 | Lumberjack Lane (Wyldwood) | R | Lodi Mercury
 2-2 | Falcon's Reach (Gold) | S | Zeno Hyper
 2-3 | Dragon's Descent (Sword) | F | Red Bumper Kart
@@ -862,7 +862,7 @@ B-5 | Witch City (Storybook) | Tr | Monster Gold
 
 ### Chapter 3
 \#  | Track | Mode | Kart
---- | ----- | ---- | ----
+--- | --- | --- | ---
 3-1 | Assembly Lane (Factory) | C | Red Bumper Kart
 3-2 | *N/A*
 3-3 | Mysterious Lab (Brodi) | Tr | Zeno Hyper
@@ -876,9 +876,26 @@ B-5 | Witch City (Storybook) | Tr | Monster Gold
 
 ### Bonus
 \#  | Track | Mode | Kart
---- | ----- | ---- | ----
+--- | --- | --- | ---
 B-1 | Fairy Snail Pass (Fairy) | Esc | Monster Gold
 B-2 | Sheep Crossing (Wyldwood) | S | Super Cotton
 B-3 | Training Center (Sword) | C | Zeno Hyper
 B-4 | Rickety Bridge (Wyldwood) | S | Zeno Hyper
 B-5 | Line of Fire (Mechanic) | Tr | Super Cotton
+
+
+## Moonlight
+
+### Chapter 1
+\#  | Track | Mode | Kart
+--- | ---   | ---  | ---
+1-1 | Boomhill Tunnel (Village) | F | Monster
+1-2 | Downtown Dubai (World) | Em | Mini School Bus
+1-3 | *N/A*
+1-4 | Paris Grand Prix (World)
+1-5 | *N/A*
+1-6 | Rainslick Raceway (Moonhill)
+1-7 | The Forgotten City (Mechanic)
+1-8 | Shanghai Nights (China)
+1-9 | Boomhill Tunnel (Village)
+1-10 | *N/A*
