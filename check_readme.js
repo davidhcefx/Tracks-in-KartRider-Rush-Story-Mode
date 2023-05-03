@@ -12,7 +12,7 @@ function getTracklist(tracksFile) {
   const tracks = fs.readFileSync(tracksFile, { encoding: 'utf8' })
     .split('\n')
     .map((ln) => ln.split('|'))
-    .filter((row) => row.length >= 4 && !row[1].includes('--'))
+    .filter((row) => row.length >= 3 && !row[1].includes('--'))
     .map((row) => row[1].trim());
   return new Set(tracks);
 }
